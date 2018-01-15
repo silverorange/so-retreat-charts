@@ -1,0 +1,27 @@
+.chart__bar {
+  fill: #d7e6a3;
+}
+
+.chart__x-axis .domain {
+  stroke: #8dd8d3;
+}
+
+.chart__x-axis .tick text {
+  fill: #fff;
+  font-size: 14px;
+  padding-top: 5px;
+}
+
+.chart__y-axis .domain,
+.chart__y-axis__grid .domain {
+  display: none;
+}
+
+.chart__y-axis__grid .tick line {
+  stroke: #0b6374;
+}
+
+.chart__y-axis__grid .tick text {
+  fill: #fff;
+  font-size: 14px;
+}
