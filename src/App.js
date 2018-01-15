@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import PullRequestChart from './PullRequestChart';
 import SiteReleasesChart from './SiteReleasesChart';
