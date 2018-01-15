@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import * as d3 from 'd3';
-import createPlotlyComponent from 'react-plotlyjs';
 import './Chart.css';
 
 function getBarPath(height, xScale, yScale, d) {
