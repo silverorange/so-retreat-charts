@@ -82,37 +82,6 @@ export default class Chart extends Component {
     const { data } = this.props;
     x.domain(data.map(d => d.year));
 
-    const filter = svg
-      .append('defs')
-      .append('filter')
-      .attr('id', 'shadow');
-
-    filter
-      .append('feOffset')
-      .attr('dx', '0')
-      .attr('dy', '0')
-      .attr('in', 'SourceAlpha')
-      .attr('result', 'shadowOffset');
-
-    filter
-      .append('feGaussianBlur')
-      .attr('in', 'shadowOffset')
-      .attr('stdDeviation', '7')
-      .attr('result', 'shadowBlur');
-
-    filter
-      .append('feColorMatrix')
-      .attr('in', 'shadowBlur')
-      .attr('values', '0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.3 0')
-      .attr('type', 'matrix')
-      .attr('result', 'color');
-
-    filter
-      .append('feBlend')
-      .attr('in', 'SourceGraphic')
-      .attr('in2', 'color')
-      .attr('mode', 'normal');
-
     svg
       .append('rect')
       .attr('class', 'chart__fill')
