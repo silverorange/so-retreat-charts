@@ -141,7 +141,7 @@ export default class Chart extends Component {
       .attr('dx', '0')
       .attr('dy', '0')
       .attr('text-anchor', 'middle')
-      .attr('font-size', style.labels.size * 1.5)
+      .attr('font-size', style.labels.size * (data.length > 8 ? 1.0 : 1.5))
       .attr('font-weight', 'bold')
       .attr('fill', style.labels.color);
 
@@ -173,7 +173,7 @@ export default class Chart extends Component {
     img.onload = () => {
       context.drawImage(img, 0, 0);
       URL.revokeObjectURL(svgURL);
-      const pngURL = this.canvas.toDataURL();
+      // const pngURL = this.canvas.toDataURL();
     };
 
     img.src = svgURL;
