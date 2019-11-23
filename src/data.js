@@ -133,8 +133,8 @@ export default {
     ]
   },
   showAndTells2017: {
-    domain: [0, 25],
-    ticks: 5,
+    domain: [0, 20],
+    ticks: 4,
     data: [
       {
         year: 'February',
@@ -142,7 +142,7 @@ export default {
       },
       {
         year: 'March',
-        value: 14
+        value: 13
       },
       {
         year: 'April',
@@ -154,11 +154,11 @@ export default {
       },
       {
         year: 'June',
-        value: 9
+        value: 8
       },
       {
         year: 'July',
-        value: 3
+        value: 8
       },
       {
         year: 'August',
