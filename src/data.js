@@ -33,7 +33,7 @@ export default {
     ]
   },
   siteReleases: {
-    domain: [0, 800],
+    domain: [0, 900],
     ticks: 8,
     data: [
       {
@@ -59,7 +59,7 @@ export default {
     ]
   },
   repositories: {
-    domain: [0, 160],
+    domain: [0, 180],
     ticks: 8,
     data: [
       {
@@ -105,8 +105,12 @@ export default {
         value: 7
       },
       {
-        year: '2018—',
+        year: 2018,
         value: 10
+      },
+      {
+        year: '2019—',
+        value: 8
       }
     ]
   },
@@ -183,8 +187,8 @@ export default {
     ]
   },
   showAndTells2018: {
-    domain: [0, 20],
-    ticks: 6,
+    domain: [0, 15],
+    ticks: 5,
     data: [
       {
         year: 'January',
@@ -228,49 +232,53 @@ export default {
       },
       {
         year: 'November',
-        value: 1
+        value: 3
       }
     ]
   },
   showAndTells2019: {
-    domain: [0, 20],
-    ticks: 6,
+    domain: [0, 15],
+    ticks: 5,
     data: [
       {
+        year: 'December',
+        value: 11
+      },
+      {
         year: 'January',
-        value: 9
+        value: 8
       },
       {
         year: 'February',
-        value: 10
+        value: 14
       },
       {
         year: 'March',
-        value: 6
+        value: 10
       },
       {
         year: 'April',
-        value: 9
-      },
-      {
-        year: 'May',
-        value: 9
-      },
-      {
-        year: 'June',
-        value: 4
-      },
-      {
-        year: 'July',
         value: 7
       },
       {
+        year: 'May',
+        value: 12
+      },
+      {
+        year: 'June',
+        value: 8
+      },
+      {
+        year: 'July',
+        value: 2
+      },
+      {
         year: 'August',
-        value: 3
+        value: 7
       },
       {
         year: 'September',
-        value: 10
+        value: 8
       },
       {
         year: 'October',
@@ -278,7 +286,7 @@ export default {
       },
       {
         year: 'November',
-        value: 1
+        value: 5
       }
     ]
   },
@@ -321,8 +329,8 @@ export default {
     ]
   },
   platforms2018: {
-    domain: [0, 14],
-    ticks: 7,
+    domain: [0, 18],
+    ticks: 8,
     data: [
       {
         year: 'Legacy PHP',
@@ -345,16 +353,38 @@ export default {
         value: 6
       },
       {
-        year: 'Ember',
-        value: 1
+        year: 'Other',
+        value: 4
+      }
+    ]
+  },
+  platforms2019: {
+    domain: [0, 18],
+    ticks: 8,
+    data: [
+      {
+        year: 'Legacy PHP',
+        value: 13
       },
       {
-        year: 'Laravel',
-        value: 1
+        year: 'Node',
+        value: 18
+      },
+      {
+        year: 'React',
+        value: 15
+      },
+      {
+        year: 'iOS',
+        value: 6
+      },
+      {
+        year: 'Android',
+        value: 6
       },
       {
         year: 'Other',
-        value: 2
+        value: 7
       }
     ]
   }
