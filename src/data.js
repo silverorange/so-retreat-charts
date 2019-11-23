@@ -23,8 +23,12 @@ export default {
         value: 3375
       },
       {
-        year: '2018—',
+        year: 2018,
         value: 2797
+      },
+      {
+        year: '2019—',
+        value: 2482
       }
     ]
   },
@@ -45,8 +49,12 @@ export default {
         value: 753
       },
       {
-        year: '2018—',
+        year: 2018,
         value: 659
+      },
+      {
+        year: '2019—',
+        value: 851
       }
     ]
   },
@@ -67,8 +75,12 @@ export default {
         value: 128
       },
       {
-        year: '2018—',
+        year: 2018,
         value: 154
+      },
+      {
+        year: '2019—',
+        value: 169
       }
     ]
   },
@@ -154,23 +166,119 @@ export default {
       },
       {
         year: 'September',
-        value: 21
+        value: 17
       },
       {
         year: 'October',
-        value: 12
+        value: 9
       },
       {
         year: 'November',
-        value: 14
+        value: 10
       },
       {
         year: 'December',
-        value: 8
-      },
+        value: 4
+      }
+    ]
+  },
+  showAndTells2018: {
+    domain: [0, 20],
+    ticks: 6,
+    data: [
       {
         year: 'January',
-        value: 11
+        value: 9
+      },
+      {
+        year: 'February',
+        value: 10
+      },
+      {
+        year: 'March',
+        value: 6
+      },
+      {
+        year: 'April',
+        value: 9
+      },
+      {
+        year: 'May',
+        value: 9
+      },
+      {
+        year: 'June',
+        value: 4
+      },
+      {
+        year: 'July',
+        value: 7
+      },
+      {
+        year: 'August',
+        value: 3
+      },
+      {
+        year: 'September',
+        value: 10
+      },
+      {
+        year: 'October',
+        value: 5
+      },
+      {
+        year: 'November',
+        value: 1
+      }
+    ]
+  },
+  showAndTells2019: {
+    domain: [0, 20],
+    ticks: 6,
+    data: [
+      {
+        year: 'January',
+        value: 9
+      },
+      {
+        year: 'February',
+        value: 10
+      },
+      {
+        year: 'March',
+        value: 6
+      },
+      {
+        year: 'April',
+        value: 9
+      },
+      {
+        year: 'May',
+        value: 9
+      },
+      {
+        year: 'June',
+        value: 4
+      },
+      {
+        year: 'July',
+        value: 7
+      },
+      {
+        year: 'August',
+        value: 3
+      },
+      {
+        year: 'September',
+        value: 10
+      },
+      {
+        year: 'October',
+        value: 5
+      },
+      {
+        year: 'November',
+        value: 1
       }
     ]
   },

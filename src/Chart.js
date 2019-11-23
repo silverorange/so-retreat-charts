@@ -4,24 +4,24 @@ import * as d3 from 'd3';
 import './Chart.css';
 
 const chartWidth = 3840;
-const chartHeight = 2160;
+const chartHeight = 1960;
 
 const style = {
   bar: {
-    color: '#d7e6a3',
-    radius: 12
+    color: '#1b8bcd',
+    radius: 0
   },
   grid: {
-    color: 'rgba(11, 99, 116, 0.5)',
+    color: 'rgba(20, 104, 154, 0.4)',
     width: 2
   },
   origin: {
-    color: 'rgba(11, 99, 116, 1)',
+    color: 'rgba(20, 104, 154, 0.7)',
     width: 2
   },
   labels: {
     size: 48,
-    color: '#fff'
+    color: '#1b243b'
   }
 };
 

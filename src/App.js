@@ -4,7 +4,7 @@ import data from './data';
 
 import './App.css';
 
-const dataSet = 'platforms2018';
+const dataSet = 'pullRequests';
 
 export default function App() {
   return (
