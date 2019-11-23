@@ -142,6 +142,7 @@ export default class Chart extends Component {
       .attr('dy', '0')
       .attr('text-anchor', 'middle')
       .attr('font-size', style.labels.size * 1.5)
+      .attr('font-weight', 'bold')
       .attr('fill', style.labels.color);
 
     svg
