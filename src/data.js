@@ -1,36 +1,40 @@
 // 29 CFSC API deploys to EB
 // 91 deploys by Noel and Robert
 
-export default {
+const data = {
   pullRequests: {
     domain: [0, 3500],
     ticks: 8,
     data: [
       {
         year: 2014,
-        value: 2029
+        value: 2029,
       },
       {
         year: 2015,
-        value: 2209
+        value: 2209,
       },
       {
         year: 2016,
-        value: 2418
+        value: 2418,
       },
       {
         year: 2017,
-        value: 3375
+        value: 3375,
       },
       {
         year: 2018,
-        value: 2797
+        value: 2797,
       },
       {
         year: '2019—',
-        value: 2482
-      }
-    ]
+        value: 2482,
+      },
+      {
+        year: '2020—',
+        value: 2324,
+      },
+    ],
   },
   siteReleases: {
     domain: [0, 900],
@@ -38,25 +42,25 @@ export default {
     data: [
       {
         year: 2015,
-        value: 244
+        value: 244,
       },
       {
         year: 2016,
-        value: 516
+        value: 516,
       },
       {
         year: 2017,
-        value: 753
+        value: 753,
       },
       {
         year: 2018,
-        value: 659
+        value: 659,
       },
       {
         year: '2019—',
-        value: 851
-      }
-    ]
+        value: 851,
+      },
+    ],
   },
   repositories: {
     domain: [0, 180],
@@ -64,25 +68,25 @@ export default {
     data: [
       {
         year: 2015,
-        value: 70
+        value: 70,
       },
       {
         year: 2016,
-        value: 103
+        value: 103,
       },
       {
         year: 2017,
-        value: 128
+        value: 128,
       },
       {
         year: 2018,
-        value: 154
+        value: 154,
       },
       {
         year: '2019—',
-        value: 169
-      }
-    ]
+        value: 169,
+      },
+    ],
   },
   iOSReleases: {
     domain: [0, 30],
@@ -90,29 +94,29 @@ export default {
     data: [
       {
         year: 2014,
-        value: 3
+        value: 3,
       },
       {
         year: 2015,
-        value: 23
+        value: 23,
       },
       {
         year: 2016,
-        value: 19
+        value: 19,
       },
       {
         year: 2017,
-        value: 7
+        value: 7,
       },
       {
         year: 2018,
-        value: 10
+        value: 10,
       },
       {
         year: '2019—',
-        value: 8
-      }
-    ]
+        value: 8,
+      },
+    ],
   },
   androidReleases: {
     domain: [0, 30],
@@ -120,21 +124,21 @@ export default {
     data: [
       {
         year: 2015,
-        value: 25
+        value: 25,
       },
       {
         year: 2016,
-        value: 16
+        value: 16,
       },
       {
         year: 2017,
-        value: 7
+        value: 7,
       },
       {
         year: '2018—',
-        value: 5
-      }
-    ]
+        value: 5,
+      },
+    ],
   },
   showAndTells2017: {
     domain: [0, 20],
@@ -142,49 +146,49 @@ export default {
     data: [
       {
         year: 'February',
-        value: 9
+        value: 9,
       },
       {
         year: 'March',
-        value: 13
+        value: 13,
       },
       {
         year: 'April',
-        value: 4
+        value: 4,
       },
       {
         year: 'May',
-        value: 9
+        value: 9,
       },
       {
         year: 'June',
-        value: 8
+        value: 8,
       },
       {
         year: 'July',
-        value: 8
+        value: 8,
       },
       {
         year: 'August',
-        value: 5
+        value: 5,
       },
       {
         year: 'September',
-        value: 17
+        value: 17,
       },
       {
         year: 'October',
-        value: 9
+        value: 9,
       },
       {
         year: 'November',
-        value: 10
+        value: 10,
       },
       {
         year: 'December',
-        value: 4
-      }
-    ]
+        value: 4,
+      },
+    ],
   },
   showAndTells2018: {
     domain: [0, 15],
@@ -192,49 +196,49 @@ export default {
     data: [
       {
         year: 'January',
-        value: 9
+        value: 9,
       },
       {
         year: 'February',
-        value: 10
+        value: 10,
       },
       {
         year: 'March',
-        value: 6
+        value: 6,
       },
       {
         year: 'April',
-        value: 9
+        value: 9,
       },
       {
         year: 'May',
-        value: 9
+        value: 9,
       },
       {
         year: 'June',
-        value: 4
+        value: 4,
       },
       {
         year: 'July',
-        value: 7
+        value: 7,
       },
       {
         year: 'August',
-        value: 3
+        value: 3,
       },
       {
         year: 'September',
-        value: 10
+        value: 10,
       },
       {
         year: 'October',
-        value: 5
+        value: 5,
       },
       {
         year: 'November',
-        value: 3
-      }
-    ]
+        value: 3,
+      },
+    ],
   },
   showAndTells2019: {
     domain: [0, 15],
@@ -242,53 +246,53 @@ export default {
     data: [
       {
         year: 'December',
-        value: 11
+        value: 11,
       },
       {
         year: 'January',
-        value: 8
+        value: 8,
       },
       {
         year: 'February',
-        value: 14
+        value: 14,
       },
       {
         year: 'March',
-        value: 10
+        value: 10,
       },
       {
         year: 'April',
-        value: 7
+        value: 7,
       },
       {
         year: 'May',
-        value: 12
+        value: 12,
       },
       {
         year: 'June',
-        value: 8
+        value: 8,
       },
       {
         year: 'July',
-        value: 2
+        value: 2,
       },
       {
         year: 'August',
-        value: 7
+        value: 7,
       },
       {
         year: 'September',
-        value: 8
+        value: 8,
       },
       {
         year: 'October',
-        value: 5
+        value: 5,
       },
       {
         year: 'November',
-        value: 5
-      }
-    ]
+        value: 5,
+      },
+    ],
   },
   platforms2017: {
     domain: [0, 14],
@@ -296,37 +300,37 @@ export default {
     data: [
       {
         year: 'Legacy PHP',
-        value: 11
+        value: 11,
       },
       {
         year: 'Node',
-        value: 9
+        value: 9,
       },
       {
         year: 'React',
-        value: 6
+        value: 6,
       },
       {
         year: 'iOS',
-        value: 4
+        value: 4,
       },
       {
         year: 'Android',
-        value: 4
+        value: 4,
       },
       {
         year: 'Ember',
-        value: 1
+        value: 1,
       },
       {
         year: 'Laravel',
-        value: 1
+        value: 1,
       },
       {
         year: 'Other',
-        value: 2
-      }
-    ]
+        value: 2,
+      },
+    ],
   },
   platforms2018: {
     domain: [0, 18],
@@ -334,29 +338,29 @@ export default {
     data: [
       {
         year: 'Legacy PHP',
-        value: 13
+        value: 13,
       },
       {
         year: 'Node',
-        value: 13
+        value: 13,
       },
       {
         year: 'React',
-        value: 13
+        value: 13,
       },
       {
         year: 'iOS',
-        value: 6
+        value: 6,
       },
       {
         year: 'Android',
-        value: 6
+        value: 6,
       },
       {
         year: 'Other',
-        value: 4
-      }
-    ]
+        value: 4,
+      },
+    ],
   },
   platforms2019: {
     domain: [0, 18],
@@ -364,28 +368,30 @@ export default {
     data: [
       {
         year: 'Legacy PHP',
-        value: 13
+        value: 13,
       },
       {
         year: 'Node',
-        value: 18
+        value: 18,
       },
       {
         year: 'React',
-        value: 15
+        value: 15,
       },
       {
         year: 'iOS',
-        value: 6
+        value: 6,
       },
       {
         year: 'Android',
-        value: 6
+        value: 6,
       },
       {
         year: 'Other',
-        value: 7
-      }
-    ]
-  }
+        value: 7,
+      },
+    ],
+  },
 };
+
+export default data;

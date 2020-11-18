@@ -9,20 +9,20 @@ const chartHeight = 1960;
 const style = {
   bar: {
     color: '#1b8bcd',
-    radius: 0
+    radius: 0,
   },
   grid: {
     color: 'rgba(20, 104, 154, 0.4)',
-    width: 2
+    width: 2,
   },
   origin: {
     color: 'rgba(20, 104, 154, 0.7)',
-    width: 2
+    width: 2,
   },
   labels: {
     size: 48,
-    color: '#1b243b'
-  }
+    color: '#1b243b',
+  },
 };
 
 function getBarPath(height, xScale, yScale, d) {
@@ -31,8 +31,9 @@ function getBarPath(height, xScale, yScale, d) {
   const y = yScale(d.value);
   const h = height - yScale(d.value);
   const r = style.bar.radius;
-  return `M${x + r},${y} A${r},${r} 0 0,0 ${x},${y + r} L${x},${y + h} L${x +
-    w},${y + h} L${x + w},${y + r} A${r},${r} 0 0,0 ${x + w - r},${y} Z`;
+  return `M${x + r},${y} A${r},${r} 0 0,0 ${x},${y + r} L${x},${y + h} L${
+    x + w
+  },${y + h} L${x + w},${y + r} A${r},${r} 0 0,0 ${x + w - r},${y} Z`;
 }
 
 export default class Chart extends Component {
@@ -58,10 +59,7 @@ export default class Chart extends Component {
       .domain(this.props.yDomain)
       .rangeRound([height, 0]);
 
-    const xAxis = d3
-      .axisBottom()
-      .scale(x)
-      .tickSize(0);
+    const xAxis = d3.axisBottom().scale(x).tickSize(0);
 
     // create yAxis grid
     const yAxis = d3
@@ -80,7 +78,7 @@ export default class Chart extends Component {
       .attr('transform', `translate(${margin.left}, ${margin.top})`);
 
     const { data } = this.props;
-    x.domain(data.map(d => d.year));
+    x.domain(data.map((d) => d.year));
 
     svg
       .append('rect')
@@ -115,15 +113,12 @@ export default class Chart extends Component {
       .attr('stroke', style.grid.color)
       .attr('stroke-width', style.grid.width);
 
-    const bars = svg
-      .selectAll('.bar')
-      .data(data)
-      .enter();
+    const bars = svg.selectAll('.bar').data(data).enter();
     bars
       .append('path')
       .attr('class', 'chart__bar')
       .attr('fill', style.bar.color)
-      .attr('d', d => getBarPath(height, x, y, d));
+      .attr('d', (d) => getBarPath(height, x, y, d));
 
     svg
       .append('g')
@@ -164,7 +159,7 @@ export default class Chart extends Component {
       this.div.getElementsByTagName('svg')[0]
     );
     const svgBlob = new Blob([svgString], {
-      type: 'image/svg+xml;charset=utf-8'
+      type: 'image/svg+xml;charset=utf-8',
     });
     const context = this.canvas.getContext('2d');
     const svgURL = URL.createObjectURL(svgBlob);
@@ -182,14 +177,14 @@ export default class Chart extends Component {
     return (
       <div>
         <div
-          ref={ref => {
+          ref={(ref) => {
             this.div = ref;
           }}
         />
         <canvas
           width={chartWidth}
           height={chartHeight}
-          ref={ref => {
+          ref={(ref) => {
             this.canvas = ref;
           }}
         />
@@ -201,7 +196,7 @@ export default class Chart extends Component {
 Chart.defaultProps = {
   yTicks: 8,
   yDomain: [0, 100],
-  data: []
+  data: [],
 };
 
 Chart.propTypes = {
@@ -210,7 +205,7 @@ Chart.propTypes = {
   data: PropTypes.arrayOf(
     PropTypes.shape({
       year: PropTypes.number.isRequired,
-      value: PropTypes.number.isRequired
+      value: PropTypes.number.isRequired,
     })
-  )
+  ),
 };
