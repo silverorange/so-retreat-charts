@@ -1,12 +1,12 @@
 import React from 'react';
-import Chart from './Chart';
+import { Chart } from './Chart';
 import data from './data';
 
 import './App.css';
 
 const dataSet = 'pullRequests';
 
-export default function App() {
+export function App() {
   return (
     <div className="App">
       <Chart

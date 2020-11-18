@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
-import PropTypes from 'prop-types';
 import * as d3 from 'd3';
+
 import './Chart.css';
+import { ScaleBand, ScaleLinear } from 'd3';
 
 const chartWidth = 3840;
 const chartHeight = 1960;
@@ -25,8 +26,13 @@ const style = {
   },
 };
 
-function getBarPath(height, xScale, yScale, d) {
-  const x = xScale(d.year);
+function getBarPath(
+  height: number,
+  xScale: ScaleBand<number | string>,
+  yScale: ScaleLinear<number, number, never>,
+  d: Datum
+): string {
+  const x = xScale(d.year) || 0;
   const w = xScale.bandwidth();
   const y = yScale(d.value);
   const h = height - yScale(d.value);
@@ -36,37 +42,46 @@ function getBarPath(height, xScale, yScale, d) {
   },${y + h} L${x + w},${y + r} A${r},${r} 0 0,0 ${x + w - r},${y} Z`;
 }
 
-export default class Chart extends Component {
-  constructor(props) {
+interface Datum {
+  year: number | string;
+  value: number;
+}
+
+interface Props {
+  yTicks?: number;
+  yDomain?: number[];
+  data: Datum[];
+}
+
+export class Chart extends Component<Props> {
+  private div: HTMLDivElement | null;
+  private canvas: HTMLCanvasElement | null;
+
+  constructor(props: Props) {
     super(props);
     this.div = null;
     this.canvas = null;
   }
 
-  componentDidMount() {
+  public componentDidMount() {
+    const { yDomain = [0, 100], yTicks = 8, data } = this.props;
+
     const margin = { top: 20, right: 0, bottom: 120, left: 200 };
     const width = chartWidth - margin.left - margin.right;
     const height = chartHeight - margin.top - margin.bottom;
 
     const x = d3
-      .scaleBand()
+      .scaleBand<number | string>()
       .rangeRound([0, width])
       .paddingInner(0.4)
       .paddingOuter(0.8);
 
-    const y = d3
-      .scaleLinear()
-      .domain(this.props.yDomain)
-      .rangeRound([height, 0]);
+    const y = d3.scaleLinear().domain(yDomain).rangeRound([height, 0]);
 
-    const xAxis = d3.axisBottom().scale(x).tickSize(0);
+    const xAxis = d3.axisBottom(x).tickSize(0);
 
     // create yAxis grid
-    const yAxis = d3
-      .axisLeft()
-      .scale(y)
-      .ticks(this.props.yTicks)
-      .tickSize(-width);
+    const yAxis = d3.axisLeft(y).ticks(yTicks).tickSize(-width);
 
     const svg = d3
       .select(this.div)
@@ -77,7 +92,6 @@ export default class Chart extends Component {
       .attr('class', 'chart')
       .attr('transform', `translate(${margin.left}, ${margin.top})`);
 
-    const { data } = this.props;
     x.domain(data.map((d) => d.year));
 
     svg
@@ -153,27 +167,33 @@ export default class Chart extends Component {
 
     this.svgToPng();
   }
-  svgToPng() {
-    const xms = new XMLSerializer();
-    const svgString = xms.serializeToString(
-      this.div.getElementsByTagName('svg')[0]
-    );
-    const svgBlob = new Blob([svgString], {
-      type: 'image/svg+xml;charset=utf-8',
-    });
-    const context = this.canvas.getContext('2d');
-    const svgURL = URL.createObjectURL(svgBlob);
-    const img = new Image();
 
-    img.onload = () => {
-      context.drawImage(img, 0, 0);
-      URL.revokeObjectURL(svgURL);
-      // const pngURL = this.canvas.toDataURL();
-    };
+  public svgToPng() {
+    if (this.div && this.canvas) {
+      const xms = new XMLSerializer();
+      const svgString = xms.serializeToString(
+        this.div.getElementsByTagName('svg')[0]
+      );
+      const svgBlob = new Blob([svgString], {
+        type: 'image/svg+xml;charset=utf-8',
+      });
+      const context = this.canvas.getContext('2d');
+      const svgURL = URL.createObjectURL(svgBlob);
+      const img = new Image();
 
-    img.src = svgURL;
+      if (context) {
+        img.onload = () => {
+          context.drawImage(img, 0, 0);
+          URL.revokeObjectURL(svgURL);
+          // const pngURL = this.canvas.toDataURL();
+        };
+      }
+
+      img.src = svgURL;
+    }
   }
-  render() {
+
+  public render() {
     return (
       <div>
         <div
@@ -192,20 +212,3 @@ export default class Chart extends Component {
     );
   }
 }
-
-Chart.defaultProps = {
-  yTicks: 8,
-  yDomain: [0, 100],
-  data: [],
-};
-
-Chart.propTypes = {
-  yTicks: PropTypes.number,
-  yDomain: PropTypes.arrayOf(PropTypes.number),
-  data: PropTypes.arrayOf(
-    PropTypes.shape({
-      year: PropTypes.number.isRequired,
-      value: PropTypes.number.isRequired,
-    })
-  ),
-};
