@@ -143,6 +143,29 @@ export const androidReleases = {
   ],
 };
 
+export const showAndTells = {
+  domain: [0, 20],
+  ticks: 4,
+  data: [
+    {
+      year: '2017',
+      value: 96,
+    },
+    {
+      year: '2018',
+      value: 86,
+    },
+    {
+      year: '2019',
+      value: 89,
+    },
+    {
+      year: '2020—',
+      value: 35,
+    },
+  ],
+};
+
 export const showAndTells2017 = {
   domain: [0, 20],
   ticks: 4,
@@ -244,6 +267,7 @@ export const showAndTells2018 = {
     },
   ],
 };
+
 export const showAndTells2019 = {
   domain: [0, 15],
   ticks: 5,
@@ -295,6 +319,61 @@ export const showAndTells2019 = {
     {
       year: 'November',
       value: 5,
+    },
+  ],
+};
+
+export const showAndTells2020 = {
+  domain: [0, 15],
+  ticks: 5,
+  data: [
+    {
+      year: 'December',
+      value: 3,
+    },
+    {
+      year: 'January',
+      value: 8,
+    },
+    {
+      year: 'February',
+      value: 3,
+    },
+    {
+      year: 'March',
+      value: 4,
+    },
+    {
+      year: 'April',
+      value: 4,
+    },
+    {
+      year: 'May',
+      value: 8,
+    },
+    {
+      year: 'June',
+      value: 3,
+    },
+    {
+      year: 'July',
+      value: 7,
+    },
+    {
+      year: 'August',
+      value: 3,
+    },
+    {
+      year: 'September',
+      value: 4,
+    },
+    {
+      year: 'October',
+      value: 7,
+    },
+    {
+      year: 'November',
+      value: 4,
     },
   ],
 };
@@ -368,6 +447,7 @@ export const platforms2018 = {
     },
   ],
 };
+
 export const platforms2019 = {
   domain: [0, 18],
   ticks: 8,
