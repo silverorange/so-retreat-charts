@@ -26,9 +26,20 @@ const style = {
   },
 };
 
+interface Datum {
+  year: string;
+  value: number;
+}
+
+interface Props {
+  yTicks?: number;
+  yDomain?: number[];
+  data: Datum[];
+}
+
 function getBarPath(
   height: number,
-  xScale: ScaleBand<number | string>,
+  xScale: ScaleBand<Datum['year']>,
   yScale: ScaleLinear<number, number, never>,
   d: Datum
 ): string {
@@ -40,17 +51,6 @@ function getBarPath(
   return `M${x + r},${y} A${r},${r} 0 0,0 ${x},${y + r} L${x},${y + h} L${
     x + w
   },${y + h} L${x + w},${y + r} A${r},${r} 0 0,0 ${x + w - r},${y} Z`;
-}
-
-interface Datum {
-  year: number | string;
-  value: number;
-}
-
-interface Props {
-  yTicks?: number;
-  yDomain?: number[];
-  data: Datum[];
 }
 
 export class Chart extends Component<Props> {
@@ -71,7 +71,7 @@ export class Chart extends Component<Props> {
     const height = chartHeight - margin.top - margin.bottom;
 
     const x = d3
-      .scaleBand<number | string>()
+      .scaleBand<Datum['year']>()
       .rangeRound([0, width])
       .paddingInner(0.4)
       .paddingOuter(0.8);
