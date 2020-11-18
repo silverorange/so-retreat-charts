@@ -1,6 +1,6 @@
 import React from 'react';
 import { Chart } from './Chart';
-import data from './data';
+import * as data from './data';
 
 import './App.css';
 
