@@ -4,7 +4,7 @@ import * as data from './data';
 
 import './App.css';
 
-const dataSet = 'pullRequests';
+const dataSet = 'showAndTells';
 
 export function App() {
   return (

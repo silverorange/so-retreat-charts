@@ -144,7 +144,7 @@ export const androidReleases = {
 };
 
 export const showAndTells = {
-  domain: [0, 20],
+  domain: [0, 100],
   ticks: 4,
   data: [
     {

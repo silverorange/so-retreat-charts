@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import * as d3 from 'd3';
+import { ScaleBand, ScaleLinear } from 'd3';
 
 import './Chart.css';
-import { ScaleBand, ScaleLinear } from 'd3';
 
 const chartWidth = 3840;
 const chartHeight = 1960;
