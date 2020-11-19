@@ -191,9 +191,14 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data }: Props) {
   }, [yDomain, yTicks, data, divRef, canvasRef]);
 
   return (
-    <div>
-      <div ref={divRef} />
-      <canvas width={chartWidth} height={chartHeight} ref={canvasRef} />
+    <div className="chart">
+      <div className="chart__div" ref={divRef} />
+      <canvas
+        className="chart__canvas"
+        width={chartWidth}
+        height={chartHeight}
+        ref={canvasRef}
+      />
     </div>
   );
 }
