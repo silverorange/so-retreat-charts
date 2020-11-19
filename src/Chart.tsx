@@ -10,7 +10,7 @@ const chartHeight = 1960;
 const style = {
   bar: {
     color: '#1b8bcd',
-    radius: 0,
+    radius: 10,
   },
   grid: {
     color: 'rgba(20, 104, 154, 0.4)',
@@ -23,8 +23,20 @@ const style = {
   labels: {
     size: 48,
     color: '#1b243b',
-    fontFamily: "'Times New Roman', Times, serif",
+    fontFamily: 'Futura, serif',
     fontWeight: 'bold',
+  },
+  dataLabels: {
+    size: 48,
+    color: '#1b243b',
+    fontFamily: 'Futura, serif',
+    fontWeight: 'medium',
+  },
+  dataLabelBackgrounds: {
+    fill: '#fff',
+    stroke: '#000',
+    strokeWidth: 4,
+    radius: 10,
   },
 };
 
@@ -134,6 +146,47 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data }: Props) {
       .attr('class', 'chart__bar')
       .attr('fill', style.bar.color)
       .attr('d', (d) => getBarPath(height, x, y, d));
+
+    bars
+      .append('rect')
+      .attr('fill', style.dataLabelBackgrounds.fill)
+      .attr('stroke', style.dataLabelBackgrounds.stroke)
+      .attr('strokeWidth', style.dataLabelBackgrounds.strokeWidth)
+      .attr('rx', style.dataLabelBackgrounds.radius)
+      .attr('x', (d) => {
+        return (x(d.year) || 0) + x.bandwidth() * 0.1;
+      })
+      .attr('y', (d) => {
+        return (
+          y(d.value) -
+          0.9 * style.dataLabels.size * (data.length > 8 ? 1.0 : 1.5)
+        );
+      })
+      .attr('width', x.bandwidth() * 0.8)
+      .attr(
+        'height',
+        1.8 * style.dataLabels.size * (data.length > 8 ? 1.0 : 1.5)
+      );
+
+    g.selectAll('text.bar')
+      .data(data)
+      .enter()
+      .append('text')
+      .attr('text-anchor', 'middle')
+      .attr('dominant-baseline', 'central')
+      .attr('font-size', style.dataLabels.size * (data.length > 8 ? 1.0 : 1.5))
+      .attr('font-weight', style.dataLabels.fontWeight)
+      .attr('font-family', style.dataLabels.fontFamily)
+      .attr('fill', style.dataLabels.color)
+      .attr('x', (d) => {
+        return (x(d.year) || 0) + x.bandwidth() / 2;
+      })
+      .attr('y', (d) => {
+        return y(d.value); // - style.dataLabels.size;
+      })
+      .text((d) => {
+        return d.value.toLocaleString();
+      });
 
     g.append('g')
       .attr('class', 'chart__x-axis')
