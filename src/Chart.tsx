@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { useEffect, useRef } from 'react';
 import * as d3 from 'd3';
 import { ScaleBand, ScaleLinear } from 'd3';
 
@@ -53,18 +53,14 @@ function getBarPath(
   },${y + h} L${x + w},${y + r} A${r},${r} 0 0,0 ${x + w - r},${y} Z`;
 }
 
-export class Chart extends Component<Props> {
-  private div: HTMLDivElement | null;
-  private canvas: HTMLCanvasElement | null;
+export function Chart({ yDomain = [0, 100], yTicks = 8, data }: Props) {
+  const divRef = useRef<HTMLDivElement>(null);
+  const canvasRef = useRef<HTMLCanvasElement>(null);
 
-  constructor(props: Props) {
-    super(props);
-    this.div = null;
-    this.canvas = null;
-  }
-
-  public componentDidMount() {
-    const { yDomain = [0, 100], yTicks = 8, data } = this.props;
+  useEffect(() => {
+    if (!divRef.current || !canvasRef.current) {
+      return;
+    }
 
     const margin = { top: 20, right: 0, bottom: 120, left: 200 };
     const width = chartWidth - margin.left - margin.right;
@@ -80,22 +76,27 @@ export class Chart extends Component<Props> {
 
     const xAxis = d3.axisBottom(x).tickSize(0);
 
-    // create yAxis grid
+    // Create yAxis grid
     const yAxis = d3.axisLeft(y).ticks(yTicks).tickSize(-width);
 
+    // Remove any previous chart SVG
+    d3.select(divRef.current).selectAll('*').remove();
+
+    // Create a new chart SVG
     const svg = d3
-      .select(this.div)
+      .select(divRef.current)
       .append('svg')
       .attr('width', width + margin.left + margin.right)
-      .attr('height', height + margin.top + margin.bottom)
+      .attr('height', height + margin.top + margin.bottom);
+
+    const g = svg
       .append('g')
       .attr('class', 'chart')
       .attr('transform', `translate(${margin.left}, ${margin.top})`);
 
     x.domain(data.map((d) => d.year));
 
-    svg
-      .append('rect')
+    g.append('rect')
       .attr('class', 'chart__fill')
       .attr('x', -margin.left)
       .attr('y', -margin.top)
@@ -104,15 +105,13 @@ export class Chart extends Component<Props> {
       .attr('fill', 'rgba(0, 0, 0, 0)');
 
     // add the Y gridlines, remove top grid line
-    svg
-      .append('g')
+    g.append('g')
       .attr('class', 'chart__y-axis')
       .call(yAxis)
       .selectAll('.tick:last-child')
       .remove();
 
-    svg
-      .selectAll('.chart__y-axis text')
+    g.selectAll('.chart__y-axis text')
       .attr('x', '-24')
       .attr('y', '14')
       .attr('dy', '0')
@@ -120,10 +119,9 @@ export class Chart extends Component<Props> {
       .attr('text-anchor', 'end')
       .attr('fill', style.labels.color);
 
-    svg.selectAll('.chart__y-axis .domain').remove();
+    g.selectAll('.chart__y-axis .domain').remove();
 
-    svg
-      .selectAll('.chart__y-axis line')
+    g.selectAll('.chart__y-axis line')
       .attr('stroke', style.grid.color)
       .attr('stroke-width', style.grid.width);
 
@@ -134,17 +132,15 @@ export class Chart extends Component<Props> {
       .attr('fill', style.bar.color)
       .attr('d', (d) => getBarPath(height, x, y, d));
 
-    svg
-      .append('g')
+    g.append('g')
       .attr('class', 'chart__x-axis')
       .attr('transform', `translate(0, ${height})`)
       .call(xAxis);
 
-    svg.selectAll('.chart__x-axis .domain').remove();
+    g.selectAll('.chart__x-axis .domain').remove();
 
-    svg.selectAll('.chart__x-axis line').remove();
-    svg
-      .selectAll('.chart__x-axis text')
+    g.selectAll('.chart__x-axis line').remove();
+    g.selectAll('.chart__x-axis text')
       .attr('x', '0')
       .attr('y', '96')
       .attr('dx', '0')
@@ -154,8 +150,7 @@ export class Chart extends Component<Props> {
       .attr('font-weight', 'bold')
       .attr('fill', style.labels.color);
 
-    svg
-      .selectAll('.chart__x-axis')
+    g.selectAll('.chart__x-axis')
       .append('line')
       .attr('class', 'chart__origin')
       .attr('x1', 0)
@@ -165,50 +160,40 @@ export class Chart extends Component<Props> {
       .attr('stroke', style.origin.color)
       .attr('stroke-width', style.origin.width);
 
-    this.svgToPng();
-  }
+    const xms = new XMLSerializer();
+    const svgString = xms.serializeToString(svg.node()!);
+    const svgBlob = new Blob([svgString], {
+      type: 'image/svg+xml;charset=utf-8',
+    });
 
-  public svgToPng() {
-    if (this.div && this.canvas) {
-      const xms = new XMLSerializer();
-      const svgString = xms.serializeToString(
-        this.div.getElementsByTagName('svg')[0]
+    const context = canvasRef.current.getContext('2d');
+    const svgURL = URL.createObjectURL(svgBlob);
+    const img = new Image();
+
+    if (context) {
+      // Erase the canvas before drawing the SVG. React does not re-render the
+      // canvas so we need to clear before drawing.
+      context.clearRect(
+        0,
+        0,
+        canvasRef.current.width,
+        canvasRef.current.height
       );
-      const svgBlob = new Blob([svgString], {
-        type: 'image/svg+xml;charset=utf-8',
-      });
-      const context = this.canvas.getContext('2d');
-      const svgURL = URL.createObjectURL(svgBlob);
-      const img = new Image();
 
-      if (context) {
-        img.onload = () => {
-          context.drawImage(img, 0, 0);
-          URL.revokeObjectURL(svgURL);
-          // const pngURL = this.canvas.toDataURL();
-        };
-      }
-
-      img.src = svgURL;
+      img.onload = () => {
+        context.drawImage(img, 0, 0);
+        URL.revokeObjectURL(svgURL);
+        // const pngURL = this.canvas.toDataURL();
+      };
     }
-  }
 
-  public render() {
-    return (
-      <div>
-        <div
-          ref={(ref) => {
-            this.div = ref;
-          }}
-        />
-        <canvas
-          width={chartWidth}
-          height={chartHeight}
-          ref={(ref) => {
-            this.canvas = ref;
-          }}
-        />
-      </div>
-    );
-  }
+    img.src = svgURL;
+  }, [yDomain, yTicks, data, divRef, canvasRef]);
+
+  return (
+    <div>
+      <div ref={divRef} />
+      <canvas width={chartWidth} height={chartHeight} ref={canvasRef} />
+    </div>
+  );
 }
