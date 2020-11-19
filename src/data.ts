@@ -141,8 +141,16 @@ export const androidReleases = {
       value: 7,
     },
     {
-      year: '2018—',
-      value: 5,
+      year: '2018',
+      value: 9,
+    },
+    {
+      year: '2019',
+      value: 2,
+    },
+    {
+      year: '2020—',
+      value: 8,
     },
   ],
 };
