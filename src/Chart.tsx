@@ -91,7 +91,7 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data }: Props) {
 
     const g = svg
       .append('g')
-      .attr('class', 'chart')
+      .attr('class', 'chart__group')
       .attr('transform', `translate(${margin.left}, ${margin.top})`);
 
     x.domain(data.map((d) => d.year));
@@ -125,7 +125,7 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data }: Props) {
       .attr('stroke', style.grid.color)
       .attr('stroke-width', style.grid.width);
 
-    const bars = svg.selectAll('.bar').data(data).enter();
+    const bars = g.selectAll('.bar').data(data).enter();
     bars
       .append('path')
       .attr('class', 'chart__bar')
