@@ -23,6 +23,8 @@ const style = {
   labels: {
     size: 48,
     color: '#1b243b',
+    fontFamily: "'Times New Roman', Times, serif",
+    fontWeight: 'bold',
   },
 };
 
@@ -116,6 +118,7 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data }: Props) {
       .attr('y', '14')
       .attr('dy', '0')
       .attr('font-size', style.labels.size)
+      .attr('font-family', style.labels.fontFamily)
       .attr('text-anchor', 'end')
       .attr('fill', style.labels.color);
 
@@ -147,7 +150,8 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data }: Props) {
       .attr('dy', '0')
       .attr('text-anchor', 'middle')
       .attr('font-size', style.labels.size * (data.length > 8 ? 1.0 : 1.5))
-      .attr('font-weight', 'bold')
+      .attr('font-family', style.labels.fontFamily)
+      .attr('font-weight', style.labels.fontWeight)
       .attr('fill', style.labels.color);
 
     g.selectAll('.chart__x-axis')

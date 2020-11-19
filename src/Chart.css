@@ -2,7 +2,3 @@
   /* This hides the SVG and lets the chart just render as the exportable canvas */
   display: none;
 }
-
-.chart__group text {
-  font-family: Helvetica, sans-serif;
-}
