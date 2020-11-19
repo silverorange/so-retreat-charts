@@ -2,3 +2,8 @@
   text-align: center;
   background: #fff;
 }
+
+.app__data-set {
+  font-size: 120px;
+  margin-top: 240px;
+}

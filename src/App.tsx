@@ -1,19 +1,26 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import { Chart } from './Chart';
 import * as data from './data';
 
 import './App.css';
 
-const dataSet = 'showAndTells';
+type DataKeysType = keyof typeof data;
 
 export function App() {
   return (
     <div className="App">
-      <Chart
-        yTicks={data[dataSet].ticks}
-        yDomain={data[dataSet].domain}
-        data={data[dataSet].data}
-      />
+      {(Object.keys(data) as DataKeysType[]).map((dataSet) => {
+        return (
+          <Fragment key={dataSet}>
+            <h1 className="app__data-set">{dataSet}</h1>
+            <Chart
+              yTicks={data[dataSet].ticks}
+              yDomain={data[dataSet].domain}
+              data={data[dataSet].data}
+            />
+          </Fragment>
+        );
+      })}
     </div>
   );
 }
