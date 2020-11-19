@@ -115,11 +115,15 @@ export const iOSReleases = {
     },
     {
       year: '2018',
-      value: 10,
+      value: 11,
     },
     {
-      year: '2019—',
+      year: '2019',
       value: 8,
+    },
+    {
+      year: '2020—',
+      value: 7,
     },
   ],
 };
