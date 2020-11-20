@@ -72,23 +72,27 @@ export const repositories = {
   data: [
     {
       year: '2015',
-      value: 70,
+      value: 73,
     },
     {
       year: '2016',
-      value: 103,
+      value: 94,
     },
     {
       year: '2017',
-      value: 128,
+      value: 115,
     },
     {
       year: '2018',
-      value: 154,
+      value: 140,
     },
     {
-      year: '2019—',
-      value: 169,
+      year: '2019',
+      value: 156,
+    },
+    {
+      year: '2020—',
+      value: 168,
     },
   ],
 };
