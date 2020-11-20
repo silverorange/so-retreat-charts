@@ -79,6 +79,15 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data }: Props) {
     const margin = { top: 20, right: 0, bottom: 120, left: 200 };
     const width = chartWidth - margin.left - margin.right;
     const height = chartHeight - margin.top - margin.bottom;
+    const labelFontSize = style.labels.size * (data.length > 8 ? 1.0 : 1.5);
+    const dataMagnitude = data.reduce<number>((previous, current) => {
+      const magnitude = Math.floor(Math.log10(current.value)) + 1;
+      return magnitude > previous ? magnitude : previous;
+    }, 0);
+
+    const dataLabelFontSize =
+      style.dataLabels.size *
+      (data.length > 8 || dataMagnitude > 3 ? 1.0 : 1.5);
 
     const x = d3
       .scaleBand<Datum['year']>()
@@ -147,6 +156,24 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data }: Props) {
       .attr('fill', style.bar.color)
       .attr('d', (d) => getBarPath(height, x, y, d));
 
+    function getTextWidth(d: Datum): number {
+      const text = d.value.toString();
+
+      const ones = text
+        .split('')
+        .reduce<number>(
+          (previous, current) => previous + (current === '1' ? 1 : 0),
+          0
+        );
+
+      const otherDigits = text.length - ones;
+      const commas = Math.floor((text.length - 1) / 3);
+
+      return (
+        dataLabelFontSize * (ones * 0.5 + otherDigits * 0.6 + commas * 0.3 + 1)
+      );
+    }
+
     bars
       .append('rect')
       .attr('fill', style.dataLabelBackgrounds.fill)
@@ -154,19 +181,13 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data }: Props) {
       .attr('strokeWidth', style.dataLabelBackgrounds.strokeWidth)
       .attr('rx', style.dataLabelBackgrounds.radius)
       .attr('x', (d) => {
-        return (x(d.year) || 0) + x.bandwidth() * 0.1;
+        return (x(d.year) || 0) + (x.bandwidth() - getTextWidth(d)) / 2;
       })
       .attr('y', (d) => {
-        return (
-          y(d.value) -
-          0.9 * style.dataLabels.size * (data.length > 8 ? 1.0 : 1.5)
-        );
+        return y(d.value) - 0.9 * dataLabelFontSize;
       })
-      .attr('width', x.bandwidth() * 0.8)
-      .attr(
-        'height',
-        1.8 * style.dataLabels.size * (data.length > 8 ? 1.0 : 1.5)
-      );
+      .attr('width', getTextWidth)
+      .attr('height', 1.8 * dataLabelFontSize);
 
     g.selectAll('text.bar')
       .data(data)
@@ -174,7 +195,7 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data }: Props) {
       .append('text')
       .attr('text-anchor', 'middle')
       .attr('dominant-baseline', 'central')
-      .attr('font-size', style.dataLabels.size * (data.length > 8 ? 1.0 : 1.5))
+      .attr('font-size', dataLabelFontSize)
       .attr('font-weight', style.dataLabels.fontWeight)
       .attr('font-family', style.dataLabels.fontFamily)
       .attr('fill', style.dataLabels.color)
@@ -202,7 +223,7 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data }: Props) {
       .attr('dx', '0')
       .attr('dy', '0')
       .attr('text-anchor', 'middle')
-      .attr('font-size', style.labels.size * (data.length > 8 ? 1.0 : 1.5))
+      .attr('font-size', labelFontSize)
       .attr('font-family', style.labels.fontFamily)
       .attr('font-weight', style.labels.fontWeight)
       .attr('fill', style.labels.color);
