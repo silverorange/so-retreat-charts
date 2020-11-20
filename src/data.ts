@@ -1,6 +1,3 @@
-// 29 CFSC API deploys to EB
-// 91 deploys by Noel and Robert
-
 export const pullRequests = {
   domain: [0, 3500],
   ticks: 8,
@@ -15,23 +12,23 @@ export const pullRequests = {
     },
     {
       year: '2016',
-      value: 2418,
+      value: 2395,
     },
     {
       year: '2017',
-      value: 3375,
+      value: 3086,
     },
     {
       year: '2018',
-      value: 2797,
+      value: 2474,
     },
     {
-      year: '2019—',
-      value: 2482,
+      year: '2019',
+      value: 2217,
     },
     {
       year: '2020—',
-      value: 2324,
+      value: 2431,
     },
   ],
 };

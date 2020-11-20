@@ -1,0 +1,46 @@
+{
+  search(first: 100, query: "is:pr user:silverorange draft:false is:closed merged:2020-01-01..2021-01-01", type: ISSUE) {
+    issueCount
+    nodes {
+      ... on PullRequest {
+        resourcePath
+        createdAt
+        mergedAt
+      }
+    }
+  }
+}
+silverorange org
+
+silverorange 1695 1291 1571 1840 1643 1380 1223 474
+
+Hippo users:
+
+kendraSO 169 248 93 0
+ArGeoph 11
+wen-2018 145 16
+CorneliusSmith 3
+gauthierm 86 125 234 487 310 75 54 4
+m-mitchell 131 343 412 244
+jacobpenny 141 129
+sgarrity 0 0 4 7 30 103 107 21
+germyjen 16 10
+malena 20 48 83 136 20
+charleswaddell 14 4 56 241 138 84 71 52
+keithburgoyne 0 0 15 48 22 0 1 2
+nburka 0 0 1 32 35 116 147 14
+isagrant 0 3 5 47 151 318 326 162
+stephendesroches 0 0 0 4 46 133 100 36
+
+{
+  search(first: 100, query: "is:pr user:HippoEducation draft:false is:closed merged:2020-01-01..2021-01-01 author:kendraSO", type: ISSUE) {
+    issueCount
+    nodes {
+      ... on PullRequest {
+        resourcePath
+        createdAt
+        mergedAt
+      }
+    }
+  }
+}
