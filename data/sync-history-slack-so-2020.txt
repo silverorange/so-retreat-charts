@@ -1,0 +1,3772 @@
+:noel:
+noelAPP  16:44
+@noel just synced acoep-platform at 2019-01-03 16:44:21
+:noel:
+noelAPP  19:23
+@noel just synced acoep-platform at 2019-01-03 19:23:17
+:noel:
+noelAPP  20:57
+@noel just synced uas-jsonapi-server at 2019-01-03 20:57:40
+:nick:
+nickAPP  14:23
+@nick just synced course-host at 2019-01-07 14:23:49
+:charles:
+charlesAPP  14:49
+@charles just synced starmaker at 2019-01-07 14:49:30
+:noel:
+noelAPP  21:05
+@noel just synced uas-jsonapi-server at 2019-01-07 21:05:15
+:noel:
+noelAPP  10:09
+@noel just synced uas-jsonapi-server at 2019-01-08 10:09:42
+:steven:
+stevenAPP  10:18
+@steven just synced silverorange at 2019-01-08 10:18:44
+:noel:
+noelAPP  16:29
+@noel just synced acoep-platform at 2019-01-08 16:29:14
+:kendra:
+kendraAPP  17:57
+@kendra just synced ercast at 2019-01-08 17:57:22
+:kendra:
+kendraAPP  18:06
+@kendra just synced hippo at 2019-01-08 18:06:07
+:nick:
+nickAPP  14:09
+@nick just synced course-host at 2019-01-09 14:09:25
+:philip:
+philipAPP  16:34
+@philip just synced emrap-go-server at 2019-01-09 16:34:04
+:noel:
+noelAPP  19:43
+@noel just synced uas-jsonapi-server at 2019-01-09 19:43:33
+:kendra:
+kendraAPP  20:00
+@kendra just synced papodcast at 2019-01-09 20:00:42
+:kendra:
+kendraAPP  20:34
+@kendra just synced hippo at 2019-01-09 20:34:12
+:charles:
+charlesAPP  09:19
+@charles just synced starmaker at 2019-01-10 09:19:51
+:nick:
+nickAPP  16:57
+@nick just synced course-host at 2019-01-10 16:57:38
+:philip:
+philipAPP  12:41
+@philip just synced emrap-search-tools at 2019-01-11 12:41:13
+:noel:
+noelAPP  19:39
+@noel just synced hippo-pay at 2019-01-13 19:39:46
+
+:noel:
+noelAPP  17:05
+@noel just synced hippo-pay at 2019-01-14 17:05:52
+:philip:
+philipAPP  17:11
+@philip just synced emrap at 2019-01-14 17:11:07
+:philip:
+philipAPP  17:44
+@philip just synced emrap at 2019-01-14 17:44:48
+:noel:
+noelAPP  22:23
+@noel just synced uas-jsonapi-server at 2019-01-14 22:23:00
+:meg:
+megAPP  18:09
+@meg just synced hippo at 2019-01-15 18:09:22
+:meg:
+megAPP  18:05
+@meg just synced pcrap at 2019-01-16 18:05:40
+:kendra:
+kendraAPP  19:24
+@kendra just synced hippo at 2019-01-16 19:24:20
+:meg:
+megAPP  19:32
+@meg just synced pcrap at 2019-01-16 19:32:58
+:meg:
+megAPP  19:38
+@meg just synced ucrap at 2019-01-16 19:38:06
+:meg:
+megAPP  13:26
+@meg just synced pedsrap at 2019-01-17 13:26:20
+:kendra:
+kendraAPP  16:16
+@kendra just synced hippo at 2019-01-17 16:16:48
+:meg:
+megAPP  19:15
+@meg just synced uas-jsonapi-server at 2019-01-17 19:15:35
+:kendra:
+kendraAPP  19:17
+@kendra just synced hippo at 2019-01-18 19:17:08
+:meg:
+megAPP  15:48
+@meg just synced ercast at 2019-01-21 15:48:22
+:kendra:
+kendraAPP  19:39
+@kendra just synced hippo at 2019-01-21 19:39:45
+:nick:
+nickAPP  11:49
+@nick just synced emrap at 2019-01-22 11:49:43
+:mike:
+gauthiermAPP  14:37
+@gauthierm just synced emrap at 2019-01-22 14:37:28
+:slice:
+@rkotcher just synced acoep-platform at 2019-01-22 16:24:02
+:nick:
+nickAPP  16:28
+@nick just synced emrap at 2019-01-22 16:28:14
+:mike:
+gauthiermAPP  17:03
+@gauthierm just synced emrap at 2019-01-22 17:03:42
+:meg:
+megAPP  21:21
+@meg just synced hippo-pay at 2019-01-22 21:21:34
+21:23
+@meg just synced papodcast at 2019-01-22 21:23:34
+
+:nick:
+nickAPP  10:04
+@nick just synced course-host at 2019-01-23 10:04:31
+:nick:
+nickAPP  10:21
+@nick just synced emrap at 2019-01-23 10:21:23
+:nick:
+nickAPP  11:02
+@nick just synced course-host at 2019-01-23 11:02:15
+:mike:
+gauthiermAPP  11:09
+@gauthierm just synced surviving-infancy at 2019-01-23 11:09:02
+:kendra:
+kendraAPP  12:51
+@kendra just synced essentials at 2019-01-23 12:51:47
+:meg:
+megAPP  13:06
+@meg just synced pedsrap at 2019-01-23 13:06:02
+:kendra:
+kendraAPP  19:27
+@kendra just synced essentials at 2019-01-23 19:27:34
+:kendra:
+kendraAPP  21:45
+@kendra just synced pcrap at 2019-01-23 21:45:48
+21:48
+@kendra just synced ucrap at 2019-01-23 21:48:10
+21:48
+@kendra just synced pedsrap at 2019-01-23 21:48:34
+21:50
+@kendra just synced ercast at 2019-01-23 21:50:06
+21:51
+@kendra just synced papodcast at 2019-01-23 21:51:10
+:noel:
+noelAPP  23:26
+@noel just synced acoep-platform at 2019-01-23 23:26:04
+:nick:
+nickAPP  12:36
+@nick just synced course-host at 2019-01-28 12:36:53
+ElasticBeanstalkAPP  14:16
+CFSC - api.cf-fb.org deployed at 2019-01-28 18:16:46
+ElasticBeanstalkAPP  14:23
+CFSC - api.cf-fb.org deployed at 2019-01-28 18:23:03
+:kendra:
+kendraAPP  18:44
+@kendra just synced pedsrap at 2019-01-28 18:44:31
+:meg:
+megAPP  21:40
+@meg just synced hippo at 2019-01-28 21:40:56
+:nick:
+nickAPP  12:07
+@nick just synced emrap at 2019-01-29 12:07:24
+:mike:
+gauthiermAPP  13:15
+@gauthierm just synced pcrap at 2019-01-29 13:15:48
+:mike:
+gauthiermAPP  14:06
+@gauthierm just synced pedsrap at 2019-01-29 14:06:51
+14:07
+@gauthierm just synced ucrap at 2019-01-29 14:07:59
+14:10
+@gauthierm just synced ercast at 2019-01-29 14:10:25
+:mike:
+gauthiermAPP  15:15
+@gauthierm just synced papodcast at 2019-01-29 15:15:21
+:kendra:
+kendraAPP  15:56
+@kendra just synced hippo at 2019-01-29 15:56:26
+:meg:
+megAPP  21:07
+@meg just synced pcrap at 2019-01-29 21:07:14
+:kendra:
+kendraAPP  21:08
+@kendra just synced papodcast at 2019-01-29 21:08:36
+:meg:
+megAPP  21:08
+@meg just synced ucrap at 2019-01-29 21:08:43
+21:10
+@meg just synced pedsrap at 2019-01-29 21:10:39
+:kendra:
+kendraAPP  21:10
+@kendra just synced ercast at 2019-01-29 21:10:43
+
+ElasticBeanstalkAPP  11:22
+CFSC - api.cf-fb.org deployed at 2019-01-31 15:22:19
+ElasticBeanstalkAPP  11:28
+CFSC - api.cf-fb.org deployed at 2019-01-31 15:28:39
+:jake:
+jakeAPP  11:35
+@jake just synced CFSC - www.connecting-families.ca at 2019-01-31 10:35:49
+:meg:
+megAPP  13:56
+@meg just synced hippo at 2019-01-31 13:56:21
+:kendra:
+kendraAPP  14:14
+@kendra just synced pcrap at 2019-01-31 14:14:46
+14:15
+@kendra just synced ucrap at 2019-01-31 14:15:57
+14:17
+@kendra just synced pedsrap at 2019-01-31 14:17:17
+14:19
+@kendra just synced ercast at 2019-01-31 14:19:32
+14:21
+@kendra just synced papodcast at 2019-01-31 14:21:19
+:nick:
+nickAPP  16:07
+@nick just synced course-host at 2019-01-31 16:07:45
+:noel:
+noelAPP  18:50
+@noel just synced hippo-pay at 2019-01-31 18:50:42
+18:52
+@noel just synced hippo-pay-client at 2019-01-31 18:52:47
+:nick:
+nickAPP  17:14
+@nick just synced emrap at 2019-02-01 17:14:53
+:nick:
+nickAPP  17:24
+@nick just synced course-host at 2019-02-01 17:23:59
+:nick:
+nickAPP  11:53
+@nick just synced course-host at 2019-02-04 11:53:41
+:meg:
+megAPP  13:26
+@meg just synced pcrap at 2019-02-04 13:26:02
+:noel:
+noelAPP  14:29
+@noel just synced uas-jsonapi-server at 2019-02-06 14:29:31
+:meg:
+megAPP  15:11
+@meg just synced pedsrap at 2019-02-06 15:11:05
+15:11
+@meg just synced ucrap at 2019-02-06 15:11:18
+15:11
+@meg just synced ercast at 2019-02-06 15:11:18
+15:11
+@meg just synced papodcast at 2019-02-06 15:11:18
+:mike:
+gauthiermAPP  18:07
+@gauthierm just synced starmaker at 2019-02-07 18:07:37
+:keith:
+keithAPP  14:55
+@keith just synced emrap at 2019-02-08 14:55:22
+:nick:
+nickAPP  15:46
+@nick just synced course-host at 2019-02-08 15:46:10
+:philip:
+philipAPP  16:07
+@philip just synced emrap-go-server at 2019-02-08 16:07:43
+:philip:
+philipAPP  16:14
+@philip just synced emrap-go-client at 2019-02-08 16:14:26
+:mike:
+gauthiermAPP  17:54
+@gauthierm just synced surviving-infancy at 2019-02-08 17:54:37
+:philip:
+philipAPP  10:08
+@philip just synced emrap-go-client at 2019-02-11 10:08:30
+:philip:
+philipAPP  10:15
+@philip just synced emrap-go-server at 2019-02-11 10:15:40
+ElasticBeanstalkAPP  17:30
+CFSC - api.cf-fb.org deployed at 2019-02-11 21:30:58
+ElasticBeanstalkAPP  17:37
+CFSC - api.cf-fb.org deployed at 2019-02-11 21:37:02
+:jake:
+jakeAPP  17:42
+@jake just synced CFSC - www.connecting-families.ca at 2019-02-11 16:42:00
+ElasticBeanstalkAPP  14:57
+CFSC - api.cf-fb.org deployed at 2019-02-12 18:57:02
+:keith:
+keithAPP  14:58
+@keith just synced emrap at 2019-02-12 14:58:14
+ElasticBeanstalkAPP  15:02
+CFSC - api.cf-fb.org deployed at 2019-02-12 19:02:53
+:charles:
+charlesAPP  15:05
+@charles just synced iwk-chez-nicu-server at 2019-02-12 15:05:27
+:charles:
+charlesAPP  15:15
+@charles just synced iwk-chez-nicu-client at 2019-02-12 15:15:03
+:charles:
+charlesAPP  16:02
+@charles just synced iwk-chez-nicu-client at 2019-02-12 16:02:52
+16:05
+@charles just synced iwk-chez-nicu-server at 2019-02-12 16:05:54
+
+stevenAPP  11:33
+@steven just synced course-host at 2019-02-28 11:33:43
+:philip:
+philipAPP  11:46
+@philip just synced emrap-search-tools at 2019-02-28 11:46:50
+:nick:
+nickAPP  12:01
+@nick just synced emrap at 2019-02-28 12:01:45
+:meg:
+megAPP  13:30
+@meg just synced pcrap at 2019-02-28 13:30:45
+13:30
+@meg just synced ucrap at 2019-02-28 13:30:53
+13:30
+@meg just synced pedsrap at 2019-02-28 13:30:53
+:meg:
+megAPP  13:42
+@meg just synced ercast at 2019-02-28 13:42:38
+:philip:
+philipAPP  13:44
+@philip just synced emrap at 2019-02-28 13:44:58
+:meg:
+megAPP  13:48
+@meg just synced papodcast at 2019-02-28 13:48:53
+:slice:
+@rkotcher just synced hippo-pay-admin at 2019-02-28 15:49:23
+:nick:
+nickAPP  19:32
+@nick just synced emrap at 2019-02-28 19:32:05
+:philip:
+philipAPP  11:36
+@philip just synced emrap-search-tools at 2019-03-01 11:36:19
+:philip:
+philipAPP  14:33
+@philip just synced emrap at 2019-03-01 14:33:31
+:slice:
+@rkotcher just synced hippo-pay-admin at 2019-03-01 17:16:20
+:philip:
+philipAPP  13:45
+@philip just synced emrap at 2019-03-04 13:45:06
+ElasticBeanstalkAPP  15:50
+CFSC - api.cf-fb.org deployed at 2019-03-04 19:50:01
+:philip:
+philipAPP  09:33
+@philip just synced emrap-search-tools at 2019-03-05 09:33:02
+:philip:
+philipAPP  12:11
+@philip just synced emrap at 2019-03-05 12:11:10
+:nick:
+nickAPP  12:26
+@nick just synced emrap at 2019-03-05 12:26:42
+:meg:
+megAPP  14:03
+@meg just synced pcrap at 2019-03-05 14:03:15
+:meg:
+megAPP  14:19
+@meg just synced ucrap at 2019-03-05 14:19:48
+14:20
+@meg just synced pedsrap at 2019-03-05 14:20:54
+:meg:
+megAPP  14:26
+@meg just synced ercast at 2019-03-05 14:26:33
+:meg:
+megAPP  14:33
+@meg just synced papodcast at 2019-03-05 14:33:47
+:meg:
+megAPP  15:01
+@meg just synced hippo-pay at 2019-03-05 15:01:42
+:meg:
+megAPP  16:37
+@meg just synced hippo-pay at 2019-03-05 16:37:13
+:meg:
+megAPP  13:49
+@meg just synced ucrap at 2019-03-06 13:49:47
+:meg:
+megAPP  14:22
+@meg just synced ercast at 2019-03-06 14:22:20
+14:25
+@meg just synced papodcast at 2019-03-06 14:25:41
+ElasticBeanstalkAPP  11:47
+CFSC - api.cf-fb.org deployed at 2019-03-07 15:47:02
+ElasticBeanstalkAPP  11:53
+CFSC - api.cf-fb.org deployed at 2019-03-07 15:53:04
+
+stevenAPP  11:33
+@steven just synced course-host at 2019-02-28 11:33:43
+:philip:
+philipAPP  11:46
+@philip just synced emrap-search-tools at 2019-02-28 11:46:50
+:nick:
+nickAPP  12:01
+@nick just synced emrap at 2019-02-28 12:01:45
+:meg:
+megAPP  13:30
+@meg just synced pcrap at 2019-02-28 13:30:45
+13:30
+@meg just synced ucrap at 2019-02-28 13:30:53
+13:30
+@meg just synced pedsrap at 2019-02-28 13:30:53
+:meg:
+megAPP  13:42
+@meg just synced ercast at 2019-02-28 13:42:38
+:philip:
+philipAPP  13:44
+@philip just synced emrap at 2019-02-28 13:44:58
+:meg:
+megAPP  13:48
+@meg just synced papodcast at 2019-02-28 13:48:53
+:slice:
+@rkotcher just synced hippo-pay-admin at 2019-02-28 15:49:23
+:nick:
+nickAPP  19:32
+@nick just synced emrap at 2019-02-28 19:32:05
+:philip:
+philipAPP  11:36
+@philip just synced emrap-search-tools at 2019-03-01 11:36:19
+:philip:
+philipAPP  14:33
+@philip just synced emrap at 2019-03-01 14:33:31
+:slice:
+@rkotcher just synced hippo-pay-admin at 2019-03-01 17:16:20
+:philip:
+philipAPP  13:45
+@philip just synced emrap at 2019-03-04 13:45:06
+ElasticBeanstalkAPP  15:50
+CFSC - api.cf-fb.org deployed at 2019-03-04 19:50:01
+:philip:
+philipAPP  09:33
+@philip just synced emrap-search-tools at 2019-03-05 09:33:02
+:philip:
+philipAPP  12:11
+@philip just synced emrap at 2019-03-05 12:11:10
+:nick:
+nickAPP  12:26
+@nick just synced emrap at 2019-03-05 12:26:42
+:meg:
+megAPP  14:03
+@meg just synced pcrap at 2019-03-05 14:03:15
+:meg:
+megAPP  14:19
+@meg just synced ucrap at 2019-03-05 14:19:48
+14:20
+@meg just synced pedsrap at 2019-03-05 14:20:54
+:meg:
+megAPP  14:26
+@meg just synced ercast at 2019-03-05 14:26:33
+:meg:
+megAPP  14:33
+@meg just synced papodcast at 2019-03-05 14:33:47
+:meg:
+megAPP  15:01
+@meg just synced hippo-pay at 2019-03-05 15:01:42
+:meg:
+megAPP  16:37
+@meg just synced hippo-pay at 2019-03-05 16:37:13
+:meg:
+megAPP  13:49
+@meg just synced ucrap at 2019-03-06 13:49:47
+:meg:
+megAPP  14:22
+@meg just synced ercast at 2019-03-06 14:22:20
+14:25
+@meg just synced papodcast at 2019-03-06 14:25:41
+ElasticBeanstalkAPP  11:47
+CFSC - api.cf-fb.org deployed at 2019-03-07 15:47:02
+ElasticBeanstalkAPP  11:53
+CFSC - api.cf-fb.org deployed at 2019-03-07 15:53:04
+
+:nick:
+nickAPP  12:10
+@nick just synced emrap at 2019-03-08 12:10:55
+:mike:
+gauthiermAPP  16:27
+@gauthierm just synced emrap at 2019-03-11 16:27:25
+:nick:
+nickAPP  11:30
+@nick just synced emrap at 2019-03-12 11:30:47
+:meg:
+megAPP  18:36
+@meg just synced hippo at 2019-03-12 18:36:18
+:meg:
+megAPP  18:49
+@meg just synced hippo at 2019-03-12 18:49:09
+:meg:
+megAPP  20:27
+@meg just synced pcrap at 2019-03-12 20:27:11
+20:29
+@meg just synced ercast at 2019-03-12 20:29:37
+20:30
+@meg just synced ucrap at 2019-03-12 20:30:43
+20:30
+@meg just synced papodcast at 2019-03-12 20:30:47
+20:31
+@meg just synced pedsrap at 2019-03-12 20:31:28
+:meg:
+megAPP  19:42
+@meg just synced essentials at 2019-03-14 19:42:51
+:kendra:
+kendraAPP  20:47
+@kendra just synced hippo at 2019-03-14 20:47:55
+:philip:
+philipAPP  16:28
+@philip just synced emrap at 2019-03-15 16:28:20
+:kendra:
+kendraAPP  17:30
+@kendra just synced iwk-achh at 2019-03-15 17:30:35
+:meg:
+megAPP  16:48
+@meg just synced ercast at 2019-03-20 16:48:31
+:jake:
+jakeAPP  11:14
+@jake just synced CFSC - www.connecting-families.ca at 2019-03-22 10:14:03
+:jake:
+jakeAPP  11:39
+@jake just synced CFSC - www.connecting-families.ca at 2019-03-22 10:39:40
+jake  11:54
+joined #sync-to-live.
+:jake:
+jakeAPP  12:28
+@jake just synced CFSC - www.connecting-families.ca at 2019-03-22 11:28:23
+:jake:
+jakeAPP  15:03
+@jake just synced CFSC - www.connecting-families.ca at 2019-03-22 14:03:26
+:mike:
+gauthiermAPP  22:22
+@gauthierm just synced emrap at 2019-03-22 22:22:57
+:meg:
+megAPP  14:32
+@meg just synced essentials at 2019-03-25 14:32:55
+:kendra:
+kendraAPP  20:35
+@kendra just synced hippo at 2019-03-25 20:35:29
+:kendra:
+kendraAPP  20:41
+@kendra just synced hippo-ed at 2019-03-25 20:41:37
+
+:kendra:
+kendraAPP  12:56
+@kendra just synced hippo at 2019-03-26 12:56:53
+13:01
+@kendra just synced pcrap at 2019-03-26 13:01:35
+:nick:
+nickAPP  13:03
+@nick just synced emrap at 2019-03-26 13:03:02
+:keith:
+keithAPP  13:41
+@keith just synced emrap-search-tools at 2019-03-26 13:41:36
+:keith:
+keithAPP  13:54
+@keith just synced emrap at 2019-03-26 13:54:30
+:meg:
+megAPP  16:08
+@meg just synced pcrap at 2019-03-26 16:08:38
+:philip:
+philipAPP  16:15
+@philip just synced emrap at 2019-03-26 16:15:07
+:philip:
+philipAPP  16:27
+@philip just synced emrap at 2019-03-26 16:27:05
+:meg:
+megAPP  18:04
+@meg just synced ucrap at 2019-03-26 18:04:45
+18:06
+@meg just synced pedsrap at 2019-03-26 18:06:27
+18:07
+@meg just synced ercast at 2019-03-26 18:07:24
+:meg:
+megAPP  18:26
+@meg just synced papodcast at 2019-03-26 18:26:43
+:meg:
+megAPP  14:17
+@meg just synced uas-jsonapi-server at 2019-03-27 14:17:51
+:meg:
+megAPP  16:02
+@meg just synced uas-jsonapi-server at 2019-03-27 16:02:31
+:kendra:
+kendraAPP  20:28
+@kendra just synced hippo at 2019-03-27 20:28:41
+:charles:
+charlesAPP  14:41
+@charles just synced starmaker at 2019-03-28 14:41:08
+:steven:
+stevenAPP  16:18
+@steven just synced course-host at 2019-03-28 16:18:57
+:meg:
+megAPP  17:28
+@meg just synced uas-jsonapi-server at 2019-03-28 17:28:00
+:meg:
+megAPP  13:31
+@meg just synced surviving-infancy at 2019-03-29 13:31:29
+:meg:
+megAPP  13:44
+@meg just synced hippo at 2019-03-29 13:44:08
+13:47
+@meg just synced essentials at 2019-03-29 13:47:42
+:meg:
+megAPP  14:43
+@meg just synced course-host at 2019-03-29 14:43:46
+:nick:
+nickAPP  16:52
+@nick just synced course-host at 2019-03-29 16:52:48
+:meg:
+megAPP  17:55
+@meg just synced hippo at 2019-03-29 17:55:42
+:kendra:
+kendraAPP  18:10
+@kendra just synced pcrap at 2019-03-29 18:10:17
+:meg:
+megAPP  18:30
+@meg just synced ucrap at 2019-03-29 18:30:43
+18:31
+@meg just synced pedsrap at 2019-03-29 18:31:07
+:meg:
+megAPP  19:01
+@meg just synced ercast at 2019-03-29 19:01:57
+:meg:
+megAPP  19:22
+@meg just synced papodcast at 2019-03-29 19:22:55
+:meg:
+megAPP  19:59
+@meg just synced emrap at 2019-03-29 19:59:49
+
+:meg:
+megAPP  10:40
+@meg just synced essentials at 2019-04-01 10:40:36
+10:43
+@meg just synced essentials at 2019-04-01 10:43:06
+:meg:
+megAPP  15:47
+@meg just synced pcrap at 2019-04-01 15:47:38
+:meg:
+megAPP  16:12
+@meg just synced ucrap at 2019-04-01 16:12:07
+16:12
+@meg just synced ercast at 2019-04-01 16:12:07
+16:13
+@meg just synced papodcast at 2019-04-01 16:13:32
+:noel:
+noelAPP  16:45
+@noel just synced uas-jsonapi-server at 2019-04-01 16:45:01
+:philip:
+philipAPP  16:47
+@philip just synced emrap at 2019-04-01 16:47:32
+:meg:
+megAPP  17:56
+@meg just synced hippo at 2019-04-01 17:56:03
+:meg:
+megAPP  19:58
+@meg just synced pcrap at 2019-04-01 19:58:13
+19:59
+@meg just synced ucrap at 2019-04-01 19:59:07
+19:59
+@meg just synced papodcast at 2019-04-01 19:59:15
+20:00
+@meg just synced ercast at 2019-04-01 20:00:12
+20:01
+@meg just synced pedsrap at 2019-04-01 20:01:09
+:meg:
+megAPP  17:21
+@meg just synced pedsrap at 2019-04-02 17:21:28
+17:21
+@meg just synced ucrap at 2019-04-02 17:21:30
+:kendra:
+kendraAPP  14:25
+@kendra just synced hippo at 2019-04-04 14:25:23
+:charles:
+charlesAPP  15:10
+@charles just synced starmaker at 2019-04-05 15:10:29
+:meg:
+megAPP  13:13
+@meg just synced pcrap at 2019-04-08 13:13:53
+:meg:
+megAPP  13:28
+@meg just synced pedsrap at 2019-04-08 13:28:30
+13:28
+@meg just synced ucrap at 2019-04-08 13:28:40
+13:32
+@meg just synced ercast at 2019-04-08 13:32:19
+13:34
+@meg just synced papodcast at 2019-04-08 13:34:49
+:nick:
+nickAPP  14:50
+@nick just synced emrap at 2019-04-08 14:50:46
+:nick:
+nickAPP  16:54
+@nick just synced emrap at 2019-04-08 16:54:01
+:jake:
+jakeAPP  17:07
+@jake just synced CFSC - www.connecting-families.ca at 2019-04-08 16:07:51
+:philip:
+philipAPP  16:39
+@philip just synced emrap at 2019-04-09 16:39:52
+:kendra:
+kendraAPP  13:46
+@kendra just synced essentials at 2019-04-10 13:46:27
+:kendra:
+kendraAPP  13:56
+@kendra just synced essentials at 2019-04-10 13:56:01
+
+:kendra:
+kendraAPP  13:00
+@kendra just synced hippo at 2019-04-11 13:00:24
+:meg:
+megAPP  14:53
+@meg just synced hippo at 2019-04-11 14:53:24
+:meg:
+megAPP  15:33
+@meg just synced essentials at 2019-04-11 15:33:33
+:philip:
+philipAPP  16:44
+@philip just synced emrap at 2019-04-15 16:44:59
+:meg:
+megAPP  19:50
+@meg just synced hippo at 2019-04-15 19:50:43
+:meg:
+megAPP  17:20
+@meg just synced pcrap at 2019-04-16 17:20:23
+:meg:
+megAPP  17:50
+@meg just synced ucrap at 2019-04-16 17:50:35
+17:52
+@meg just synced pedsrap at 2019-04-16 17:52:12
+17:52
+@meg just synced ercast at 2019-04-16 17:52:55
+17:55
+@meg just synced papodcast at 2019-04-16 17:55:23
+:slice:
+@rkotcher just synced hippo-pay at 2019-04-23 17:24:50
+:nick:
+nickAPP  10:05
+@nick just synced emrap at 2019-04-24 10:05:26
+:nick:
+nickAPP  17:18
+@nick just synced course-host at 2019-04-24 17:18:57
+:slice:
+@rkotcher just synced hippo-pay-client at 2019-04-25 16:46:20
+:jake:
+jakeAPP  11:28
+@jake just synced CFSC - www.connecting-families.ca at 2019-04-26 10:28:44
+:nick:
+nickAPP  13:18
+@nick just synced course-host at 2019-04-26 13:18:13
+:mike:
+gauthiermAPP  18:43
+@gauthierm just synced essentials at 2019-04-26 18:43:32
+:mike:
+gauthiermAPP  19:58
+@gauthierm just synced essentials at 2019-04-26 19:58:36
+
+:charles:
+charlesAPP  10:52
+@charles just synced starmaker at 2019-04-30 10:52:29
+:steven:
+stevenAPP  15:17
+@steven just synced course-host at 2019-04-30 15:17:45
+:noel:
+noelAPP  18:51
+@noel just synced hippo-pay-client at 2019-04-30 18:51:15
+:noel:
+noelAPP  18:56
+@noel just synced hippo-pay-client at 2019-04-30 18:56:37
+18:59
+@noel just synced hippo-pay-client at 2019-04-30 18:59:56
+19:03
+@noel just synced hippo-pay-client at 2019-04-30 19:03:55
+:noel:
+noelAPP  19:27
+@noel just synced hippo-pay-client at 2019-04-30 19:27:49
+:noel:
+noelAPP  22:16
+@noel just synced hippo-pay-client at 2019-04-30 22:16:43
+:noel:
+noelAPP  18:01
+@noel just synced hippo-pay-client at 2019-05-01 18:01:54
+:noel:
+noelAPP  18:07
+@noel just synced hippo-pay-client at 2019-05-01 18:07:35
+:meg:
+megAPP  19:41
+@meg just synced hippo at 2019-05-01 19:41:39
+:meg:
+megAPP  20:08
+@meg just synced essentials at 2019-05-03 20:08:13
+:slice:
+@rkotcher just synced uas-jsonapi-server at 2019-05-03 20:19:06
+:meg:
+megAPP  10:51
+@meg just synced essentials at 2019-05-04 10:51:10
+:noel:
+noelAPP  18:05
+@noel just synced hippo-pay-client at 2019-05-06 18:05:00
+:noel:
+noelAPP  18:13
+@noel just synced hippo-pay-client at 2019-05-06 18:13:51
+:meg:
+megAPP  12:32
+@meg just synced hippo at 2019-05-07 12:32:00
+:steven:
+stevenAPP  14:37
+@steven just synced course-host at 2019-05-07 14:37:37
+:slice:
+@rkotcher just synced uas-jsonapi-server at 2019-05-07 15:50:26
+:meg:
+megAPP  18:05
+@meg just synced essentials at 2019-05-07 18:05:51
+18:07
+@meg just synced hippo at 2019-05-07 18:07:25
+:meg:
+megAPP  13:03
+@meg just synced essentials at 2019-05-08 13:03:11
+:mike:
+gauthiermAPP  18:15
+@gauthierm just synced uas-oauth2-server at 2019-05-08 18:15:35
+:kendra:
+kendraAPP  20:12
+@kendra just synced hippo at 2019-05-08 20:12:28
+
+:steven:
+stevenAPP  11:32
+@steven just synced course-host at 2019-05-09 11:32:06
+:meg:
+megAPP  16:49
+@meg just synced essentials at 2019-05-09 16:49:32
+ElasticBeanstalkAPP  11:00
+CFSC - api.cf-fb.org deployed at 2019-05-10 14:00:52
+ElasticBeanstalkAPP  11:07
+CFSC - api.cf-fb.org deployed at 2019-05-10 14:07:18
+:kendra:
+kendraAPP  14:31
+@kendra just synced hippo at 2019-05-10 14:31:54
+:meg:
+megAPP  18:41
+@meg just synced iwk-achh at 2019-05-10 18:41:48
+:meg:
+megAPP  19:43
+@meg just synced essentials at 2019-05-10 19:43:57
+:noel:
+noelAPP  02:20
+@noel just synced hippo-pay-client at 2019-05-13 02:20:06
+:philip:
+philipAPP  17:14
+@philip just synced emrap-go-client at 2019-05-13 17:14:02
+:mike:
+gauthiermAPP  01:25
+@gauthierm just synced essentials at 2019-05-14 01:25:57
+:mike:
+gauthiermAPP  12:37
+@gauthierm just synced essentials at 2019-05-14 12:37:07
+:meg:
+megAPP  12:55
+@meg just synced essentials at 2019-05-14 12:55:08
+:isaac-big-hands:
+isaacAPP  12:56
+@isaac just synced essentials at 2019-05-14 12:56:48
+:isaac-big-hands:
+isaacAPP  13:21
+@isaac just synced essentials at 2019-05-14 13:21:52
+:isaac-big-hands:
+isaacAPP  14:28
+@isaac just synced essentials at 2019-05-14 14:28:55
+:isaac-big-hands:
+isaacAPP  14:55
+@isaac just synced essentials at 2019-05-14 14:55:20
+:nick:
+nickAPP  15:52
+@nick just synced emrap at 2019-05-14 15:52:24
+:meg:
+megAPP  16:26
+@meg just synced hippo at 2019-05-14 16:26:57
+:meg:
+megAPP  17:37
+@meg just synced hippo at 2019-05-14 17:37:47
+:kendra:
+kendraAPP  20:40
+@kendra just synced hippo at 2019-05-14 20:40:43
+:kendra:
+kendraAPP  13:27
+@kendra just synced uas-jsonapi-server at 2019-05-15 13:27:33
+:kendra:
+kendraAPP  13:38
+@kendra just synced hippo at 2019-05-15 13:38:05
+:kendra:
+kendraAPP  13:59
+@kendra just synced hippo-ed at 2019-05-15 13:59:16
+:meg:
+megAPP  17:31
+@meg just synced essentials at 2019-05-15 17:31:31
+
+:isaac-big-hands:
+isaacAPP  18:05
+@isaac just synced starmaker at 2019-05-16 18:05:45
+:philip:
+philipAPP  17:21
+@philip just synced emrap at 2019-05-17 17:21:41
+:mike:
+gauthiermAPP  16:24
+@gauthierm just synced hippo at 2019-05-21 16:24:03
+:philip:
+philipAPP  17:06
+@philip just synced emrap-go-client at 2019-05-21 17:06:46
+:meg:
+megAPP  14:08
+@meg just synced hippo at 2019-05-22 14:08:40
+:nick:
+nickAPP  16:03
+@nick just synced silverorange at 2019-05-22 16:03:07
+:kendra:
+kendraAPP  18:44
+@kendra just synced essentials at 2019-05-22 18:44:45
+:nick:
+nickAPP  13:46
+@nick just synced course-host at 2019-05-27 13:46:36
+:kendra:
+kendraAPP  14:33
+@kendra just synced hippo at 2019-05-27 14:33:33
+:nick:
+nickAPP  15:52
+@nick just synced course-host at 2019-05-27 15:52:20
+:kendra:
+kendraAPP  17:22
+@kendra just synced hippo at 2019-05-27 17:22:57
+:kendra:
+kendraAPP  14:49
+@kendra just synced pcrap at 2019-05-28 14:49:05
+:kendra:
+kendraAPP  18:20
+@kendra just synced ucrap at 2019-05-28 18:20:29
+:kendra:
+kendraAPP  18:25
+@kendra just synced pedsrap at 2019-05-28 18:25:54
+
+:meg:
+megAPP  19:34
+@meg just synced uas-jsonapi-server at 2019-05-29 19:34:31
+:kendra:
+kendraAPP  20:21
+@kendra just synced hippo at 2019-05-29 20:21:35
+:meg:
+megAPP  13:40
+@meg just synced papodcast at 2019-05-30 13:40:18
+:kendra:
+kendraAPP  14:28
+@kendra just synced ercast at 2019-05-30 14:28:58
+:noel:
+noelAPP  16:59
+@noel just synced hippo-pay-client at 2019-05-30 16:59:18
+:meg:
+megAPP  19:57
+@meg just synced essentials at 2019-05-30 19:57:54
+:kendra:
+kendraAPP  15:26
+@kendra just synced pcrap at 2019-05-31 15:26:26
+:kendra:
+kendraAPP  15:31
+@kendra just synced ucrap at 2019-05-31 15:31:52
+15:35
+@kendra just synced pedsrap at 2019-05-31 15:35:13
+:kendra:
+kendraAPP  17:08
+@kendra just synced ercast at 2019-05-31 17:08:33
+:meg:
+megAPP  18:58
+@meg just synced hippo-pay at 2019-05-31 18:58:07
+:noel:
+noelAPP  21:42
+@noel just synced hippo-pay-client at 2019-05-31 21:42:29
+:steven:
+stevenAPP  21:39
+@steven just synced silverorange at 2019-06-01 21:39:50
+:noel:
+noelAPP  22:35
+@noel just synced hippo-pay-client at 2019-06-01 22:35:04
+:steven:
+stevenAPP  10:31
+@steven just synced silverorange at 2019-06-03 10:31:56
+:philip:
+philipAPP  16:15
+@philip just synced emrap at 2019-06-04 16:15:17
+:philip:
+philipAPP  16:23
+@philip just synced emrap at 2019-06-04 16:23:38
+
+:kendra:
+kendraAPP  18:50
+@kendra just synced hippo at 2019-06-05 18:50:23
+ElasticBeanstalkAPP  14:49
+CFSC - api.cf-fb.org deployed at 2019-06-06 17:49:55
+14:50
+CFSC - api.cf-fb.org deployed at 2019-06-06 17:50:56
+14:55
+CFSC - api.cf-fb.org deployed at 2019-06-06 17:55:26
+:kendra:
+kendraAPP  15:43
+@kendra just synced pcrap at 2019-06-06 15:43:17
+15:47
+@kendra just synced ucrap at 2019-06-06 15:47:13
+15:49
+@kendra just synced pedsrap at 2019-06-06 15:49:04
+ElasticBeanstalkAPP  22:20
+CFSC - api.cf-fb.org deployed at 2019-06-07 01:20:05
+ElasticBeanstalkAPP  22:27
+CFSC - api.cf-fb.org deployed at 2019-06-07 01:27:41
+ElasticBeanstalkAPP  22:35
+CFSC - api.cf-fb.org deployed at 2019-06-07 01:35:21
+:nick:
+nickAPP  10:02
+@nick just synced silverorange at 2019-06-10 10:02:31
+:meg:
+megAPP  17:09
+@meg just synced hippo-pay at 2019-06-10 17:09:08
+:kendra:
+kendraAPP  20:36
+@kendra just synced hippo at 2019-06-10 20:36:19
+:slice:
+@rkotcher just synced hippo-pay at 2019-06-11 06:23:22
+:kendra:
+kendraAPP  18:56
+@kendra just synced ercast at 2019-06-11 18:56:20
+:meg:
+megAPP  20:11
+@meg just synced ercast at 2019-06-11 20:11:33
+:slice:
+@rkotcher just synced hippo-pay-admin at 2019-06-11 21:03:35
+:kendra:
+kendraAPP  13:46
+@kendra just synced papodcast at 2019-06-12 13:46:11
+:kendra:
+kendraAPP  17:34
+@kendra just synced hippo at 2019-06-12 17:34:04
+:mike:
+gauthiermAPP  19:22
+@gauthierm just synced essentials at 2019-06-17 19:22:39
+
+:noel:
+noelAPP  01:00
+@noel just synced hippo-pay at 2019-06-18 01:00:12
+ElasticBeanstalkAPP  11:24
+CFSC - api.cf-fb.org deployed at 2019-06-18 14:24:26
+ElasticBeanstalkAPP  11:32
+CFSC - api.cf-fb.org deployed at 2019-06-18 14:32:54
+:meg:
+megAPP  17:36
+@meg just synced pcrap at 2019-06-18 17:36:57
+:meg:
+megAPP  18:24
+@meg just synced hippo at 2019-06-18 18:24:13
+:meg:
+megAPP  18:32
+@meg just synced ucrap at 2019-06-18 18:32:26
+18:36
+@meg just synced pedsrap at 2019-06-18 18:36:44
+:kendra:
+kendraAPP  15:22
+@kendra just synced essentials at 2019-06-19 15:22:36
+:kendra:
+kendraAPP  16:00
+@kendra just synced ercast at 2019-06-19 16:00:13
+:kendra:
+kendraAPP  16:12
+@kendra just synced papodcast at 2019-06-19 16:12:18
+:noel:
+noelAPP  16:47
+@noel just synced hippo-pay at 2019-06-19 16:47:07
+:noel:
+noelAPP  16:56
+@noel just synced hippo-pay at 2019-06-19 16:56:51
+:noel:
+noelAPP  18:14
+@noel just synced hippo-pay at 2019-06-19 18:14:51
+:noel:
+noelAPP  18:46
+@noel just synced hippo-pay at 2019-06-19 18:46:17
+:noel:
+noelAPP  17:54
+@noel just synced hippo-pay at 2019-06-20 17:54:31
+:noel:
+noelAPP  20:45
+@noel just synced hippo-pay at 2019-06-20 20:45:57
+ElasticBeanstalkAPP  16:25
+CFSC - api.cf-fb.org deployed at 2019-06-21 19:25:20
+ElasticBeanstalkAPP  16:31
+CFSC - api.cf-fb.org deployed at 2019-06-21 19:31:35
+:jake:
+jakeAPP  16:37
+@jake just synced CFSC - admin.cf-fb.org at 2019-06-21 15:37:33
+16:42
+@jake just synced CFSC - www.connecting-families.ca at 2019-06-21 15:42:21
+
+:jayme:
+jaymeAPP  14:27
+@jayme just synced iwk-chez-nicu-server at 2019-06-24 14:27:19
+14:29
+@jayme just synced emrap-go-server at 2019-06-24 14:29:34
+14:32
+@jayme just synced neon at 2019-06-24 14:32:06
+:jayme:
+jaymeAPP  15:40
+@jayme just synced uas-oauth2-server at 2019-06-24 15:40:58
+15:42
+@jayme just synced uas-jsonapi-server at 2019-06-24 15:42:28
+15:43
+@jayme just synced hippo-pay at 2019-06-24 15:43:20
+15:44
+@jayme just synced hippo-sharp at 2019-06-24 15:44:56
+:nick:
+nickAPP  15:36
+@nick just synced emrap at 2019-06-25 15:36:48
+:noel:
+noelAPP  17:13
+@noel just synced hippo-pay-client at 2019-06-25 17:13:55
+:nick:
+nickAPP  15:33
+@nick just synced emrap at 2019-06-26 15:33:33
+:kendra:
+kendraAPP  17:11
+@kendra just synced hippo at 2019-06-26 17:11:06
+:nick:
+nickAPP  17:19
+@nick just synced emrap at 2019-06-26 17:19:42
+:kendra:
+kendraAPP  13:41
+@kendra just synced pcrap at 2019-06-27 13:41:28
+:kendra:
+kendraAPP  13:55
+@kendra just synced ucrap at 2019-06-27 13:55:41
+13:59
+@kendra just synced pedsrap at 2019-06-27 13:59:41
+:kendra:
+kendraAPP  18:17
+@kendra just synced hippo at 2019-06-27 18:17:34
+:philip:
+philipAPP  18:11
+@philip just synced emrap-search-tools at 2019-07-01 18:11:52
+:meg:
+megAPP  14:41
+@meg just synced hippo-pay at 2019-07-09 14:41:28
+:kendra:
+kendraAPP  14:52
+@kendra just synced hippo at 2019-07-09 14:52:26
+:isaac-big-hands:
+isaacAPP  15:25
+@isaac just synced starmaker at 2019-07-09 15:25:40
+:isaac-big-hands:
+isaacAPP  15:36
+@isaac just synced starmaker at 2019-07-09 15:36:41
+:meg:
+megAPP  17:33
+@meg just synced hippo at 2019-07-09 17:33:26
+:noel:
+noelAPP  19:09
+@noel just synced uas-jsonapi-server at 2019-07-09 19:08:59
+:noel:
+noelAPP  19:54
+@noel just synced acoep-platform at 2019-07-09 19:54:06
+:kendra:
+kendraAPP  15:51
+@kendra just synced uas-jsonapi-server at 2019-07-10 15:51:30
+:meg:
+megAPP  18:01
+@meg just synced acoep-platform at 2019-07-10 18:01:12
+:meg:
+megAPP  20:37
+@meg just synced hippo at 2019-07-10 20:37:56
+
+:kendra:
+kendraAPP  13:03
+@kendra just synced essentials at 2019-07-11 13:03:31
+:meg:
+megAPP  13:57
+@meg just synced hippo at 2019-07-11 13:57:51
+:kendra:
+kendraAPP  14:16
+@kendra just synced ercast at 2019-07-11 14:16:20
+:kendra:
+kendraAPP  14:26
+@kendra just synced papodcast at 2019-07-11 14:26:12
+:nick:
+nickAPP  15:37
+@nick just synced emrap at 2019-07-11 15:37:06
+:noel:
+noelAPP  19:56
+@noel just synced acoep-platform at 2019-07-11 19:56:34
+:philip:
+philipAPP  11:04
+@philip just synced emrap-search-tools at 2019-07-16 11:04:47
+:nick:
+nickAPP  11:56
+@nick just synced course-host at 2019-07-16 11:56:51
+:philip:
+philipAPP  12:10
+@philip just synced emrap at 2019-07-16 12:10:50
+:kendra:
+kendraAPP  19:53
+@kendra just synced ercast at 2019-07-16 19:53:02
+:nick:
+nickAPP  12:08
+@nick just synced course-host at 2019-07-19 12:08:57
+:kendra:
+kendraAPP  12:43
+@kendra just synced pcrap at 2019-07-19 12:43:10
+:steven:
+stevenAPP  15:29
+@steven just synced silverorange at 2019-07-19 15:29:59
+:kendra:
+kendraAPP  19:53
+@kendra just synced ucrap at 2019-07-19 19:53:05
+:kendra:
+kendraAPP  19:58
+@kendra just synced pedsrap at 2019-07-19 19:58:18
+:meg:
+megAPP  15:06
+@meg just synced essentials at 2019-07-22 15:06:36
+:charles:
+charlesAPP  16:01
+@charles just synced course-host at 2019-07-22 16:01:45
+:charles:
+charlesAPP  16:22
+@charles just synced course-host at 2019-07-22 16:22:10
+:meg:
+megAPP  17:38
+@meg just synced pcrap at 2019-07-22 17:38:17
+:charles:
+charlesAPP  13:52
+@charles just synced course-host at 2019-07-23 13:52:56
+
+:meg:
+megAPP  16:27
+@meg just synced pcrap at 2019-07-25 16:27:07
+16:27
+@meg just synced pedsrap at 2019-07-25 16:27:07
+16:27
+@meg just synced ucrap at 2019-07-25 16:27:07
+:mike:
+gauthiermAPP  18:42
+@gauthierm just synced emrap at 2019-07-25 18:42:08
+:keith:
+keithAPP  14:55
+@keith just synced emrap at 2019-07-26 14:55:12
+:kendra:
+kendraAPP  18:55
+@kendra just synced hippo at 2019-07-29 18:55:44
+:kendra:
+kendraAPP  12:51
+@kendra just synced hippo at 2019-07-30 12:51:06
+:kendra:
+kendraAPP  15:34
+@kendra just synced hippo at 2019-07-31 15:34:32
+:steven:
+stevenAPP  16:20
+@steven just synced silverorange at 2019-07-31 16:20:24
+:kendra:
+kendraAPP  18:40
+@kendra just synced essentials at 2019-07-31 18:40:15
+:meg:
+megAPP  12:40
+@meg just synced uas-jsonapi-server at 2019-08-01 12:40:24
+12:43
+@meg just synced hippo-pay at 2019-08-01 12:43:09
+:meg:
+megAPP  14:29
+@meg just synced uas-jsonapi-server at 2019-08-01 14:29:38
+:nick:
+nickAPP  17:02
+@nick just synced course-host at 2019-08-02 17:02:40
+:meg:
+megAPP  17:28
+@meg just synced starmaker at 2019-08-02 17:28:16
+ElasticBeanstalkAPP  13:12
+CFSC - api.cf-fb.org deployed at 2019-08-05 16:12:39
+ElasticBeanstalkAPP  13:18
+CFSC - api.cf-fb.org deployed at 2019-08-05 16:18:52
+:jake:
+jakeAPP  13:30
+@jake just synced CFSC - www.connecting-families.ca at 2019-08-05 12:30:35
+:mike:
+gauthiermAPP  19:44
+@gauthierm just synced hippo-pay-client at 2019-08-06 19:44:55
+:nick:
+nickAPP  10:37
+@nick just synced course-host at 2019-08-07 10:37:08
+:nick:
+nickAPP  12:24
+@nick just synced emrap at 2019-08-07 12:24:51
+:jake:
+jakeAPP  16:00
+@jake just synced CFSC - admin.cf-fb.org at 2019-08-07 15:00:48
+
+:charles:
+charlesAPP  14:06
+@charles just synced starmaker at 2019-08-13 14:06:20
+:isaac-big-hands:
+isaacAPP  12:06
+@isaac just synced starmaker at 2019-08-14 12:06:36
+:kendra:
+kendraAPP  15:35
+@kendra just synced pcrap at 2019-08-14 15:35:51
+15:38
+@kendra just synced ucrap at 2019-08-14 15:38:57
+15:43
+@kendra just synced pedsrap at 2019-08-14 15:43:10
+:meg:
+megAPP  10:01
+@meg just synced ercast at 2019-08-15 10:01:10
+:kendra:
+kendraAPP  15:30
+@kendra just synced essentials at 2019-08-15 15:30:07
+:meg:
+megAPP  20:12
+@meg just synced pcrap at 2019-08-16 20:12:41
+:kendra:
+kendraAPP  20:22
+@kendra just synced ucrap at 2019-08-16 20:22:06
+20:25
+@kendra just synced pedsrap at 2019-08-16 20:25:23
+:nick:
+nickAPP  12:13
+@nick just synced silverorange at 2019-08-19 12:13:14
+:nick:
+nickAPP  11:27
+@nick just synced course-host at 2019-08-20 11:27:27
+:nick:
+nickAPP  11:52
+@nick just synced course-host at 2019-08-20 11:52:08
+:nick:
+nickAPP  12:31
+@nick just synced course-host at 2019-08-20 12:31:49
+:meg:
+megAPP  19:27
+@meg just synced hippo at 2019-08-20 19:27:24
+:kendra:
+kendraAPP  20:00
+@kendra just synced ercast at 2019-08-20 20:00:16
+20:03
+@kendra just synced papodcast at 2019-08-20 20:03:24
+:jayme:
+jaymeAPP  08:53
+@jayme just synced emrap-fire-daemon at 2019-08-21 08:53:41
+:jayme:
+jaymeAPP  09:17
+@jayme just synced emrap-fire-daemon at 2019-08-21 09:17:27
+:kendra:
+kendraAPP  13:12
+@kendra just synced essentials at 2019-08-21 13:12:42
+:nick:
+nickAPP  15:02
+@nick just synced emrap at 2019-08-21 15:02:17
+:nick:
+nickAPP  16:13
+@nick just synced emrap at 2019-08-21 16:13:48
+:isaac-big-hands:
+isaacAPP  18:06
+@isaac just synced starmaker at 2019-08-22 18:06:06
+18:08
+@isaac just synced starmaker at 2019-08-22 18:08:29
+
+:charles:
+charlesAPP  11:35
+@charles just synced emrap-fire-daemon at 2019-08-26 11:35:44
+:charles:
+charlesAPP  17:08
+@charles just synced emrap at 2019-08-26 17:08:24
+:kendra:
+kendraAPP  21:07
+@kendra just synced hippo at 2019-08-26 21:07:44
+:steven:
+stevenAPP  09:50
+@steven just synced silverorange at 2019-08-27 09:50:34
+:mike:
+gauthiermAPP  20:20
+@gauthierm just synced hippo-pay at 2019-08-27 20:20:27
+:meg:
+megAPP  13:45
+@meg just synced hippo-pay at 2019-08-28 13:45:36
+ElasticBeanstalkAPP  20:08
+CFSC - api.cf-fb.org deployed at 2019-08-29 23:08:40
+:kendra:
+kendraAPP  20:11
+@kendra just synced hippo at 2019-08-29 20:11:55
+ElasticBeanstalkAPP  20:15
+CFSC - api.cf-fb.org deployed at 2019-08-29 23:15:25
+ElasticBeanstalkAPP  14:08
+CFSC - api.cf-fb.org deployed at 2019-08-30 17:08:41
+ElasticBeanstalkAPP  14:15
+CFSC - api.cf-fb.org deployed at 2019-08-30 17:15:31
+:slice:
+@charleswaddell just synced CFSC - www.connecting-families.ca at 2019-08-30 14:44:07
+:kendra:
+kendraAPP  15:32
+@kendra just synced pcrap at 2019-09-05 15:32:02
+:kendra:
+kendraAPP  15:44
+@kendra just synced pedsrap at 2019-09-05 15:44:37
+15:46
+@kendra just synced pedsrap at 2019-09-05 15:46:43
+:mike:
+gauthiermAPP  10:10
+@gauthierm just synced CFSC - www.connecting-families.ca at 2019-09-06 10:10:57
+:mike:
+gauthiermAPP  11:17
+@gauthierm just synced CFSC - www.connecting-families.ca at 2019-09-06 11:17:11
+:nick:
+nickAPP  12:14
+@nick just synced course-host at 2019-09-09 12:14:06
+:kendra:
+kendraAPP  12:52
+@kendra just synced hippo at 2019-09-09 12:52:33
+:meg:
+megAPP  13:31
+@meg just synced pcrap at 2019-09-09 13:31:57
+13:34
+@meg just synced pedsrap at 2019-09-09 13:34:49
+13:34
+@meg just synced ucrap at 2019-09-09 13:34:59
+
+:meg:
+megAPP  16:18
+@meg just synced pcrap at 2019-09-10 16:18:07
+:meg:
+megAPP  17:23
+@meg just synced ucrap at 2019-09-10 17:23:33
+:meg:
+megAPP  17:30
+@meg just synced pedsrap at 2019-09-10 17:30:54
+:kendra:
+kendraAPP  18:30
+@kendra just synced pcrap at 2019-09-10 18:30:38
+18:34
+@kendra just synced ucrap at 2019-09-10 18:34:27
+18:37
+@kendra just synced pedsrap at 2019-09-10 18:37:15
+:kendra:
+kendraAPP  18:44
+@kendra just synced ercast at 2019-09-10 18:44:02
+18:48
+@kendra just synced papodcast at 2019-09-10 18:48:01
+:kendra:
+kendraAPP  18:39
+@kendra just synced pcrap at 2019-09-11 18:39:25
+:kendra:
+kendraAPP  18:48
+@kendra just synced ucrap at 2019-09-11 18:48:46
+18:52
+@kendra just synced pedsrap at 2019-09-11 18:52:05
+18:53
+@kendra just synced ercast at 2019-09-11 18:53:15
+18:55
+@kendra just synced papodcast at 2019-09-11 18:55:13
+:kendra:
+kendraAPP  20:37
+@kendra just synced hippo at 2019-09-11 20:37:11
+:meg:
+megAPP  17:39
+@meg just synced pcrap at 2019-09-12 17:39:54
+17:42
+@meg just synced ucrap at 2019-09-12 17:42:37
+17:44
+@meg just synced pedsrap at 2019-09-12 17:44:23
+:kendra:
+kendraAPP  17:16
+@kendra just synced essentials at 2019-09-16 17:16:02
+:kendra:
+kendraAPP  17:47
+@kendra just synced essentials at 2019-09-16 17:47:07
+:kendra:
+kendraAPP  18:37
+@kendra just synced essentials at 2019-09-16 18:37:18
+:kendra:
+kendraAPP  18:23
+@kendra just synced hippo at 2019-09-17 18:23:56
+:kendra:
+kendraAPP  18:53
+@kendra just synced pcrap at 2019-09-17 18:53:18
+18:57
+@kendra just synced ucrap at 2019-09-17 18:57:56
+:kendra:
+kendraAPP  19:03
+@kendra just synced pedsrap at 2019-09-17 19:03:42
+:kendra:
+kendraAPP  19:10
+@kendra just synced ercast at 2019-09-17 19:10:34
+jayme  12:35
+These are tests
+:meg:
+megAPP  13:53
+@meg just synced ercast at 2019-09-19 13:53:10
+13:57
+@meg just synced papodcast at 2019-09-19 13:57:32
+
+:kendra:
+kendraAPP  20:00
+@kendra just synced pcrap at 2019-09-20 20:00:23
+:kendra:
+kendraAPP  20:11
+@kendra just synced ucrap at 2019-09-20 20:11:18
+:kendra:
+kendraAPP  20:31
+@kendra just synced pedsrap at 2019-09-20 20:31:16
+:nick:
+nickAPP  13:17
+@nick just synced emrap at 2019-09-23 13:17:18
+:meg:
+megAPP  15:33
+@meg just synced uas-jsonapi-server at 2019-09-23 15:33:27
+:meg:
+megAPP  20:25
+@meg just synced pcrap at 2019-09-23 20:25:25
+20:26
+@meg just synced pedsrap at 2019-09-23 20:26:23
+20:27
+@meg just synced ucrap at 2019-09-23 20:27:12
+:kendra:
+kendraAPP  13:52
+@kendra just synced pcrap at 2019-09-25 13:52:45
+:charles:
+charlesAPP  14:10
+@charles just synced emrap at 2019-09-25 14:10:41
+:kendra:
+kendraAPP  14:23
+@kendra just synced hippo at 2019-09-25 14:23:38
+:kendra:
+kendraAPP  17:35
+@kendra just synced ucrap at 2019-09-25 17:35:12
+17:40
+@kendra just synced pedsrap at 2019-09-25 17:40:08
+17:44
+@kendra just synced ercast at 2019-09-25 17:44:27
+:kendra:
+kendraAPP  19:59
+@kendra just synced pcrap at 2019-09-25 19:59:58
+:jake:
+jakeAPP  11:18
+@jake just synced CFSC - www.connecting-families.ca at 2019-09-27 10:18:37
+
+:meg:
+megAPP  12:57
+@meg just synced hippo-ed at 2019-09-30 12:57:37
+:steven:
+stevenAPP  13:47
+@steven just synced course-host at 2019-09-30 13:47:23
+:jake:
+jakeAPP  14:05
+@jake just synced CFSC - www.connecting-families.ca at 2019-09-30 13:05:34
+:nick:
+nickAPP  15:28
+@nick just synced emrap at 2019-09-30 15:28:28
+:steven:
+stevenAPP  13:44
+@steven just synced course-host at 2019-10-01 13:44:21
+:jayme:
+jaymeAPP  12:06
+@jayme just synced emrap-corependium at 2019-10-03 12:06:46
+:jayme:
+jaymeAPP  12:13
+@jayme just synced emrap-corependium-server at 2019-10-03 12:13:39
+philip  12:21
+joined #sync-to-live.
+:jayme:
+jaymeAPP  12:23
+@jayme just synced emrap-corependium-client at 2019-10-03 12:23:50
+:kendra:
+kendraAPP  15:03
+@kendra just synced essentials at 2019-10-03 15:03:44
+:jayme:
+jaymeAPP  10:03
+@jayme just synced emrap-corependium-server at 2019-10-07 10:02:58
+:jayme:
+jaymeAPP  10:09
+@jayme just synced emrap-corependium-client at 2019-10-07 10:09:14
+:jayme:
+jaymeAPP  14:16
+@jayme just synced neon at 2019-10-07 14:16:49
+:jayme:
+jaymeAPP  15:20
+@jayme just synced ucrap at 2019-10-07 15:20:05
+jayme  15:20
+^ was a dryrun test (edited)
+:philip:
+philipAPP  16:48
+@philip just synced emrap at 2019-10-07 16:48:24
+:jayme:
+jaymeAPP  19:46
+@jayme just synced emrap-corependium-chapter-importer at 2019-10-07 19:46:36
+19:48
+@jayme just synced emrap-corependium-server at 2019-10-07 19:48:37
+:jayme:
+jaymeAPP  19:54
+@jayme just synced emrap-corependium-client at 2019-10-07 19:54:15
+:isaac-big-hands:
+isaacAPP  13:39
+@isaac just synced starmaker at 2019-10-08 13:39:49
+:jayme:
+jaymeAPP  16:40
+@jayme just synced emrap-corependium-chapter-importer at 2019-10-08 16:40:51
+16:45
+@jayme just synced emrap-corependium-server at 2019-10-08 16:45:22
+:keith:
+keithAPP  10:14
+@keith just synced emrap-corependium-client at 2019-10-10 10:14:26
+:keith:
+keithAPP  10:23
+@keith just synced emrap-corependium-client at 2019-10-10 10:23:52
+10:25
+@keith just synced silverorange at 2019-10-10 10:25:40
+10:29
+@keith just synced silverorange at 2019-10-10 10:29:19
+:keith:
+keithAPP  10:40
+@keith just synced silverorange at 2019-10-10 10:40:34
+:kendra:
+kendraAPP  13:12
+@kendra just synced papodcast at 2019-10-10 13:12:42
+
+:nick:
+nickAPP  10:39
+@nick just synced emrap-corependium-server at 2019-10-11 10:39:06
+10:41
+@nick just synced emrap-corependium-client at 2019-10-11 10:41:53
+:nick:
+nickAPP  11:30
+@nick just synced emrap-corependium-chapter-importer at 2019-10-11 11:30:45
+11:31
+@nick just synced emrap-corependium-server at 2019-10-11 11:31:48
+:nick:
+nickAPP  12:32
+@nick just synced emrap-corependium-chapter-importer at 2019-10-11 12:32:26
+:nick:
+nickAPP  12:53
+@nick just synced emrap-corependium-server at 2019-10-11 12:53:50
+:nick:
+nickAPP  14:36
+@nick just synced emrap-corependium-client at 2019-10-11 14:36:04
+:jingwen:
+jingwenAPP  11:25
+@jingwen just synced course-host at 2019-10-15 11:25:32
+:jingwen:
+jingwenAPP  11:48
+@jingwen just synced course-host at 2019-10-15 11:48:54
+:meg:
+megAPP  12:45
+@meg just synced pcrap at 2019-10-15 12:45:05
+:meg:
+megAPP  12:50
+@meg just synced ucrap at 2019-10-15 12:50:32
+12:51
+@meg just synced pedsrap at 2019-10-15 12:51:36
+:meg:
+megAPP  12:57
+@meg just synced ercast at 2019-10-15 12:56:59
+:jayme:
+jaymeAPP  09:53
+@jayme just synced course-host at 2019-10-16 09:53:23
+:jingwen:
+jingwenAPP  09:58
+@jingwen just synced course-host at 2019-10-16 09:58:41
+:kendra:
+kendraAPP  19:47
+@kendra just synced papodcast at 2019-10-16 19:47:28
+:kendra:
+kendraAPP  20:00
+@kendra just synced hippo at 2019-10-16 20:00:18
+:nick:
+nickAPP  10:45
+@nick just synced emrap-corependium-server at 2019-10-18 10:45:17
+:nick:
+nickAPP  12:12
+@nick just synced emrap-corependium-client at 2019-10-18 12:12:33
+:jayme:
+jaymeAPP  14:05
+@jayme just synced emrap-corependium-server at 2019-10-18 14:04:59
+:jayme:
+jaymeAPP  14:11
+@jayme just synced emrap-corependium-client at 2019-10-18 14:11:09
+:nick:
+nickAPP  14:10
+@nick just synced emrap-corependium-client at 2019-10-21 14:10:51
+:nick:
+nickAPP  15:19
+@nick just synced emrap-corependium-server at 2019-10-21 15:19:15
+15:24
+@nick just synced emrap-corependium-chapter-importer at 2019-10-21 15:24:06
+:nick:
+nickAPP  10:07
+@nick just synced emrap-corependium-client at 2019-10-22 10:07:51
+10:09
+@nick just synced emrap-corependium-server at 2019-10-22 10:09:49
+:nick:
+nickAPP  09:50
+@nick just synced emrap-corependium-client at 2019-10-23 09:50:42
+09:52
+@nick just synced emrap-corependium-server at 2019-10-23 09:52:47
+:nick:
+nickAPP  11:43
+@nick just synced emrap-corependium-client at 2019-10-23 11:43:23
+:nick:
+nickAPP  11:51
+@nick just synced emrap-corependium-chapter-importer at 2019-10-24 11:51:51
+11:54
+@nick just synced emrap-corependium-server at 2019-10-24 11:54:36
+11:58
+@nick just synced emrap-corependium-client at 2019-10-24 11:58:17
+:kendra:
+kendraAPP  16:10
+@kendra just synced hippo-pay-admin at 2019-10-24 16:10:52
+16:11
+@kendra just synced hippo-pay at 2019-10-24 16:11:15
+16:11
+@kendra just synced uas-oauth2-server at 2019-10-24 16:11:32
+16:12
+@kendra just synced uas-jsonapi-server at 2019-10-24 16:12:00
+
+:nick:
+nickAPP  10:56
+@nick just synced emrap-corependium-client at 2019-10-25 10:56:56
+10:58
+@nick just synced emrap-corependium-chapter-importer at 2019-10-25 10:58:39
+11:02
+@nick just synced emrap-corependium-server at 2019-10-25 11:02:11
+:nick:
+nickAPP  13:12
+@nick just synced emrap-corependium-client at 2019-10-25 13:12:08
+:nick:
+nickAPP  15:41
+@nick just synced emrap-corependium-client at 2019-10-25 15:41:18
+15:43
+@nick just synced emrap-corependium-server at 2019-10-25 15:43:28
+:nick:
+nickAPP  15:49
+@nick just synced emrap-corependium-server at 2019-10-25 15:49:23
+15:53
+@nick just synced emrap-corependium-client at 2019-10-25 15:53:49
+:nick:
+nickAPP  17:13
+@nick just synced emrap-corependium-client at 2019-10-25 17:13:42
+:mike:
+gauthiermAPP  18:49
+@gauthierm just synced uas-jsonapi-server at 2019-10-25 18:49:22
+:mike:
+gauthiermAPP  19:00
+@gauthierm just synced uas-jsonapi-server at 2019-10-25 19:00:36
+:nick:
+nickAPP  14:32
+@nick just synced emrap-corependium-chapter-importer at 2019-10-28 14:32:42
+14:35
+@nick just synced emrap-corependium-server at 2019-10-28 14:35:44
+14:39
+@nick just synced emrap-corependium-chapter-importer at 2019-10-28 14:39:18
+:nick:
+nickAPP  14:49
+@nick just synced emrap-corependium-client at 2019-10-28 14:49:14
+:nick:
+nickAPP  19:37
+@nick just synced emrap-corependium-server at 2019-10-28 19:37:45
+19:42
+@nick just synced emrap-corependium-client at 2019-10-28 19:42:28
+:nick:
+nickAPP  12:48
+@nick just synced emrap-corependium-client at 2019-10-29 12:48:56
+12:50
+@nick just synced emrap-corependium-chapter-importer at 2019-10-29 12:50:38
+12:52
+@nick just synced emrap-corependium-server at 2019-10-29 12:52:31
+:mike:
+gauthiermAPP  14:17
+@gauthierm just synced emrap at 2019-10-29 14:17:29
+:nick:
+nickAPP  14:33
+@nick just synced emrap-corependium-client at 2019-10-29 14:33:27
+:meg:
+megAPP  16:19
+@meg just synced uas-jsonapi-server at 2019-10-29 16:19:41
+:meg:
+megAPP  16:59
+@meg just synced hippo-pay-admin at 2019-10-29 16:59:06
+:philip:
+philipAPP  12:54
+@philip just synced emrap at 2019-11-01 12:54:58
+:kendra:
+kendraAPP  13:05
+@kendra just synced essentials at 2019-11-01 13:05:51
+:philip:
+philipAPP  14:24
+@philip just synced emrap at 2019-11-01 14:24:52
+:kendra:
+kendraAPP  19:57
+@kendra just synced essentials at 2019-11-01 19:57:29
+
+:jingwen:
+jingwenAPP  12:06
+@jingwen just synced course-host at 2019-11-04 12:06:08
+:keith:
+keithAPP  15:22
+@keith just synced course-host at 2019-11-04 15:22:45
+15:24
+@keith just synced course-host at 2019-11-04 15:24:21
+15:27
+@keith just synced course-host at 2019-11-04 15:27:19
+:jingwen:
+jingwenAPP  15:29
+@jingwen just synced course-host at 2019-11-04 15:29:18
+:kendra:
+kendraAPP  20:19
+@kendra just synced essentials at 2019-11-04 20:19:38
+:charles:
+charlesAPP  11:08
+@charles just synced emrap-fire-daemon at 2019-11-05 11:08:51
+:isaac-big-hands:
+isaacAPP  11:56
+@isaac just synced course-host at 2019-11-05 11:56:26
+:meg:
+megAPP  14:07
+@meg just synced uas-jsonapi-server at 2019-11-05 14:07:17
+:meg:
+megAPP  14:12
+@meg just synced uas-jsonapi-server at 2019-11-05 14:12:53
+:meg:
+megAPP  17:39
+@meg just synced uas-jsonapi-server at 2019-11-05 17:39:02
+:meg:
+megAPP  17:45
+@meg just synced hippo-pay-admin at 2019-11-05 17:45:07
+:charles:
+charlesAPP  11:51
+@charles just synced emrap-fire-daemon at 2019-11-07 11:51:29
+:philip:
+philipAPP  13:37
+@philip just synced emrap-corependium-client at 2019-11-07 13:37:23
+:isaac-big-hands:
+isaacAPP  12:27
+@isaac just synced course-host at 2019-11-08 12:27:33
+:mike:
+gauthiermAPP  13:16
+@gauthierm just synced hippo-pay-admin at 2019-11-08 13:16:29
+:mike:
+gauthiermAPP  15:28
+@gauthierm just synced uas-jsonapi-server at 2019-11-08 15:28:05
+:mike:
+gauthiermAPP  16:04
+@gauthierm just synced uas-jsonapi-server at 2019-11-08 16:04:24
+:mike:
+gauthiermAPP  17:17
+@gauthierm just synced hippo-pay-admin at 2019-11-08 17:17:23
+:mike:
+gauthiermAPP  19:51
+@gauthierm just synced uas-oauth2-server at 2019-11-08 19:51:02
+19:55
+@gauthierm just synced hippo-pay-admin at 2019-11-08 19:55:40
+:philip:
+philipAPP  10:55
+@philip just synced emrap-corependium-client at 2019-11-12 10:55:36
+:mike:
+gauthiermAPP  14:26
+@gauthierm just synced video-platform-client at 2019-11-12 14:26:48
+:mike:
+gauthiermAPP  15:22
+@gauthierm just synced video-platform-client at 2019-11-12 15:22:11
+:mike:
+gauthiermAPP  15:39
+@gauthierm just synced hippo-pay at 2019-11-12 15:39:22
+15:42
+@gauthierm just synced hippo-pay-client at 2019-11-12 15:42:40
+:mike:
+gauthiermAPP  20:49
+@gauthierm just synced hippo-pay-admin at 2019-11-12 20:49:52
+:mike:
+gauthiermAPP  22:42
+@gauthierm just synced video-platform-client at 2019-11-12 22:42:33
+
+:charles:
+charlesAPP  13:53
+@charles just synced course-host at 2019-11-13 13:53:14
+:philip:
+philipAPP  17:02
+@philip just synced emrap at 2019-11-13 17:02:31
+:jingwen:
+jingwenAPP  13:55
+@jingwen just synced course-host at 2019-11-14 13:55:51
+:meg:
+megAPP  13:58
+@meg just synced video-platform-client at 2019-11-14 13:58:20
+13:58
+@meg just synced hippo-pay-client at 2019-11-14 13:58:26
+:jingwen:
+jingwenAPP  14:09
+@jingwen just synced course-host at 2019-11-14 14:09:02
+14:11
+@jingwen just synced course-host at 2019-11-14 14:11:08
+14:12
+@jingwen just synced course-host at 2019-11-14 14:12:30
+:nick:
+nickAPP  16:42
+@nick just synced emrap at 2019-11-14 16:42:46
+:isaac-big-hands:
+isaacAPP  18:06
+@isaac just synced starmaker at 2019-11-14 18:06:03
+:jingwen:
+jingwenAPP  10:01
+@jingwen just synced course-host at 2019-11-18 10:01:09
+:nick:
+nickAPP  10:06
+@nick just synced emrap-corependium-server at 2019-11-19 10:06:45
+:jingwen:
+jingwenAPP  10:24
+@jingwen just synced course-host at 2019-11-19 10:24:23
+:nick:
+nickAPP  10:33
+@nick just synced emrap-corependium-client at 2019-11-19 10:33:14
+:charles:
+charlesAPP  11:57
+@charles just synced course-host at 2019-11-19 11:57:33
+:nick:
+nickAPP  15:37
+@nick just synced emrap-corependium-server at 2019-11-19 15:37:20
+:mike:
+gauthiermAPP  13:47
+@gauthierm just synced video-platform-client at 2019-11-20 13:47:59
+:nick:
+nickAPP  15:34
+@nick just synced emrap-corependium-server at 2019-11-20 15:34:41
+15:38
+@nick just synced emrap-corependium-client at 2019-11-20 15:38:31
+brandonAPP  18:15
+@brandon just synced uas-jsonapi-server at 2019-11-20 18:15:31
+:meg:
+megAPP  18:36
+@meg just synced uas-jsonapi-server at 2019-11-20 18:36:04
+brandonAPP  18:43
+@brandon just synced qbank-react at 2019-11-20 18:43:16
+:kendra:
+kendraAPP  19:03
+@kendra just synced hippo-ed at 2019-11-20 19:03:52
+:kendra:
+kendraAPP  19:09
+@kendra just synced hippo at 2019-11-20 19:09:24
+19:09
+@kendra just synced essentials at 2019-11-20 19:09:43
+19:13
+@kendra just synced pcrap at 2019-11-20 19:13:43
+19:15
+@kendra just synced ucrap at 2019-11-20 19:15:51
+19:17
+@kendra just synced pedsrap at 2019-11-20 19:17:33
+19:19
+@kendra just synced ercast at 2019-11-20 19:19:39
+19:21
+@kendra just synced papodcast at 2019-11-20 19:21:34
+:mike:
+gauthiermAPP  19:33
+@gauthierm just synced uas-graphql-server at 2019-11-20 19:33:19
+
+:nick:
+nickAPP  11:40
+@nick just synced emrap-corependium-client at 2019-11-21 11:40:45
+:nick:
+nickAPP  11:47
+@nick just synced emrap-corependium-server at 2019-11-21 11:47:40
+:jingwen:
+jingwenAPP  11:50
+@jingwen just synced course-host at 2019-11-21 11:50:17
+:meg:
+megAPP  13:14
+@meg just synced essentials at 2019-11-21 13:14:13
+:mike:
+gauthiermAPP  13:52
+@gauthierm just synced uas-graphql-server at 2019-11-21 13:52:53
+:jingwen:
+jingwenAPP  14:14
+@jingwen just synced course-host at 2019-11-21 14:14:59
+:mike:
+gauthiermAPP  14:30
+@gauthierm just synced uas-graphql-server at 2019-11-21 14:30:00
+:nick:
+nickAPP  14:46
+@nick just synced emrap at 2019-11-21 14:46:41
+:nick:
+nickAPP  16:04
+@nick just synced emrap-corependium-client at 2019-11-21 16:04:36
+:nick:
+nickAPP  16:32
+@nick just synced emrap at 2019-11-21 16:32:19
+:mike:
+gauthiermAPP  18:22
+@gauthierm just synced uas-graphql-server at 2019-11-21 18:22:42
+:kendra:
+kendraAPP  19:22
+@kendra just synced essentials at 2019-11-21 19:22:04
+:kendra:
+kendraAPP  18:28
+@kendra just synced hippo at 2019-11-22 18:28:40
+:mike:
+gauthiermAPP  18:44
+@gauthierm just synced video-platform-client at 2019-11-22 18:44:56
+:mike:
+gauthiermAPP  18:55
+@gauthierm just synced uas-jsonapi-server at 2019-11-22 18:55:25
+:kendra:
+kendraAPP  20:15
+@kendra just synced hippo at 2019-11-22 20:15:31
+ElasticBeanstalkAPP  04:01
+CFSC - api.cf-fb.org deployed at 2019-11-24 08:01:52
+ElasticBeanstalkAPP  08:20
+CFSC - api.cf-fb.org deployed at 2019-11-24 12:20:29
+:philip:
+philipAPP  10:38
+@philip just synced emrap-corependium-client at 2019-12-02 10:38:27
+10:42
+@philip just synced emrap-corependium-server at 2019-12-02 10:42:12
+:jingwen:
+jingwenAPP  11:07
+@jingwen just synced course-host at 2019-12-02 11:07:53
+:mike:
+gauthiermAPP  14:18
+@gauthierm just synced video-platform-client at 2019-12-03 14:18:28
+14:22
+@gauthierm just synced uas-graphql-server at 2019-12-03 14:22:02
+14:25
+@gauthierm just synced video-platform-client at 2019-12-03 14:25:17
+:kendra:
+kendraAPP  14:51
+@kendra just synced hippo at 2019-12-03 14:51:40
+:mike:
+gauthiermAPP  19:02
+@gauthierm just synced video-platform-client at 2019-12-03 19:02:47
+:mike:
+gauthiermAPP  19:21
+@gauthierm just synced video-platform-client at 2019-12-03 19:20:59
+
+:mike:
+gauthiermAPP  17:12
+@gauthierm just synced hippo-pay-client at 2019-12-04 17:12:10
+17:15
+@gauthierm just synced uas-jsonapi-server at 2019-12-04 17:15:09
+17:18
+@gauthierm just synced hippo-pay-admin at 2019-12-04 17:18:40
+:mike:
+gauthiermAPP  17:42
+@gauthierm just synced hippo-pay-admin at 2019-12-04 17:42:25
+:mike:
+gauthiermAPP  18:15
+@gauthierm just synced hippo at 2019-12-04 18:14:57
+18:17
+@gauthierm just synced uas-graphql-server at 2019-12-04 18:17:00
+:mike:
+gauthiermAPP  18:22
+@gauthierm just synced video-platform-client at 2019-12-04 18:22:53
+:kendra:
+kendraAPP  19:41
+@kendra just synced hippo at 2019-12-04 19:41:40
+:kendra:
+kendraAPP  20:00
+@kendra just synced hippo at 2019-12-04 20:00:41
+:mike:
+gauthiermAPP  20:05
+@gauthierm just synced uas-graphql-server at 2019-12-04 20:05:31
+:mike:
+gauthiermAPP  20:26
+@gauthierm just synced uas-graphql-server at 2019-12-04 20:26:32
+:mike:
+gauthiermAPP  13:02
+@gauthierm just synced uas-graphql-server at 2019-12-05 13:02:57
+13:06
+@gauthierm just synced hippo-pay-admin at 2019-12-05 13:06:52
+:jingwen:
+jingwenAPP  13:33
+@jingwen just synced course-host at 2019-12-05 13:33:45
+:mike:
+gauthiermAPP  13:54
+@gauthierm just synced video-platform-client at 2019-12-05 13:54:56
+:mike:
+gauthiermAPP  14:10
+@gauthierm just synced video-platform-client at 2019-12-05 14:10:02
+14:14
+@gauthierm just synced hippo-pay-admin at 2019-12-05 14:14:09
+:mike:
+gauthiermAPP  14:23
+@gauthierm just synced uas-graphql-server at 2019-12-05 14:23:31
+:jingwen:
+jingwenAPP  15:50
+@jingwen just synced course-host at 2019-12-05 15:50:41
+:mike:
+gauthiermAPP  17:47
+@gauthierm just synced uas-graphql-server at 2019-12-05 17:47:31
+:mike:
+gauthiermAPP  17:55
+@gauthierm just synced uas-jsonapi-server at 2019-12-05 17:55:07
+:kendra:
+kendraAPP  18:01
+@kendra just synced hippo at 2019-12-05 18:01:25
+ElasticBeanstalkAPP  11:09
+CFSC - api.cf-fb.org deployed at 2019-12-09 15:09:10
+ElasticBeanstalkAPP  11:15
+CFSC - api.cf-fb.org deployed at 2019-12-09 15:15:15
+:nick:
+nickAPP  13:56
+@nick just synced emrap-go-client at 2019-12-09 13:56:16
+13:59
+@nick just synced emrap-go-server at 2019-12-09 13:59:35
+:charles:
+charlesAPP  14:11
+@charles just synced emrap at 2019-12-09 14:11:02
+14:12
+@charles just synced course-host at 2019-12-09 14:12:01
+:charles:
+charlesAPP  14:30
+@charles just synced emrap at 2019-12-09 14:29:59
+:nick:
+nickAPP  15:02
+@nick just synced emrap at 2019-12-09 15:02:01
+:mike:
+gauthiermAPP  19:34
+@gauthierm just synced uas-jsonapi-server at 2019-12-09 19:34:07
+19:37
+@gauthierm just synced uas-graphql-server at 2019-12-09 19:37:22
+19:42
+@gauthierm just synced video-platform-client at 2019-12-09 19:42:21
+
+gauthiermAPP  12:22
+@gauthierm just synced uas-jsonapi-server at 2019-12-10 12:22:04
+:jingwen:
+jingwenAPP  13:41
+@jingwen just synced course-host at 2019-12-10 13:41:48
+:mike:
+gauthiermAPP  15:57
+@gauthierm just synced uas-jsonapi-server at 2019-12-10 15:57:58
+:jingwen:
+jingwenAPP  16:28
+@jingwen just synced course-host at 2019-12-10 16:28:19
+:mike:
+gauthiermAPP  16:47
+@gauthierm just synced uas-jsonapi-server at 2019-12-10 16:47:56
+:mike:
+gauthiermAPP  17:39
+@gauthierm just synced uas-jsonapi-server at 2019-12-10 17:39:40
+:kendra:
+kendraAPP  17:54
+@kendra just synced hippo at 2019-12-10 17:54:23
+:mike:
+gauthiermAPP  18:04
+@gauthierm just synced uas-jsonapi-server at 2019-12-10 18:04:00
+:mike:
+gauthiermAPP  19:35
+@gauthierm just synced hippo at 2019-12-10 19:35:34
+:mike:
+gauthiermAPP  19:47
+@gauthierm just synced uas-jsonapi-server at 2019-12-10 19:47:02
+:jingwen:
+jingwenAPP  14:38
+@jingwen just synced course-host at 2019-12-11 14:38:12
+:mike:
+gauthiermAPP  17:07
+@gauthierm just synced uas-jsonapi-server at 2019-12-11 17:07:13
+17:08
+@gauthierm just synced uas-graphql-server at 2019-12-11 17:08:52
+17:11
+@gauthierm just synced video-platform-client at 2019-12-11 17:11:28
+:meg:
+megAPP  17:18
+@meg just synced ercast at 2019-12-11 17:18:38
+17:20
+@meg just synced papodcast at 2019-12-11 17:20:21
+17:24
+@meg just synced essentials at 2019-12-11 17:24:10
+:meg:
+megAPP  17:30
+@meg just synced hippo at 2019-12-11 17:30:43
+:meg:
+megAPP  17:36
+@meg just synced hippo at 2019-12-11 17:36:21
+17:39
+@meg just synced hippo-ed at 2019-12-11 17:39:12
+17:42
+@meg just synced qbank-react at 2019-12-11 17:42:54
+:mike:
+gauthiermAPP  17:53
+@gauthierm just synced video-platform-client at 2019-12-11 17:53:38
+:meg:
+megAPP  17:54
+@meg just synced qbank-react at 2019-12-11 17:54:09
+:mike:
+gauthiermAPP  17:57
+@gauthierm just synced ucrap at 2019-12-11 17:57:46
+18:00
+@gauthierm just synced pedsrap at 2019-12-11 18:00:06
+18:02
+@gauthierm just synced pcrap at 2019-12-11 18:02:29
+18:07
+@gauthierm just synced ercast at 2019-12-11 18:07:10
+:meg:
+megAPP  18:36
+@meg just synced hippo at 2019-12-11 18:36:52
+:meg:
+megAPP  20:34
+@meg just synced video-platform-client at 2019-12-11 20:34:14
+brandonAPP  12:29
+@brandon just synced qbank-react at 2019-12-12 12:29:21
+:kendra:
+kendraAPP  12:55
+@kendra just synced video-platform-client at 2019-12-12 12:55:10
+:mike:
+gauthiermAPP  18:02
+@gauthierm just synced video-platform-client at 2019-12-12 18:02:46
+:mike:
+gauthiermAPP  18:50
+@gauthierm just synced video-platform-client at 2019-12-12 18:50:24
+:mike:
+gauthiermAPP  19:19
+@gauthierm just synced video-platform-client at 2019-12-12 19:19:25
+:mike:
+gauthiermAPP  19:56
+@gauthierm just synced video-platform-client at 2019-12-12 19:56:37
+
+:meg:
+megAPP  16:18
+@meg just synced hippo at 2019-12-13 16:18:14
+:mike:
+gauthiermAPP  19:21
+@gauthierm just synced video-platform-client at 2019-12-13 19:21:17
+:nick:
+nickAPP  11:58
+@nick just synced emrap-corependium-client at 2019-12-16 11:58:56
+brandonAPP  12:14
+@brandon just synced acoep-platform at 2019-12-17 12:14:45
+12:19
+@brandon just synced acoep-platform at 2019-12-17 12:19:20
+:kendra:
+kendraAPP  12:56
+@kendra just synced essentials at 2019-12-17 12:56:06
+:jingwen:
+jingwenAPP  13:29
+@jingwen just synced course-host at 2019-12-17 13:29:55
+:nick:
+nickAPP  09:57
+@nick just synced emrap at 2019-12-18 09:57:10
+brandonAPP  11:09
+@brandon just synced uas-jsonapi-server at 2019-12-18 11:09:48
+brandonAPP  11:30
+@brandon just synced uas-jsonapi-server at 2019-12-18 11:30:47
+:nick:
+nickAPP  12:04
+@nick just synced emrap-corependium-chapter-importer at 2019-12-18 12:04:20
+12:06
+@nick just synced emrap-corependium-server at 2019-12-18 12:06:23
+12:10
+@nick just synced emrap-corependium-client at 2019-12-18 12:10:53
+ElasticBeanstalkAPP  16:43
+CFSC - api.cf-fb.org deployed at 2019-12-18 20:43:55
+ElasticBeanstalkAPP  16:50
+CFSC - api.cf-fb.org deployed at 2019-12-18 20:50:21
+:kendra:
+kendraAPP  20:57
+@kendra just synced hippo at 2019-12-18 20:56:58
+:nick:
+nickAPP  10:48
+@nick just synced emrap-corependium-chapter-importer at 2019-12-19 10:48:08
+10:51
+@nick just synced emrap-corependium-server at 2019-12-19 10:51:31
+:jacob:
+jacobAPP  14:19
+@jacob just synced uas-jsonapi-server at 2019-12-19 14:19:49
+:nick:
+nickAPP  14:42
+@nick just synced course-host at 2019-12-19 14:42:50
+:mike:
+gauthiermAPP  15:55
+@gauthierm just synced emrap-corependium-client at 2019-12-19 15:55:26
+15:57
+@gauthierm just synced emrap-corependium-server at 2019-12-19 15:57:00
+:meg:
+megAPP  18:03
+@meg just synced pcrap at 2019-12-19 18:03:49
+:meg:
+megAPP  18:11
+@meg just synced ucrap at 2019-12-19 18:11:28
+
+:meg:
+megAPP  12:41
+@meg just synced papodcast at 2019-12-20 12:41:29
+:meg:
+megAPP  12:57
+@meg just synced ercast at 2019-12-20 12:57:16
+:isaac-big-hands:
+isaacAPP  16:34
+@isaac just synced starmaker at 2019-12-20 16:34:26
+16:37
+@isaac just synced starmaker at 2019-12-20 16:37:28
+:meg:
+megAPP  19:11
+@meg just synced essentials at 2019-12-20 19:11:12
+19:13
+@meg just synced pedsrap at 2019-12-20 19:13:38
+19:13
+@meg just synced essentials at 2019-12-20 19:13:49
+:isaac-big-hands:
+isaacAPP  15:50
+@isaac just synced starmaker at 2019-12-21 15:50:46
+:kendra:
+kendraAPP  15:01
+@kendra just synced hippo at 2019-12-23 15:01:51
+:mike:
+gauthiermAPP  19:03
+@gauthierm just synced hippo at 2019-12-30 19:03:09
+:meg:
+megAPP  09:10
+@meg just synced hippo at 2020-01-01 09:10:35
+:slice:
+@rkotcher just synced uas-jsonapi-server at 2020-01-02 17:00:46
+:slice:
+@rkotcher just synced uas-jsonapi-server at 2020-01-02 17:17:20
+:slice:
+@rkotcher just synced uas-jsonapi-server at 2020-01-03 17:13:18
+brandonAPP  17:58
+@brandon just synced video-platform-client at 2020-01-03 17:58:19
+
+ElasticBeanstalkAPP  09:51
+CFSC - api.cf-fb.org deployed at 2020-01-06 13:51:28
+ElasticBeanstalkAPP  09:57
+CFSC - api.cf-fb.org deployed at 2020-01-06 13:57:49
+:charles:
+charlesAPP  14:33
+@charles just synced starmaker at 2020-01-06 14:33:47
+:meg:
+megAPP  15:58
+@meg just synced hippo at 2020-01-06 15:58:55
+:meg:
+megAPP  18:22
+@meg just synced hippo at 2020-01-06 18:22:37
+:kendra:
+kendraAPP  18:38
+@kendra just synced hippo-ed at 2020-01-06 18:38:27
+:kendra:
+kendraAPP  19:51
+@kendra just synced hippo-pay-client at 2020-01-06 19:51:32
+:philip:
+philipAPP  15:21
+@philip just synced emrap-corependium-chapter-importer at 2020-01-07 15:21:56
+15:22
+@philip just synced emrap-corependium-server at 2020-01-07 15:22:58
+:meg:
+megAPP  15:51
+@meg just synced hippo at 2020-01-07 15:51:24
+:nick:
+nickAPP  16:08
+@nick just synced emrap at 2020-01-07 16:08:44
+:slice:
+@rkotcher just synced uas-jsonapi-server at 2020-01-08 16:01:26
+:slice:
+@rkotcher just synced uas-jsonapi-server at 2020-01-08 18:46:25
+:nick:
+nickAPP  10:16
+@nick just synced emrap at 2020-01-09 10:16:25
+:charles:
+charlesAPP  14:49
+@charles just synced starmaker at 2020-01-09 14:49:18
+:jingwen:
+jingwenAPP  17:15
+@jingwen just synced course-host at 2020-01-09 17:15:29
+:nick:
+nickAPP  10:25
+@nick just synced emrap at 2020-01-10 10:25:49
+:kendra:
+kendraAPP  17:55
+@kendra just synced hippo at 2020-01-10 17:55:14
+:jacob:
+jacobAPP  16:43
+@jacob just synced uas-jsonapi-server at 2020-01-13 16:43:27
+16:48
+@jacob just synced uas-graphql-server at 2020-01-13 16:48:06
+:nick:
+nickAPP  13:58
+@nick just synced emrap at 2020-01-14 13:58:24
+:philip:
+philipAPP  14:49
+@philip just synced emrap-corependium-client at 2020-01-14 14:49:22
+
+:nick:
+nickAPP  11:58
+@nick just synced emrap at 2020-01-15 11:58:32
+:jacob:
+jacobAPP  12:26
+@jacob just synced video-platform-client at 2020-01-15 12:26:28
+:nick:
+nickAPP  15:34
+@nick just synced emrap at 2020-01-15 15:34:55
+:kendra:
+kendraAPP  13:26
+@kendra just synced hippo-pay-client at 2020-01-22 13:26:07
+:jingwen:
+jingwenAPP  10:06
+@jingwen just synced course-host at 2020-01-23 10:06:44
+:jacob:
+jacobAPP  16:18
+@jacob just synced video-platform-client at 2020-01-23 16:18:36
+:meg:
+megAPP  16:20
+@meg just synced hippo at 2020-01-23 16:20:32
+:meg:
+megAPP  12:54
+@meg just synced essentials at 2020-01-24 12:54:28
+:meg:
+megAPP  13:06
+@meg just synced papodcast at 2020-01-24 13:06:02
+13:06
+@meg just synced ercast at 2020-01-24 13:06:02
+:meg:
+megAPP  15:00
+@meg just synced hippo at 2020-01-24 15:00:52
+:nick:
+nickAPP  15:07
+@nick just synced emrap at 2020-01-27 15:07:01
+:kendra:
+kendraAPP  21:07
+@kendra just synced essentials at 2020-01-27 21:07:10
+:kendra:
+kendraAPP  19:03
+@kendra just synced essentials at 2020-01-28 19:03:33
+:kendra:
+kendraAPP  14:10
+@kendra just synced hippo at 2020-01-29 14:10:07
+:nick:
+nickAPP  15:50
+@nick just synced emrap at 2020-01-29 15:50:36
+ElasticBeanstalkAPP  12:16
+CFSC - api.cf-fb.org deployed at 2020-01-30 16:16:48
+ElasticBeanstalkAPP  12:23
+CFSC - api.cf-fb.org deployed at 2020-01-30 16:23:01
+
+:nick:
+nickAPP  11:13
+@nick just synced emrap at 2020-01-31 11:13:39
+:nick:
+nickAPP  12:59
+@nick just synced emrap-corependium-server at 2020-01-31 12:59:47
+:nick:
+nickAPP  13:09
+@nick just synced emrap-corependium-client at 2020-01-31 13:09:15
+:isaac-big-hands:
+isaacAPP  15:16
+@isaac just synced starmaker at 2020-01-31 15:16:24
+:nick:
+nickAPP  15:38
+@nick just synced emrap-corependium-client at 2020-01-31 15:38:35
+:jingwen:
+jingwenAPP  10:16
+@jingwen just synced course-host at 2020-02-03 10:16:52
+:nick:
+nickAPP  15:02
+@nick just synced emrap at 2020-02-03 15:02:24
+:meg:
+megAPP  19:42
+@meg just synced ucrap at 2020-02-04 19:42:33
+:nick:
+nickAPP  12:16
+@nick just synced emrap at 2020-02-05 12:16:29
+:charles:
+charlesAPP  16:04
+@charles just synced course-host at 2020-02-06 16:04:34
+:kendra:
+kendraAPP  16:20
+@kendra just synced pcrap at 2020-02-06 16:20:53
+:kendra:
+kendraAPP  16:41
+@kendra just synced pedsrap at 2020-02-06 16:41:36
+16:45
+@kendra just synced ucrap at 2020-02-06 16:45:34
+16:49
+@kendra just synced ercast at 2020-02-06 16:49:33
+16:53
+@kendra just synced papodcast at 2020-02-06 16:53:08
+:isaac-big-hands:
+isaacAPP  18:06
+@isaac just synced starmaker at 2020-02-06 18:06:02
+:charles:
+charlesAPP  11:07
+@charles just synced course-host at 2020-02-11 11:07:36
+:nick:
+nickAPP  16:40
+@nick just synced emrap at 2020-02-11 16:40:58
+:jingwen:
+jingwenAPP  10:29
+@jingwen just synced course-host at 2020-02-13 10:29:39
+ElasticBeanstalkAPP  14:39
+CFSC - api.cf-fb.org deployed at 2020-02-13 18:39:32
+ElasticBeanstalkAPP  14:45
+CFSC - api.cf-fb.org deployed at 2020-02-13 18:45:57
+:mike:
+gauthiermAPP  16:22
+@gauthierm just synced silverorange at 2020-02-14 16:22:01
+
+:charles:
+charlesAPP  10:13
+@charles just synced course-host at 2020-02-19 10:13:37
+:charles:
+charlesAPP  16:48
+@charles just synced course-host at 2020-02-19 16:48:43
+:slice:
+@rkotcher just synced hippo-pay-client at 2020-02-19 20:25:39
+:jingwen:
+jingwenAPP  11:35
+@jingwen just synced course-host at 2020-02-20 11:35:24
+:philip:
+philipAPP  18:12
+@philip just synced emrap-corependium-server at 2020-02-20 18:12:35
+:mike:
+gauthiermAPP  18:21
+@gauthierm just synced emrap-corependium-client at 2020-02-20 18:21:36
+:nick:
+nickAPP  11:34
+@nick just synced emrap at 2020-02-21 11:34:35
+ElasticBeanstalkAPP  12:56
+CFSC - api.cf-fb.org deployed at 2020-02-21 16:56:37
+ElasticBeanstalkAPP  13:02
+CFSC - api.cf-fb.org deployed at 2020-02-21 17:02:49
+:isaac-big-hands:
+isaacAPP  13:48
+@isaac just synced starmaker at 2020-02-21 13:48:23
+:nick:
+nickAPP  14:47
+@nick just synced emrap-corependium-client at 2020-02-21 14:47:48
+jake  16:02
+left #sync-to-live.
+:nick:
+nickAPP  16:32
+@nick just synced emrap-corependium-client at 2020-02-21 16:32:13
+:jingwen:
+jingwenAPP  17:01
+@jingwen just synced course-host at 2020-02-24 17:01:21
+:charles:
+charlesAPP  13:17
+@charles just synced course-host at 2020-02-25 13:17:17
+:meg:
+megAPP  18:05
+@meg just synced hippo at 2020-02-28 18:05:43
+
+:meg:
+megAPP  12:59
+@meg just synced hippo at 2020-03-02 12:59:17
+:meg:
+megAPP  14:38
+@meg just synced essentials at 2020-03-02 14:38:04
+:meg:
+megAPP  17:40
+@meg just synced pcrap at 2020-03-02 17:40:00
+17:43
+@meg just synced pedsrap at 2020-03-02 17:43:44
+17:45
+@meg just synced ucrap at 2020-03-02 17:45:16
+:meg:
+megAPP  17:50
+@meg just synced hippo at 2020-03-02 17:50:40
+:meg:
+megAPP  17:57
+@meg just synced ercast at 2020-03-02 17:57:04
+17:59
+@meg just synced papodcast at 2020-03-02 17:59:54
+:keith:
+keithAPP  16:28
+@keith just synced emrap at 2020-03-04 16:28:34
+:keith:
+keithAPP  17:19
+@keith just synced emrap at 2020-03-04 17:19:33
+:philip:
+philipAPP  16:29
+@philip just synced emrap-corependium-server at 2020-03-05 16:29:28
+16:34
+@philip just synced emrap-corependium-client at 2020-03-05 16:34:16
+:philip:
+philipAPP  16:49
+@philip just synced emrap at 2020-03-05 16:49:16
+:steven:
+stevenAPP  09:44
+@steven just synced silverorange at 2020-03-09 09:44:07
+ElasticBeanstalkAPP  13:07
+CFSC - api.cf-fb.org deployed at 2020-03-09 16:07:28
+ElasticBeanstalkAPP  13:13
+CFSC - api.cf-fb.org deployed at 2020-03-09 16:13:57
+:philip:
+philipAPP  10:35
+@philip just synced emrap-corependium-client at 2020-03-10 10:35:22
+
+:keith:
+keithAPP  10:33
+@keith just synced emrap-fire-daemon at 2020-03-11 10:33:08
+:keith:
+keithAPP  10:39
+@keith just synced emrap-fire-daemon at 2020-03-11 10:39:01
+:jayme:
+jaymeAPP  11:19
+@jayme just synced emrap-fire-daemon at 2020-03-11 11:19:09
+:philip:
+philipAPP  11:37
+@philip just synced emrap-corependium-client at 2020-03-11 11:37:11
+:keith:
+keithAPP  11:59
+@keith just synced emrap-fire-daemon at 2020-03-11 11:59:27
+:nick:
+nickAPP  15:46
+@nick just synced emrap at 2020-03-11 15:46:12
+:jingwen:
+jingwenAPP  15:49
+@jingwen just synced course-host at 2020-03-11 15:49:50
+:nick:
+nickAPP  16:49
+@nick just synced emrap-corependium-client at 2020-03-11 16:49:00
+:philip:
+philipAPP  09:39
+@philip just synced emrap-corependium-client at 2020-03-13 09:39:24
+:philip:
+philipAPP  10:52
+@philip just synced emrap-corependium-client at 2020-03-13 10:52:45
+:philip:
+philipAPP  11:09
+@philip just synced emrap-corependium-server at 2020-03-13 11:09:47
+:nick:
+nickAPP  13:57
+@nick just synced emrap-corependium-client at 2020-03-13 13:57:27
+:mike:
+gauthiermAPP  17:49
+@gauthierm just synced emrap-fire-daemon at 2020-03-13 17:49:27
+:isaac-big-hands:
+isaacAPP  21:30
+@isaac just synced course-host at 2020-03-13 21:30:45
+
+:nick:
+nickAPP  10:45
+@nick just synced emrap at 2020-03-16 10:45:00
+:isaac-big-hands:
+isaacAPP  20:37
+@isaac just synced starmaker at 2020-03-16 20:37:20
+:jingwen:
+jingwenAPP  10:59
+@jingwen just synced course-host at 2020-03-17 10:59:14
+:jingwen:
+jingwenAPP  14:47
+@jingwen just synced course-host at 2020-03-17 14:47:20
+:philip:
+philipAPP  17:19
+@philip just synced emrap at 2020-03-17 17:18:59
+:keith:
+keithAPP  17:26
+@keith just synced emrap-fire-daemon at 2020-03-18 17:26:53
+:philip:
+philipAPP  11:09
+@philip just synced emrap-corependium-client at 2020-03-19 11:09:41
+:mike:
+gauthiermAPP  16:38
+@gauthierm just synced emrap-corependium-client at 2020-03-19 16:38:00
+ElasticBeanstalkAPP  19:01
+CFSC - api.cf-fb.org deployed at 2020-03-19 22:01:46
+ElasticBeanstalkAPP  19:07
+CFSC - api.cf-fb.org deployed at 2020-03-19 22:07:55
+:charles:
+charlesAPP  10:04
+@charles just synced course-host at 2020-03-23 10:04:03
+:nick:
+nickAPP  13:48
+@nick just synced emrap at 2020-03-23 13:48:33
+:nick:
+nickAPP  14:02
+@nick just synced emrap-go-client at 2020-03-23 14:02:06
+:nick:
+nickAPP  15:23
+@nick just synced emrap-go-client at 2020-03-23 15:23:11
+:nick:
+nickAPP  16:51
+@nick just synced emrap at 2020-03-23 16:51:43
+:kendra:
+kendraAPP  21:57
+@kendra just synced hippo at 2020-03-23 21:57:02
+:mike:
+gauthiermAPP  17:47
+@gauthierm just synced uas-jsonapi-server at 2020-03-24 17:47:18
+17:50
+@gauthierm just synced uas-jsonapi-server at 2020-03-24 17:50:56
+
+:philip:
+philipAPP  12:19
+@philip just synced emrap-corependium-client at 2020-03-25 12:19:38
+:kendra:
+kendraAPP  23:53
+@kendra just synced essentials at 2020-03-25 23:53:28
+:kendra:
+kendraAPP  00:16
+@kendra just synced hippo at 2020-03-26 00:16:33
+:kendra:
+kendraAPP  00:21
+@kendra just synced hippo at 2020-03-26 00:21:39
+00:24
+@kendra just synced papodcast at 2020-03-26 00:24:48
+ElasticBeanstalkAPP  11:09
+CFSC - api.cf-fb.org deployed at 2020-03-26 14:09:29
+ElasticBeanstalkAPP  11:15
+CFSC - api.cf-fb.org deployed at 2020-03-26 14:15:54
+:jacob:
+jacobAPP  14:13
+@jacob just synced uas-jsonapi-server at 2020-03-26 14:13:50
+:nick:
+nickAPP  14:43
+@nick just synced emrap-corependium-client at 2020-03-26 14:43:21
+:jacob:
+jacobAPP  14:53
+@jacob just synced uas-jsonapi-server at 2020-03-26 14:53:05
+:nick:
+nickAPP  14:58
+@nick just synced emrap at 2020-03-26 14:58:21
+:kendra:
+kendraAPP  15:52
+@kendra just synced papodcast at 2020-03-26 15:52:00
+:kendra:
+kendraAPP  20:42
+@kendra just synced essentials at 2020-03-26 20:42:36
+:kendra:
+kendraAPP  18:16
+@kendra just synced ercast at 2020-03-27 18:16:28
+:kendra:
+kendraAPP  19:53
+@kendra just synced hippo at 2020-03-27 19:53:53
+
+:nick:
+nickAPP  10:40
+@nick just synced emrap-corependium-server at 2020-03-30 10:40:13
+10:42
+@nick just synced emrap-corependium-client at 2020-03-30 10:42:43
+:nick:
+nickAPP  11:00
+@nick just synced emrap-corependium-client at 2020-03-30 11:00:02
+:nick:
+nickAPP  12:41
+@nick just synced emrap-corependium-client at 2020-03-30 12:41:50
+:kendra:
+kendraAPP  17:31
+@kendra just synced video-platform-client at 2020-03-30 17:31:12
+:meg:
+megAPP  19:37
+@meg just synced hippo at 2020-03-30 19:37:09
+:nick:
+nickAPP  10:12
+@nick just synced emrap-corependium-server at 2020-03-31 10:12:24
+:meg:
+megAPP  13:47
+@meg just synced ercast at 2020-03-31 13:47:12
+13:50
+@meg just synced hippo-pay-client at 2020-03-31 13:50:10
+:jingwen:
+jingwenAPP  10:47
+@jingwen just synced course-host at 2020-04-01 10:47:35
+:jingwen:
+jingwenAPP  10:58
+@jingwen just synced course-host at 2020-04-01 10:58:47
+:jingwen:
+jingwenAPP  13:38
+@jingwen just synced course-host at 2020-04-01 13:38:06
+:nick:
+nickAPP  22:17
+@nick just synced emrap at 2020-04-01 22:17:58
+:nick:
+nickAPP  19:50
+@nick just synced emrap-go-client at 2020-04-03 19:50:19
+:nick:
+nickAPP  20:11
+@nick just synced emrap-go-client at 2020-04-03 20:11:20
+
+:jingwen:
+jingwenAPP  17:01
+@jingwen just synced course-host at 2020-04-06 17:01:26
+:meg:
+megAPP  18:13
+@meg just synced ercast at 2020-04-06 18:13:48
+:philip:
+philipAPP  10:25
+@philip just synced emrap at 2020-04-07 10:25:38
+:nick:
+nickAPP  11:10
+@nick just synced emrap at 2020-04-08 11:10:16
+ElasticBeanstalkAPP  15:46
+CFSC - api.cf-fb.org deployed at 2020-04-08 18:46:36
+ElasticBeanstalkAPP  15:52
+CFSC - api.cf-fb.org deployed at 2020-04-08 18:52:58
+:keith:
+keithAPP  16:20
+@keith just synced emrap-fire-daemon at 2020-04-09 16:20:56
+:nick:
+nickAPP  10:10
+@nick just synced emrap-corependium-client at 2020-04-14 10:10:15
+:philip:
+philipAPP  12:55
+@philip just synced emrap at 2020-04-14 12:55:00
+:isaac-big-hands:
+isaacAPP  11:45
+@isaac just synced starmaker at 2020-04-15 11:45:05
+:nick:
+nickAPP  13:09
+@nick just synced emrap-corependium-server at 2020-04-16 13:09:23
+:nick:
+nickAPP  14:02
+@nick just synced emrap-corependium-client at 2020-04-16 14:02:00
+
+megAPP  13:29
+@meg just synced hippo at 2020-04-20 13:29:00
+:jingwen:
+jingwenAPP  11:33
+@jingwen just synced course-host at 2020-04-21 11:33:24
+:jingwen:
+jingwenAPP  15:00
+@jingwen just synced course-host at 2020-04-21 15:00:02
+:meg:
+megAPP  15:09
+@meg just synced hippo at 2020-04-21 15:09:54
+:philip:
+philipAPP  14:44
+@philip just synced emrap-corependium-server at 2020-04-23 14:44:08
+:philip:
+philipAPP  15:34
+@philip just synced emrap-corependium-client at 2020-04-23 15:34:31
+:nick:
+nickAPP  10:16
+@nick just synced emrap-corependium-client at 2020-04-24 10:16:50
+:philip:
+philipAPP  10:42
+@philip just synced emrap-fire-daemon at 2020-04-24 10:42:50
+:jake:
+jakeAPP  13:04
+@jake just synced CFSC - www.connecting-families.ca at 2020-04-24 12:04:00
+:kendra:
+kendraAPP  13:53
+@kendra just synced hippo at 2020-04-24 13:53:46
+:jacob:
+jacobAPP  17:30
+@jacob just synced hippo-pay at 2020-04-24 17:30:23
+:jacob:
+jacobAPP  16:39
+@jacob just synced uas-jsonapi-server at 2020-04-27 16:39:51
+:jacob:
+jacobAPP  17:33
+@jacob just synced video-platform-client at 2020-04-27 17:33:43
+:jacob:
+jacobAPP  18:16
+@jacob just synced uas-jsonapi-server at 2020-04-27 18:16:02
+:jacob:
+jacobAPP  21:56
+@jacob just synced video-platform-client at 2020-04-27 21:56:11
+
+jacobAPP  12:49
+@jacob just synced video-platform-client at 2020-04-28 12:49:17
+:mike:
+gauthiermAPP  17:38
+@gauthierm just synced hippo at 2020-04-28 17:38:05
+:jingwen:
+jingwenAPP  11:28
+@jingwen just synced course-host at 2020-04-29 11:28:52
+:jingwen:
+jingwenAPP  11:39
+@jingwen just synced course-host at 2020-04-29 11:39:34
+brandonAPP  19:44
+@brandon just synced hippo at 2020-04-29 19:44:35
+:jacob:
+jacobAPP  19:14
+@jacob just synced uas-jsonapi-server at 2020-04-30 19:14:22
+:meg:
+megAPP  19:40
+@meg just synced video-platform-client at 2020-04-30 19:40:09
+:nick:
+nickAPP  09:47
+@nick just synced emrap-corependium-server at 2020-05-01 09:47:28
+:nick:
+nickAPP  09:54
+@nick just synced emrap-corependium-client at 2020-05-01 09:54:08
+:keith:
+keithAPP  10:38
+@keith just synced emrap-fire-daemon at 2020-05-01 10:38:19
+:jingwen:
+jingwenAPP  15:00
+@jingwen just synced course-host at 2020-05-01 15:00:31
+:mike:
+gauthiermAPP  18:39
+@gauthierm just synced emrap-fire-daemon at 2020-05-01 18:39:20
+:mike:
+gauthiermAPP  18:48
+@gauthierm just synced emrap-fire-daemon at 2020-05-01 18:48:31
+:jacob:
+jacobAPP  16:35
+@jacob just synced uas-jsonapi-server at 2020-05-04 16:35:38
+:jacob:
+jacobAPP  16:54
+@jacob just synced video-platform-client at 2020-05-04 16:54:10
+:philip:
+philipAPP  17:35
+@philip just synced emrap-corependium-server at 2020-05-04 17:35:47
+:charles:
+charlesAPP  18:16
+@charles just synced course-host at 2020-05-04 18:16:46
+:nick:
+nickAPP  16:03
+@nick just synced emrap at 2020-05-05 16:03:00
+:jingwen:
+jingwenAPP  10:32
+@jingwen just synced course-host at 2020-05-06 10:32:07
+:charles:
+charlesAPP  13:33
+@charles just synced essentials at 2020-05-06 13:33:10
+13:34
+@charles just synced essentials at 2020-05-06 13:34:20
+:jingwen:
+jingwenAPP  14:34
+@jingwen just synced course-host at 2020-05-06 14:34:12
+:charles:
+charlesAPP  14:56
+@charles just synced hippo at 2020-05-06 14:56:07
+:charles:
+charlesAPP  15:15
+@charles just synced pcrap at 2020-05-06 15:15:48
+:nick:
+nickAPP  17:06
+@nick just synced emrap-corependium-server at 2020-05-06 17:06:52
+:jacob:
+jacobAPP  17:19
+@jacob just synced video-platform-client at 2020-05-06 17:19:51
+
+charlesAPP  14:45
+@charles just synced ucrap at 2020-05-07 14:45:06
+:charles:
+charlesAPP  14:50
+@charles just synced ercast at 2020-05-07 14:50:45
+:charles:
+charlesAPP  14:55
+@charles just synced pedsrap at 2020-05-07 14:55:50
+:charles:
+charlesAPP  15:07
+@charles just synced papodcast at 2020-05-07 15:07:09
+:philip:
+philipAPP  15:25
+@philip just synced emrap-corependium-server at 2020-05-07 15:25:10
+15:28
+@philip just synced emrap-corependium-client at 2020-05-07 15:28:26
+:jingwen:
+jingwenAPP  10:40
+@jingwen just synced course-host at 2020-05-08 10:40:02
+:jingwen:
+jingwenAPP  13:51
+@jingwen just synced course-host at 2020-05-08 13:51:27
+:kendra:
+kendraAPP  15:32
+@kendra just synced hippo-ed at 2020-05-08 15:32:08
+:kendra:
+kendraAPP  20:00
+@kendra just synced essentials at 2020-05-08 20:00:42
+:nick:
+nickAPP  08:58
+@nick just synced emrap-corependium-client at 2020-05-11 08:58:39
+09:01
+@nick just synced emrap-corependium-server at 2020-05-11 09:01:50
+:charles:
+charlesAPP  09:37
+@charles just synced surviving-infancy at 2020-05-11 09:37:21
+09:39
+@charles just synced course-host at 2020-05-11 09:39:43
+:nick:
+nickAPP  09:45
+@nick just synced emrap at 2020-05-11 09:45:30
+:kendra:
+kendraAPP  18:26
+@kendra just synced hippo at 2020-05-11 18:26:18
+:jingwen:
+jingwenAPP  10:22
+@jingwen just synced course-host at 2020-05-12 10:22:24
+:kendra:
+kendraAPP  16:11
+@kendra just synced hippo at 2020-05-12 16:11:16
+16:16
+@kendra just synced hippo at 2020-05-12 16:15:59
+16:20
+@kendra just synced hippo-ed at 2020-05-12 16:20:32
+16:23
+@kendra just synced pcrap at 2020-05-12 16:23:22
+:nick:
+nickAPP  17:03
+@nick just synced emrap-corependium-client at 2020-05-12 17:03:03
+:kendra:
+kendraAPP  17:45
+@kendra just synced essentials at 2020-05-12 17:45:35
+17:48
+@kendra just synced ucrap at 2020-05-12 17:48:57
+17:51
+@kendra just synced pedsrap at 2020-05-12 17:51:15
+:kendra:
+kendraAPP  17:58
+@kendra just synced ercast at 2020-05-12 17:58:45
+:mike:
+gauthiermAPP  18:08
+@gauthierm just synced emrap-go-client at 2020-05-12 18:08:23
+:kendra:
+kendraAPP  20:14
+@kendra just synced papodcast at 2020-05-12 20:14:58
+
+:charles:
+charlesAPP  13:30
+@charles just synced starmaker at 2020-05-13 13:30:56
+:meg:
+megAPP  14:44
+@meg just synced hippo-pay-admin at 2020-05-13 14:44:26
+:meg:
+megAPP  16:53
+@meg just synced uas-jsonapi-server at 2020-05-13 16:53:38
+:isaac-big-hands:
+isaacAPP  18:05
+@isaac just synced starmaker at 2020-05-14 18:05:14
+:jingwen:
+jingwenAPP  11:18
+@jingwen just synced ercast at 2020-05-15 11:18:51
+:jingwen:
+jingwenAPP  11:26
+@jingwen just synced ercast at 2020-05-15 11:26:32
+:meg:
+megAPP  13:10
+@meg just synced hippo at 2020-05-15 13:10:20
+13:13
+@meg just synced essentials at 2020-05-15 13:12:58
+13:15
+@meg just synced pcrap at 2020-05-15 13:15:11
+:meg:
+megAPP  13:21
+@meg just synced pedsrap at 2020-05-15 13:21:10
+13:25
+@meg just synced papodcast at 2020-05-15 13:25:31
+:meg:
+megAPP  13:31
+@meg just synced ucrap at 2020-05-15 13:31:55
+:isaac-big-hands:
+isaacAPP  13:32
+@isaac just synced starmaker at 2020-05-15 13:32:32
+:slice:
+@rkotcher just synced uas-jsonapi-server at 2020-05-18 16:16:54
+:nick:
+nickAPP  11:13
+@nick just synced emrap-go-client at 2020-05-19 11:13:04
+:nick:
+nickAPP  11:18
+@nick just synced emrap-corependium-client at 2020-05-19 11:18:11
+:nick:
+nickAPP  11:26
+@nick just synced emrap-corependium-server at 2020-05-19 11:26:43
+:charles:
+charlesAPP  16:28
+@charles just synced course-host at 2020-05-19 16:28:33
+:nick:
+nickAPP  18:49
+@nick just synced emrap-go-client at 2020-05-19 18:49:06
+:nick:
+nickAPP  15:05
+@nick just synced emrap-corependium-server at 2020-05-20 15:05:48
+:nick:
+nickAPP  15:34
+@nick just synced emrap-corependium-client at 2020-05-20 15:34:00
+:nick:
+nickAPP  10:35
+@nick just synced emrap-corependium-client at 2020-05-21 10:35:33
+:kendra:
+kendraAPP  14:34
+@kendra just synced essentials at 2020-05-21 14:34:24
+
+nickAPP  09:23
+@nick just synced emrap-corependium-server at 2020-05-22 09:23:42
+:charles:
+charlesAPP  13:36
+@charles just synced course-host at 2020-05-27 13:36:05
+:slice:
+@brittany just synced hippo-pay-client at 2020-05-27 19:53:30
+:slice:
+@brittany just synced hippo at 2020-05-27 20:05:15
+:slice:
+@brittany just synced ercast at 2020-05-27 20:10:28
+20:12 @someone just synced papodcast at 2020-05-27 20:12:53
+20:15 @someone just synced pedsrap at 2020-05-27 20:15:12
+20:17 @someone just synced ucrap at 2020-05-27 20:17:38
+20:20 @someone just synced pcrap at 2020-05-27 20:20:14
+:nick:
+nickAPP  11:40
+@nick just synced emrap-corependium-server at 2020-05-28 11:40:57
+11:43
+@nick just synced emrap-corependium-client at 2020-05-28 11:43:35
+:slice:
+@brittany just synced uas-jsonapi-server at 2020-05-28 13:07:38
+:slice:
+@brittany just synced video-platform-client at 2020-05-28 13:19:25
+:slice:
+@brittany just synced video-platform-client at 2020-05-28 13:37:51
+:meg:
+megAPP  14:58
+@meg just synced hippo-pay-admin at 2020-05-28 14:58:17
+:meg:
+megAPP  18:47
+@meg just synced hippo-pay at 2020-05-29 18:47:29
+18:49
+@meg just synced hippo-pay-client at 2020-05-29 18:49:59
+:nick:
+nickAPP  09:56
+@nick just synced emrap at 2020-06-01 09:56:27
+:nick:
+nickAPP  10:22
+@nick just synced emrap-corependium-client at 2020-06-01 10:22:30
+10:25
+@nick just synced emrap-corependium-server at 2020-06-01 10:25:51
+
+:meg:
+megAPP  11:48
+@meg just synced hippo at 2020-06-02 11:48:25
+:meg:
+megAPP  12:06
+@meg just synced hippo at 2020-06-02 12:06:33
+:meg:
+megAPP  14:30
+@meg just synced ercast at 2020-06-04 14:30:17
+:meg:
+megAPP  16:49
+@meg just synced uas-jsonapi-server at 2020-06-04 16:49:56
+:meg:
+megAPP  17:20
+@meg just synced hippo-pay-admin at 2020-06-04 17:20:12
+:meg:
+megAPP  17:43
+@meg just synced hippo-pay-admin at 2020-06-04 17:43:09
+:philip:
+philipAPP  18:04
+@philip just synced emrap-corependium-server at 2020-06-04 18:04:05
+:philip:
+philipAPP  18:14
+@philip just synced emrap-corependium-client at 2020-06-04 18:14:34
+:charles:
+charlesAPP  09:19
+@charles just synced course-host at 2020-06-08 09:19:56
+:nick:
+nickAPP  10:56
+@nick just synced emrap at 2020-06-08 10:56:40
+:nick:
+nickAPP  11:03
+@nick just synced emrap-corependium-client at 2020-06-08 11:03:30
+:nick:
+nickAPP  11:14
+@nick just synced emrap at 2020-06-08 11:14:00
+:nick:
+nickAPP  17:11
+@nick just synced emrap at 2020-06-08 17:11:30
+:nick:
+nickAPP  15:29
+@nick just synced emrap-search-tools at 2020-06-09 15:29:06
+:philip:
+philipAPP  17:36
+@philip just synced emrap-corependium-client at 2020-06-09 17:36:57
+:jacob:
+jacobAPP  17:41
+@jacob just synced uas-jsonapi-server at 2020-06-09 17:41:48
+:nick:
+nickAPP  12:01
+@nick just synced emrap-corependium-server at 2020-06-10 12:01:26
+:slice:
+@brittany just synced video-platform-client at 2020-06-10 12:29:00
+
+:meg:
+megAPP  13:25
+@meg just synced hippo-pay-admin at 2020-06-11 13:25:30
+:meg:
+megAPP  13:31
+@meg just synced uas-jsonapi-server at 2020-06-11 13:31:33
+:slice:
+@brittany just synced video-platform-client at 2020-06-11 14:36:17
+:meg:
+megAPP  15:29
+@meg just synced hippo-pay-admin at 2020-06-11 15:29:24
+:isaac-big-hands:
+isaacAPP  16:22
+@isaac just synced silverorange at 2020-06-11 16:22:17
+:isaac-big-hands:
+isaacAPP  16:27
+@isaac just synced silverorange at 2020-06-11 16:27:53
+:philip:
+philipAPP  16:34
+@philip just synced emrap-corependium-client at 2020-06-11 16:34:47
+:meg:
+megAPP  16:59
+@meg just synced uas-jsonapi-server at 2020-06-11 16:59:20
+17:03
+@meg just synced hippo-pay-admin at 2020-06-11 17:03:50
+jayme  11:52
+set the channel topic: sync/deployment history via sync-to-live script for NON-HIPPO sites
+meg  12:39
+left #sync-to-live.
+:nick:
+nickAPP  09:31
+@nick just synced emrap-corependium-server at 2020-06-15 09:31:30
+09:35
+@nick just synced emrap-corependium-client at 2020-06-15 09:35:07
+:nick:
+nickAPP  10:29
+@nick just synced emrap-corependium-client at 2020-06-15 10:29:35
+:charles:
+charlesAPP  16:32
+@charles just synced course-host at 2020-06-15 16:32:03
+:charles:
+charlesAPP  19:01
+@charles just synced course-host at 2020-06-15 19:01:52
+:charles:
+charlesAPP  19:10
+@charles just synced course-host at 2020-06-15 19:10:01
+:philip:
+philipAPP  10:50
+@philip just synced emrap-corependium-client at 2020-06-17 10:50:31
+:jake:
+jakeAPP  11:24
+@jake just synced CFSC - www.connecting-families.ca at 2020-06-17 11:24:38
+:philip:
+philipAPP  11:33
+@philip just synced emrap-corependium-server at 2020-06-17 11:33:27
+:nick:
+nickAPP  09:40
+@nick just synced emrap at 2020-06-18 09:40:20
+
+:steven:
+stevenAPP  14:11
+@steven just synced course-host at 2020-06-19 14:11:12
+:charles:
+charlesAPP  10:44
+@charles just synced emrap at 2020-06-22 10:44:19
+:charles:
+charlesAPP  13:53
+@charles just synced emrap at 2020-06-22 13:53:15
+:charles:
+charlesAPP  16:59
+@charles just synced emrap at 2020-06-22 16:59:18
+:philip:
+philipAPP  18:15
+@philip just synced emrap-corependium-server at 2020-06-22 18:15:06
+18:18
+@philip just synced emrap-corependium-client at 2020-06-22 18:18:20
+:charles:
+charlesAPP  14:06
+@charles just synced emrap at 2020-06-23 14:06:45
+:philip:
+philipAPP  16:25
+@philip just synced emrap-corependium-server at 2020-06-23 16:25:18
+:philip:
+philipAPP  10:17
+@philip just synced emrap-corependium-client at 2020-06-24 10:17:24
+:philip:
+philipAPP  13:27
+@philip just synced emrap-go-client at 2020-06-24 13:27:19
+:charles:
+charlesAPP  09:24
+@charles just synced emrap at 2020-06-26 09:24:17
+:nick:
+nickAPP  10:49
+@nick just synced emrap-corependium-client at 2020-07-07 10:49:58
+10:53
+@nick just synced emrap-corependium-server at 2020-07-07 10:53:46
+:slice:
+@clara just synced emrap at 2020-07-07 11:46:28
+:charles:
+charlesAPP  11:56
+@charles just synced starmaker at 2020-07-07 11:56:30
+:isaac-big-hands:
+isaacAPP  12:44
+@isaac just synced starmaker at 2020-07-07 12:44:31
+:charles:
+charlesAPP  14:07
+@charles just synced iwk-achh at 2020-07-08 14:07:39
+:charles:
+charlesAPP  14:20
+@charles just synced iwk-achh at 2020-07-08 14:20:34
+
+:nick:
+nickAPP  09:22
+@nick just synced emrap at 2020-07-09 09:22:12
+:nick:
+nickAPP  10:59
+@nick just synced emrap-corependium-server at 2020-07-09 10:59:50
+11:04
+@nick just synced emrap-corependium-client at 2020-07-09 11:04:26
+ElasticBeanstalkAPP  16:55
+CFSC - api.cf-fb.org deployed at 2020-07-09 19:55:04
+ElasticBeanstalkAPP  17:01
+CFSC - api.cf-fb.org deployed at 2020-07-09 20:01:24
+:charles:
+charlesAPP  14:27
+@charles just synced course-host at 2020-07-10 14:27:00
+:charles:
+charlesAPP  16:06
+@charles just synced course-host at 2020-07-10 16:06:03
+:nick:
+nickAPP  10:50
+@nick just synced emrap at 2020-07-13 10:50:28
+:charles:
+charlesAPP  11:28
+@charles just synced course-host at 2020-07-13 11:28:43
+:charles:
+charlesAPP  11:43
+@charles just synced course-host at 2020-07-13 11:43:06
+:isaac-big-hands:
+isaacAPP  12:14
+@isaac just synced silverorange at 2020-07-13 12:14:49
+:isaac-big-hands:
+isaacAPP  16:41
+@isaac just synced starmaker at 2020-07-13 16:41:15
+:philip:
+philipAPP  15:24
+@philip just synced emrap-fire-daemon at 2020-07-16 15:24:58
+:nick:
+nickAPP  15:58
+@nick just synced emrap at 2020-07-16 15:58:32
+:philip:
+philipAPP  16:41
+@philip just synced emrap at 2020-07-20 16:41:20
+:philip:
+philipAPP  17:03
+@philip just synced emrap-corependium-client at 2020-07-20 17:03:07
+17:06
+@philip just synced emrap-corependium-server at 2020-07-20 17:06:01
+:nick:
+nickAPP  11:05
+@nick just synced emrap at 2020-07-23 11:05:28
+:charles:
+charlesAPP  16:42
+@charles just synced course-host at 2020-07-24 16:42:48
+ElasticBeanstalkAPP  17:07
+CFSC - api.cf-fb.org deployed at 2020-07-24 20:07:45
+ElasticBeanstalkAPP  17:14
+CFSC - api.cf-fb.org deployed at 2020-07-24 20:14:26
+
+:charles:
+charlesAPP  10:25
+@charles just synced course-host at 2020-07-27 10:25:17
+:philip:
+philipAPP  10:35
+@philip just synced emrap-corependium-server at 2020-07-27 10:35:21
+:philip:
+philipAPP  10:42
+@philip just synced emrap-corependium-client at 2020-07-27 10:42:04
+:steven:
+stevenAPP  13:18
+@steven just synced course-host at 2020-07-27 13:18:37
+:charles:
+charlesAPP  13:20
+@charles just synced iwk-achh at 2020-07-27 13:20:27
+:charles:
+charlesAPP  11:36
+@charles just synced course-host at 2020-07-28 11:36:25
+:nick:
+nickAPP  12:05
+@nick just synced emrap at 2020-07-28 12:05:35
+:philip:
+philipAPP  11:07
+@philip just synced emrap-corependium-server at 2020-07-30 11:07:32
+:philip:
+philipAPP  11:22
+@philip just synced emrap-corependium-client at 2020-07-30 11:22:23
+:philip:
+philipAPP  11:10
+@philip just synced emrap-corependium-server at 2020-08-03 11:10:46
+:philip:
+philipAPP  11:29
+@philip just synced emrap-fire-daemon at 2020-08-06 11:29:32
+:philip:
+philipAPP  11:40
+@philip just synced emrap at 2020-08-06 11:40:23
+:charles:
+charlesAPP  15:36
+@charles just synced emrap-fire-daemon at 2020-08-07 15:36:54
+:philip:
+philipAPP  10:46
+@philip just synced emrap-corependium-server at 2020-08-10 10:46:26
+:philip:
+philipAPP  10:54
+@philip just synced emrap-corependium-client at 2020-08-10 10:54:43
+:philip:
+philipAPP  11:29
+@philip just synced emrap-corependium-client at 2020-08-10 11:29:55
+:nick:
+nickAPP  09:51
+@nick just synced emrap at 2020-08-11 09:51:30
+:philip:
+philipAPP  16:53
+@philip just synced emrap-corependium-client at 2020-08-12 16:52:58
+:philip:
+philipAPP  16:43
+@philip just synced emrap-fire-daemon at 2020-08-13 16:43:16
+
+:kendra:
+kendraAPP  18:48
+@kendra just synced starmaker at 2020-08-14 18:48:20
+:nick:
+nickAPP  09:31
+@nick just synced emrap at 2020-08-17 09:31:16
+:philip:
+philipAPP  16:29
+@philip just synced emrap-corependium-client at 2020-08-19 16:29:04
+:steven:
+stevenAPP  17:16
+@steven just synced emrap at 2020-08-20 17:16:27
+:isa-big-hands:
+isaacAPP  18:05
+@isagrant just synced starmaker at 2020-08-20 18:05:47
+:philip:
+philipAPP  13:27
+@philip just synced emrap-corependium-client at 2020-08-25 13:27:56
+13:30
+@philip just synced emrap-corependium-server at 2020-08-25 13:30:38
+:philip:
+philipAPP  15:04
+@philip just synced emrap-corependium-client at 2020-08-25 15:04:03
+:philip:
+philipAPP  15:13
+@philip just synced emrap at 2020-08-25 15:13:34
+:philip:
+philipAPP  15:59
+@philip just synced emrap-corependium-client at 2020-08-25 15:59:07
+:philip:
+philipAPP  16:28
+@philip just synced emrap at 2020-08-25 16:28:17
+:philip:
+philipAPP  11:47
+@philip just synced emrap at 2020-08-26 11:47:16
+:philip:
+philipAPP  16:33
+@philip just synced emrap-corependium-client at 2020-08-26 16:33:19
+16:38
+@philip just synced emrap-corependium-server at 2020-08-26 16:38:20
+:clara:
+claraAPP  16:52
+@clara just synced emrap at 2020-08-26 16:52:13
+:philip:
+philipAPP  17:37
+@philip just synced emrap-corependium-client at 2020-08-26 17:37:56
+:isa-big-hands:
+isaacAPP  22:35
+@isagrant just synced course-host at 2020-08-26 22:35:14
+:steven:
+stevenAPP  14:09
+@steven just synced course-host at 2020-08-27 14:09:41
+:jayme:
+jaymeAPP  14:24
+@jayme just synced emrap-corependium-server at 2020-08-27 14:24:33
+:philip:
+philipAPP  10:01
+@philip just synced emrap-corependium-server at 2020-08-31 10:01:39
+10:04
+@philip just synced emrap-corependium-client at 2020-08-31 10:04:47
+
+:nick:
+nickAPP  17:35
+@nick just synced emrap at 2020-09-01 17:35:45
+:nick:
+nickAPP  10:42
+@nick just synced emrap at 2020-09-02 10:42:16
+:clara:
+claraAPP  15:39
+@clara just synced emrap-corependium-client at 2020-09-02 15:39:26
+15:44
+@clara just synced emrap-corependium-server at 2020-09-02 15:44:17
+:clara:
+claraAPP  17:40
+@clara just synced emrap-corependium-client at 2020-09-02 17:40:03
+:philip:
+philipAPP  10:47
+@philip just synced emrap-corependium-client at 2020-09-03 10:47:19
+:philip:
+philipAPP  13:51
+@philip just synced emrap-corependium-client at 2020-09-03 13:51:24
+:nick:
+nickAPP  14:37
+@nick just synced emrap at 2020-09-03 14:37:25
+:charles:
+charlesAPP  17:29
+@charles just synced course-host at 2020-09-03 17:29:45
+:philip:
+philipAPP  16:14
+@philip just synced emrap-corependium-client at 2020-09-04 16:14:00
+:clara:
+claraAPP  10:38
+@clara just synced emrap-go-client at 2020-09-08 10:38:18
+:mike:
+gauthiermAPP  11:37
+@gauthierm just synced emrap-search-tools at 2020-09-08 11:37:35
+:charles:
+charlesAPP  20:05
+@charles just synced emrap at 2020-09-08 20:05:25
+:clara:
+claraAPP  09:44
+@clara just synced emrap-go-client at 2020-09-09 09:44:46
+:clara:
+claraAPP  10:30
+@clara just synced emrap-go-client at 2020-09-09 10:30:08
+:charles:
+charlesAPP  10:48
+@charles just synced emrap at 2020-09-09 10:48:25
+:mike:
+gauthiermAPP  14:08
+@gauthierm just synced emrap-search-tools at 2020-09-09 14:08:58
+:charles:
+charlesAPP  10:50
+@charles just synced starmaker at 2020-09-10 10:50:29
+10:53
+@charles just synced emrap at 2020-09-10 10:53:48
+:charles:
+charlesAPP  11:04
+@charles just synced course-host at 2020-09-10 11:04:16
+:philip:
+philipAPP  17:11
+@philip just synced emrap at 2020-09-10 17:11:19
+
+charlesAPP  09:57
+@charles just synced emrap at 2020-09-11 09:57:36
+:charles:
+charlesAPP  15:16
+@charles just synced emrap-search-tools at 2020-09-11 15:16:44
+:charles:
+charlesAPP  16:33
+@charles just synced emrap-search-tools at 2020-09-11 16:33:55
+:charles:
+charlesAPP  09:33
+@charles just synced emrap-search-tools at 2020-09-14 09:33:44
+:charles:
+charlesAPP  09:48
+@charles just synced emrap-search-tools at 2020-09-14 09:48:33
+:clara:
+claraAPP  11:28
+@clara just synced emrap at 2020-09-14 11:28:35
+:charles:
+charlesAPP  15:47
+@charles just synced emrap at 2020-09-14 15:47:51
+:clara:
+claraAPP  16:39
+@clara just synced emrap-corependium-server at 2020-09-14 16:38:57
+:clara:
+claraAPP  16:54
+@clara just synced emrap-corependium-client at 2020-09-14 16:54:30
+:nick:
+nickAPP  13:20
+@nick just synced emrap at 2020-09-15 13:20:21
+:charles:
+charlesAPP  14:14
+@charles just synced emrap at 2020-09-15 14:14:20
+:steven:
+stevenAPP  15:46
+@steven just synced course-host at 2020-09-15 15:46:07
+:charles:
+charlesAPP  09:35
+@charles just synced emrap at 2020-09-16 09:35:34
+:nick:
+nickAPP  10:10
+@nick just synced emrap at 2020-09-16 10:10:32
+:charles:
+charlesAPP  11:40
+@charles just synced emrap at 2020-09-16 11:40:53
+:charles:
+charlesAPP  11:53
+@charles just synced emrap at 2020-09-16 11:53:14
+:charles:
+charlesAPP  14:52
+@charles just synced emrap at 2020-09-16 14:52:51
+
+
+:charles:
+charlesAPP  16:56
+@charles just synced starmaker at 2020-09-16 16:56:23
+:nick:
+nickAPP  14:30
+@nick just synced emrap at 2020-09-17 14:30:13
+:philip:
+philipAPP  15:11
+@philip just synced emrap at 2020-09-17 15:11:00
+:philip:
+philipAPP  11:15
+@philip just synced emrap-corependium-server at 2020-09-21 11:15:03
+:philip:
+philipAPP  11:22
+@philip just synced emrap-corependium-client at 2020-09-21 11:22:22
+:charles:
+charlesAPP  13:46
+@charles just synced course-host at 2020-09-21 13:46:08
+:clara:
+claraAPP  13:47
+@clara just synced emrap-corependium-client at 2020-09-21 13:47:12
+:clara:
+claraAPP  16:35
+@clara just synced emrap-corependium-client at 2020-09-21 16:35:06
+:clara:
+claraAPP  10:43
+@clara just synced emrap-corependium-server at 2020-09-22 10:43:24
+10:46
+@clara just synced emrap-corependium-client at 2020-09-22 10:46:49
+:nick:
+nickAPP  10:48
+@nick just synced emrap at 2020-09-22 10:48:39
+:nick:
+nickAPP  11:04
+@nick just synced emrap at 2020-09-22 11:04:26
+:charles:
+charlesAPP  11:17
+@charles just synced course-host at 2020-09-22 11:17:08
+ElasticBeanstalkAPP  18:24
+CFSC - api.cf-fb.org deployed at 2020-09-22 21:24:05
+ElasticBeanstalkAPP  18:30
+CFSC - api.cf-fb.org deployed at 2020-09-22 21:30:44
+
+:nick:
+nickAPP  10:24
+@nick just synced emrap at 2020-09-23 10:24:22
+:nick:
+nickAPP  09:43
+@nick just synced emrap at 2020-09-28 09:43:41
+:philip:
+philipAPP  09:51
+@philip just synced emrap-corependium-server at 2020-09-28 09:51:32
+09:54
+@philip just synced emrap-corependium-client at 2020-09-28 09:54:13
+:nick:
+nickAPP  09:57
+@nick just synced emrap-go-server at 2020-09-28 09:57:45
+:clara:
+claraAPP  14:56
+@clara just synced emrap-corependium-client at 2020-09-29 14:56:16
+ElasticBeanstalkAPP  15:07
+CFSC - api.cf-fb.org deployed at 2020-09-29 18:07:41
+:clara:
+claraAPP  15:14
+@clara just synced emrap-corependium-client at 2020-09-29 15:14:10
+ElasticBeanstalkAPP  15:14
+CFSC - api.cf-fb.org deployed at 2020-09-29 18:14:18
+:clara:
+claraAPP  15:21
+@clara just synced emrap-corependium-client at 2020-09-29 15:21:28
+:charles:
+charlesAPP  16:50
+@charles just synced course-host at 2020-09-30 16:50:18
+
+nickAPP  10:47
+@nick just synced emrap at 2020-10-01 10:47:01
+:philip:
+philipAPP  10:49
+@philip just synced emrap-go-server at 2020-10-01 10:49:19
+:nick:
+nickAPP  11:55
+@nick just synced emrap at 2020-10-01 11:55:12
+:nick:
+nickAPP  13:15
+@nick just synced emrap at 2020-10-01 13:15:58
+:nick:
+nickAPP  09:07
+@nick just synced silverorange at 2020-10-02 09:07:49
+:steven:
+stevenAPP  09:25
+@steven just synced silverorange at 2020-10-02 09:25:09
+:steven:
+stevenAPP  10:03
+@steven just synced course-host at 2020-10-02 10:03:44
+:nick:
+nickAPP  14:18
+@nick just synced emrap at 2020-10-02 14:18:21
+:philip:
+philipAPP  11:38
+@philip just synced emrap at 2020-10-05 11:38:52
+:steven:
+stevenAPP  14:59
+@steven just synced course-host at 2020-10-05 14:59:56
+:steven:
+stevenAPP  15:32
+@steven just synced silverorange at 2020-10-06 15:32:49
+15:34
+@steven just synced silverorange at 2020-10-06 15:34:12
+:mike:
+gauthiermAPP  17:30
+@gauthierm just synced silverorange at 2020-10-06 17:30:01
+:steven:
+stevenAPP  11:45
+@steven just synced course-host at 2020-10-07 11:45:50
+
+@clara just synced emrap-corependium-server at 2020-10-13 11:17:12
+11:21
+@clara just synced emrap-corependium-client at 2020-10-13 11:21:46
+:nick:
+nickAPP  10:54
+@nick just synced emrap at 2020-10-15 10:54:37
+:nick:
+nickAPP  13:30
+@nick just synced emrap at 2020-10-15 13:30:26
+:nick:
+nickAPP  14:34
+@nick just synced emrap-go-client at 2020-10-15 14:34:11
+:philip:
+philipAPP  16:54
+@philip just synced emrap-corependium-client at 2020-10-20 16:54:34
+16:58
+@philip just synced emrap-corependium-server at 2020-10-20 16:58:58
+:mike:
+gauthiermAPP  17:27
+@gauthierm just synced silverorange at 2020-10-20 17:27:32
+:philip:
+philipAPP  14:29
+@philip just synced emrap-corependium-server at 2020-10-21 14:29:09
+:isa-big-hands:
+isaacAPP  17:58
+@isagrant just synced starmaker at 2020-10-21 17:58:04
+18:01
+@isagrant just synced starmaker at 2020-10-21 18:01:49
+:charles:
+charlesAPP  10:25
+@charles just synced starmaker at 2020-10-22 10:25:40
+:nick:
+nickAPP  09:16
+@nick just synced emrap-corependium-server at 2020-10-23 09:16:54
+:nick:
+nickAPP  10:30
+@nick just synced emrap-corependium-client at 2020-10-26 10:30:08
+10:32
+@nick just synced emrap-corependium-server at 2020-10-26 10:32:28
+:nick:
+nickAPP  13:50
+@nick just synced emrap at 2020-10-27 13:50:42
+
+@clara just synced emrap-corependium-server at 2020-10-27 15:24:39
+15:29
+@clara just synced emrap-corependium-client at 2020-10-27 15:28:58
+:charles:
+charlesAPP  09:41
+@charles just synced iwk-achh at 2020-10-30 09:41:33
+:charles:
+charlesAPP  13:51
+@charles just synced starmaker at 2020-10-30 13:51:52
+ElasticBeanstalkAPP  09:33
+CFSC - api.cf-fb.org deployed at 2020-11-02 13:33:06
+ElasticBeanstalkAPP  09:39
+CFSC - api.cf-fb.org deployed at 2020-11-02 13:39:44
+:charles:
+charlesAPP  14:30
+@charles just synced emrap-search-tools at 2020-11-03 14:30:19
+:clara:
+claraAPP  15:05
+@clara just synced emrap-corependium-client at 2020-11-03 15:05:07
+:clara:
+claraAPP  10:49
+@clara just synced emrap-corependium-client at 2020-11-04 10:49:37
+:steven:
+stevenAPP  15:17
+@steven just synced course-host at 2020-11-04 15:17:39
+:charles:
+charlesAPP  15:59
+@charles just synced emrap-search-tools at 2020-11-04 15:59:26
+:charles:
+charlesAPP  16:28
+@charles just synced emrap-search-tools at 2020-11-04 16:28:04
+:charles:
+charlesAPP  16:39
+@charles just synced emrap-search-tools at 2020-11-04 16:39:26
+:steven:
+stevenAPP  16:44
+@steven just synced course-host at 2020-11-06 16:44:03
+:clara:
+claraAPP  16:49
+@clara just synced emrap-corependium-client at 2020-11-12 16:49:24
+:steven:
+stevenAPP  15:31
+@steven just synced course-host at 2020-11-13 15:30:58
+:steven:
+stevenAPP  21:27
+@steven just synced course-host at 2020-11-17 21:27:08
