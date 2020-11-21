@@ -396,8 +396,39 @@ export const showAndTells2020 = {
 };
 
 export const platforms2017 = {
-  domain: [0, 14],
-  ticks: 7,
+  domain: [0, 18],
+  ticks: 8,
+  data: [
+    {
+      year: 'Legacy PHP',
+      value: 11,
+    },
+    {
+      year: 'Node',
+      value: 4,
+    },
+    {
+      year: 'React',
+      value: 3,
+    },
+    {
+      year: 'iOS',
+      value: 4,
+    },
+    {
+      year: 'Android',
+      value: 4,
+    },
+    {
+      year: 'Other',
+      value: 4,
+    },
+  ],
+};
+
+export const platforms2018 = {
+  domain: [0, 18],
+  ticks: 8,
   data: [
     {
       year: 'Legacy PHP',
@@ -409,46 +440,7 @@ export const platforms2017 = {
     },
     {
       year: 'React',
-      value: 6,
-    },
-    {
-      year: 'iOS',
-      value: 4,
-    },
-    {
-      year: 'Android',
-      value: 4,
-    },
-    {
-      year: 'Ember',
-      value: 1,
-    },
-    {
-      year: 'Laravel',
-      value: 1,
-    },
-    {
-      year: 'Other',
-      value: 2,
-    },
-  ],
-};
-
-export const platforms2018 = {
-  domain: [0, 18],
-  ticks: 8,
-  data: [
-    {
-      year: 'Legacy PHP',
-      value: 13,
-    },
-    {
-      year: 'Node',
-      value: 13,
-    },
-    {
-      year: 'React',
-      value: 13,
+      value: 12,
     },
     {
       year: 'iOS',
@@ -471,11 +463,11 @@ export const platforms2019 = {
   data: [
     {
       year: 'Legacy PHP',
-      value: 13,
+      value: 10,
     },
     {
       year: 'Node',
-      value: 18,
+      value: 15,
     },
     {
       year: 'React',
@@ -491,7 +483,162 @@ export const platforms2019 = {
     },
     {
       year: 'Other',
-      value: 7,
+      value: 4,
+    },
+  ],
+};
+
+export const platforms2020 = {
+  domain: [0, 18],
+  ticks: 8,
+  data: [
+    {
+      year: 'Legacy PHP',
+      value: 10,
+    },
+    {
+      year: 'Node',
+      value: 16,
+    },
+    {
+      year: 'React',
+      value: 16,
+    },
+    {
+      year: 'iOS',
+      value: 6,
+    },
+    {
+      year: 'Android',
+      value: 6,
+    },
+    {
+      year: 'Other',
+      value: 4,
+    },
+  ],
+};
+
+export const languages2017 = {
+  domain: [0, 20],
+  ticks: 10,
+  data: [
+    {
+      year: 'PHP',
+      value: 13,
+    },
+    {
+      year: 'JavaScript',
+      value: 8,
+    },
+    {
+      year: 'TypeScript',
+      value: 0,
+    },
+    {
+      year: 'Objective-C',
+      value: 4,
+    },
+    {
+      year: 'Java',
+      value: 4,
+    },
+    {
+      year: 'Kotlin',
+      value: 0,
+    },
+  ],
+};
+
+export const languages2018 = {
+  domain: [0, 20],
+  ticks: 10,
+  data: [
+    {
+      year: 'PHP',
+      value: 13,
+    },
+    {
+      year: 'JavaScript',
+      value: 18,
+    },
+    {
+      year: 'TypeScript',
+      value: 3,
+    },
+    {
+      year: 'Objective-C',
+      value: 6,
+    },
+    {
+      year: 'Java',
+      value: 6,
+    },
+    {
+      year: 'Kotlin',
+      value: 0,
+    },
+  ],
+};
+
+export const languages2019 = {
+  domain: [0, 20],
+  ticks: 10,
+  data: [
+    {
+      year: 'PHP',
+      value: 12,
+    },
+    {
+      year: 'JavaScript',
+      value: 18,
+    },
+    {
+      year: 'TypeScript',
+      value: 12,
+    },
+    {
+      year: 'Objective-C',
+      value: 6,
+    },
+    {
+      year: 'Java',
+      value: 5,
+    },
+    {
+      year: 'Kotlin',
+      value: 1,
+    },
+  ],
+};
+
+export const languages2020 = {
+  domain: [0, 20],
+  ticks: 10,
+  data: [
+    {
+      year: 'PHP',
+      value: 12,
+    },
+    {
+      year: 'JavaScript',
+      value: 16,
+    },
+    {
+      year: 'TypeScript',
+      value: 17,
+    },
+    {
+      year: 'Objective-C',
+      value: 6,
+    },
+    {
+      year: 'Java',
+      value: 5,
+    },
+    {
+      year: 'Kotlin',
+      value: 1,
     },
   ],
 };
