@@ -9,7 +9,7 @@ const chartHeight = 1960;
 
 const style = {
   bar: {
-    color: 'rgba(255,255,255,0.5)',
+    color: 'rgba(255,255,255,0.6)',
     radius: 0,
   },
   grid: {
@@ -17,8 +17,8 @@ const style = {
     width: 2,
   },
   origin: {
-    color: 'rgba(255,255,255,0.7)',
-    width: 2,
+    color: 'rgba(255,255,255,0.6)',
+    width: 4,
   },
   labels: {
     size: 48,
@@ -66,6 +66,48 @@ function getBarPath(
   return `M${x + r},${y} A${r},${r} 0 0,0 ${x},${y + r} L${x},${y + h} L${
     x + w
   },${y + h} L${x + w},${y + r} A${r},${r} 0 0,0 ${x + w - r},${y} Z`;
+}
+
+function getMask(
+  parent: d3.Selection<d3.BaseType, any, any, any>,
+  id: string,
+  width: number,
+  height: number,
+  margin: { top: number; right: number; bottom: number; left: number },
+  xScale: ScaleBand<Datum['year']>,
+  yScale: ScaleLinear<number, number, never>,
+  data: Datum[]
+): d3.Selection<SVGMaskElement, any, any, any> {
+  const mask = parent
+    .append('mask')
+    .attr('id', id)
+    .attr('maskUnits', 'userSpaceOnUse');
+
+  const [, , transform] = parent
+    .attr('transform')
+    .match(/^translate\(([0-9.-]+),\s*([0-9.-]+)\)$/) || [0, 0, 0];
+
+  // Invert gridline transforms before applying mask
+  const maskG = mask
+    .append('g')
+    .attr('transform', `translate(0,-${transform || 0})`);
+
+  maskG
+    .append('rect')
+    .attr('fill', '#fff')
+    .attr('x', -margin.left)
+    .attr('y', -margin.top)
+    .attr('width', width + margin.left + margin.right)
+    .attr('height', height + margin.top + margin.bottom);
+
+  const maskBars = maskG.selectAll().data(data).enter();
+  maskBars
+    .append('path')
+    .attr('class', 'chart__bar')
+    .attr('fill', '#000')
+    .attr('d', (d) => getBarPath(height, xScale, yScale, d));
+
+  return mask;
 }
 
 export function Chart({ yDomain = [0, 100], yTicks = 8, data, name }: Props) {
@@ -152,34 +194,7 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data, name }: Props) {
     g.selectAll('.chart__y-axis .tick').each(function (datum, index) {
       const tick = d3.select(this);
 
-      const mask = tick
-        .append('mask')
-        .attr('id', `${maskId}${index}`)
-        .attr('maskUnits', 'userSpaceOnUse');
-
-      const [, , transform] = tick
-        .attr('transform')
-        .match(/^translate\(([0-9.-]+),([0-9.-]+)\)$/) || [0, 0, 0];
-
-      // Invert gridline transforms before applying mask
-      const maskG = mask
-        .append('g')
-        .attr('transform', `translate(0,-${transform || 0})`);
-
-      maskG
-        .append('rect')
-        .attr('fill', '#fff')
-        .attr('x', 0)
-        .attr('y', 0)
-        .attr('width', width)
-        .attr('height', height);
-
-      const maskBars = maskG.selectAll().data(data).enter();
-      maskBars
-        .append('path')
-        .attr('class', 'chart__bar')
-        .attr('fill', '#000')
-        .attr('d', (d) => getBarPath(height, x, y, d));
+      getMask(tick, `${maskId}${index}`, width, height, margin, x, y, data);
 
       // Remove lines.
       tick.selectAll('line').remove();
@@ -194,6 +209,10 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data, name }: Props) {
         .attr('fill', style.grid.color)
         .attr('mask', `url(#${maskId}${index})`);
     });
+
+    // Remove bottom grid line, but leave label in place.
+    g.selectAll('.chart__y-axis .tick:first-child rect').remove();
+    g.selectAll('.chart__y-axis .tick:first-child mask').remove();
 
     const bars = g.selectAll('.bar').data(data).enter();
     bars
@@ -274,17 +293,19 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data, name }: Props) {
       .attr('font-weight', style.labels.fontWeight)
       .attr('fill', style.labels.color);
 
-    g.selectAll('.chart__x-axis')
+    const xAxisG = g.selectAll('.chart__x-axis');
+
+    getMask(xAxisG, `${maskId}XAxis`, width, height, margin, x, y, data);
+
+    xAxisG
       .append('rect')
       .attr('class', 'chart__origin')
       .attr('x', 0)
       .attr('y', -style.origin.width / 2)
       .attr('width', width)
       .attr('height', style.origin.width)
-      //.attr('y2', 0.5)
-      .attr('fill', '#f00') //style.origin.color)
-      //.attr('stroke-width', style.origin.width)
-      .attr('mask', `url(#${maskId})`);
+      .attr('fill', style.origin.color)
+      .attr('mask', `url(#${maskId}XAxis)`);
 
     const xms = new XMLSerializer();
     const svgString = xms.serializeToString(svg.node()!);
