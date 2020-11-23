@@ -9,34 +9,34 @@ const chartHeight = 1960;
 
 const style = {
   bar: {
-    color: '#1b8bcd',
-    radius: 10,
+    color: 'rgba(255,255,255,0.5)',
+    radius: 0,
   },
   grid: {
-    color: 'rgba(20, 104, 154, 0.4)',
+    color: 'rgba(255,255,255,0.4)',
     width: 2,
   },
   origin: {
-    color: 'rgba(20, 104, 154, 0.7)',
+    color: 'rgba(255,255,255,0.7)',
     width: 2,
   },
   labels: {
     size: 48,
-    color: '#1b243b',
+    color: '#fff',
     fontFamily: 'Futura, serif',
     fontWeight: 'bold',
   },
   dataLabels: {
     size: 48,
-    color: '#1b243b',
+    color: '#573f68',
     fontFamily: 'Futura, serif',
     fontWeight: 'medium',
   },
   dataLabelBackgrounds: {
     fill: '#fff',
-    stroke: '#000',
+    stroke: 'rgba(0,0,0,0.2)',
     strokeWidth: 4,
-    radius: 10,
+    radius: 5,
   },
 };
 
@@ -49,6 +49,7 @@ interface Props {
   yTicks?: number;
   yDomain?: number[];
   data: Datum[];
+  name: string;
 }
 
 function getBarPath(
@@ -67,7 +68,7 @@ function getBarPath(
   },${y + h} L${x + w},${y + r} A${r},${r} 0 0,0 ${x + w - r},${y} Z`;
 }
 
-export function Chart({ yDomain = [0, 100], yTicks = 8, data }: Props) {
+export function Chart({ yDomain = [0, 100], yTicks = 8, data, name }: Props) {
   const divRef = useRef<HTMLDivElement>(null);
   const canvasRef = useRef<HTMLCanvasElement>(null);
 
@@ -76,6 +77,7 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data }: Props) {
       return;
     }
 
+    const maskId = `${name}Mask`;
     const margin = { top: 20, right: 0, bottom: 120, left: 200 };
     const width = chartWidth - margin.left - margin.right;
     const height = chartHeight - margin.top - margin.bottom;
@@ -145,9 +147,53 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data }: Props) {
 
     g.selectAll('.chart__y-axis .domain').remove();
 
-    g.selectAll('.chart__y-axis line')
-      .attr('stroke', style.grid.color)
-      .attr('stroke-width', style.grid.width);
+    // Update y-axis grid lines to use rects instead of lines and to be masked
+    // by the chart bars.
+    g.selectAll('.chart__y-axis .tick').each(function (datum, index) {
+      const tick = d3.select(this);
+
+      const mask = tick
+        .append('mask')
+        .attr('id', `${maskId}${index}`)
+        .attr('maskUnits', 'userSpaceOnUse');
+
+      const [, , transform] = tick
+        .attr('transform')
+        .match(/^translate\(([0-9.-]+),([0-9.-]+)\)$/) || [0, 0, 0];
+
+      // Invert gridline transforms before applying mask
+      const maskG = mask
+        .append('g')
+        .attr('transform', `translate(0,-${transform || 0})`);
+
+      maskG
+        .append('rect')
+        .attr('fill', '#fff')
+        .attr('x', 0)
+        .attr('y', 0)
+        .attr('width', width)
+        .attr('height', height);
+
+      const maskBars = maskG.selectAll().data(data).enter();
+      maskBars
+        .append('path')
+        .attr('class', 'chart__bar')
+        .attr('fill', '#000')
+        .attr('d', (d) => getBarPath(height, x, y, d));
+
+      // Remove lines.
+      tick.selectAll('line').remove();
+
+      // Replace lines with rects.
+      tick
+        .append('rect')
+        .attr('x', 0)
+        .attr('y', -style.grid.width / 2)
+        .attr('width', width)
+        .attr('height', style.grid.width)
+        .attr('fill', style.grid.color)
+        .attr('mask', `url(#${maskId}${index})`);
+    });
 
     const bars = g.selectAll('.bar').data(data).enter();
     bars
@@ -229,14 +275,16 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data }: Props) {
       .attr('fill', style.labels.color);
 
     g.selectAll('.chart__x-axis')
-      .append('line')
+      .append('rect')
       .attr('class', 'chart__origin')
-      .attr('x1', 0)
-      .attr('y1', 0.5)
-      .attr('x2', width)
-      .attr('y2', 0.5)
-      .attr('stroke', style.origin.color)
-      .attr('stroke-width', style.origin.width);
+      .attr('x', 0)
+      .attr('y', -style.origin.width / 2)
+      .attr('width', width)
+      .attr('height', style.origin.width)
+      //.attr('y2', 0.5)
+      .attr('fill', '#f00') //style.origin.color)
+      //.attr('stroke-width', style.origin.width)
+      .attr('mask', `url(#${maskId})`);
 
     const xms = new XMLSerializer();
     const svgString = xms.serializeToString(svg.node()!);
@@ -266,7 +314,7 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data }: Props) {
     }
 
     img.src = svgURL;
-  }, [yDomain, yTicks, data, divRef, canvasRef]);
+  }, [yDomain, yTicks, data, divRef, canvasRef, name]);
 
   return (
     <div className="chart">

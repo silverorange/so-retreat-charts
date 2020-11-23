@@ -17,6 +17,7 @@ export function App() {
               yTicks={data[dataSet].ticks}
               yDomain={data[dataSet].domain}
               data={data[dataSet].data}
+              name={dataSet}
             />
           </Fragment>
         );
