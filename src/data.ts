@@ -498,11 +498,11 @@ export const platforms2020 = {
     },
     {
       year: 'Node',
-      value: 16,
+      value: 14,
     },
     {
       year: 'React',
-      value: 16,
+      value: 17,
     },
     {
       year: 'iOS',
