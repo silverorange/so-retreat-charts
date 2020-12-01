@@ -9,6 +9,8 @@ const chartHeight = 1960;
 
 const style = {
   bar: {
+    // 39b8e3
+    //hsl(195, 85%, 62%, 0.6)
     color: 'rgba(255,255,255,0.6)',
     radius: 0,
   },
@@ -21,15 +23,15 @@ const style = {
     width: 4,
   },
   labels: {
-    size: 48,
+    size: 52,
     color: '#fff',
-    fontFamily: 'Futura, serif',
+    fontFamily: 'Ubuntu, serif',
     fontWeight: 'bold',
   },
   dataLabels: {
-    size: 48,
+    size: 52,
     color: '#573f68',
-    fontFamily: 'Futura, serif',
+    fontFamily: 'Ubuntu, serif',
     fontWeight: 'medium',
   },
   dataLabelBackgrounds: {
