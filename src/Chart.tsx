@@ -254,7 +254,10 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data, name }: Props) {
         return y(d.value) - 0.9 * dataLabelFontSize;
       })
       .attr('width', getTextWidth)
-      .attr('height', 1.8 * dataLabelFontSize);
+      .attr('height', 1.8 * dataLabelFontSize)
+      .attr('display', (d) => {
+        return d.value === 0 ? 'none' : 'inherit';
+      });
 
     g.selectAll('text.bar')
       .data(data)
@@ -274,6 +277,9 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data, name }: Props) {
       })
       .text((d) => {
         return d.value.toLocaleString();
+      })
+      .attr('display', (d) => {
+        return d.value === 0 ? 'none' : 'inherit';
       });
 
     g.append('g')
