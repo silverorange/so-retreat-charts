@@ -132,8 +132,12 @@ export const iOSReleases = {
       value: 8,
     },
     {
-      year: '2020—',
-      value: 7,
+      year: '2020',
+      value: 8,
+    },
+    {
+      year: '2021—',
+      value: 999,
     },
   ],
 };
@@ -163,8 +167,12 @@ export const androidReleases = {
       value: 2,
     },
     {
-      year: '2020—',
-      value: 8,
+      year: '2020',
+      value: 9,
+    },
+    {
+      year: '2021—',
+      value: 29,
     },
   ],
 };
