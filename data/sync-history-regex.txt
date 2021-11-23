@@ -1,0 +1,17 @@
+In VS Code regex search and replace:
+
+^@([a-z0-9-]+) just synced ([a-z0-9-]+) at (.*)$
+"$1","$2","$3"
+
+
+CFSC - api.cf-fb.org deployed at (.*)$
+@someone just synced cfsc-api at $1
+"someone","cfsc-api","$3"
+
+^@([a-z0-9-]+) just synced CFSC - www\.connecting-families\.ca at (.*)$
+@$1 just synced cfsc-client at $2
+"$1","cfsc-client","$2"
+
+^@([a-z0-9-]+) just synced CFSC - admin\.cf-fb\.org at (.*)$
+@$1 just synced cfsc-admin at $2
+"$1","cfsc-admin","$2"
