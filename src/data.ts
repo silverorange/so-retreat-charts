@@ -198,8 +198,12 @@ export const showAndTells = {
       value: 89,
     },
     {
-      year: '2020—',
-      value: 35,
+      year: '2020',
+      value: 43,
+    },
+    {
+      year: '2021—',
+      value: 79,
     },
   ],
 };
@@ -416,6 +420,60 @@ export const showAndTells2020 = {
   ],
 };
 
+export const showAndTells2021 = {
+  domain: [0, 15],
+  ticks: 5,
+  data: [
+    {
+      year: 'December',
+      value: 8,
+    },
+    {
+      year: 'January',
+      value: 11,
+    },
+    {
+      year: 'February',
+      value: 2,
+    },
+    {
+      year: 'March',
+      value: 10,
+    },
+    {
+      year: 'April',
+      value: 6,
+    },
+    {
+      year: 'May',
+      value: 7,
+    },
+    {
+      year: 'June',
+      value: 4,
+    },
+    {
+      year: 'July',
+      value: 3,
+    },
+    {
+      year: 'August',
+      value: 10,
+    },
+    {
+      year: 'September',
+      value: 10,
+    },
+    {
+      year: 'October',
+      value: 6,
+    },
+    {
+      year: 'November',
+      value: 2,
+    },
+  ],
+};
 export const platforms2017 = {
   domain: [0, 18],
   ticks: 8,
