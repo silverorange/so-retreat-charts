@@ -62,8 +62,12 @@ export const siteReleases = {
       value: 828,
     },
     {
-      year: '2020—',
-      value: 755,
+      year: '2020',
+      value: 850,
+    },
+    {
+      year: '2021—',
+      value: 793,
     },
   ],
 };
