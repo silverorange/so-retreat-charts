@@ -89,5 +89,6 @@ Platforms are counted separately if there is more than one project using the
 platform, otherwise they get categorized as _other_. Node and React platforms
 are somewhat arbitrarily grouped together:
 
-- Express, Apollo, jagQL, Node -> **Node**
-- Create-React-App, React-Native, Next.js -> **React**
+- Express, Apollo, jagQL, Node, Gulp -> **Node**
+- Create-React-App, Next.js -> **React**
+- React-Native -> **React Native**
