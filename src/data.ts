@@ -27,8 +27,12 @@ export const pullRequests = {
       value: 2217,
     },
     {
-      year: '2020—',
+      year: '2020',
       value: 2431,
+    },
+    {
+      year: '2021—',
+      value: 3064,
     },
   ],
 };
@@ -63,6 +67,7 @@ export const siteReleases = {
     },
   ],
 };
+
 export const repositories = {
   domain: [0, 180],
   ticks: 8,
@@ -88,8 +93,12 @@ export const repositories = {
       value: 156,
     },
     {
-      year: '2020—',
-      value: 168,
+      year: '2020',
+      value: 169,
+    },
+    {
+      year: '2021—',
+      value: 174,
     },
   ],
 };
@@ -520,16 +529,16 @@ export const platforms2020 = {
 };
 
 export const languages2017 = {
-  domain: [0, 20],
-  ticks: 10,
+  domain: [0, 24],
+  ticks: 12,
   data: [
     {
       year: 'PHP',
-      value: 13,
+      value: 10,
     },
     {
       year: 'JavaScript',
-      value: 8,
+      value: 9,
     },
     {
       year: 'TypeScript',
@@ -546,25 +555,33 @@ export const languages2017 = {
     {
       year: 'Kotlin',
       value: 0,
+    },
+    {
+      year: 'Swift',
+      value: 0,
+    },
+    {
+      year: 'Other',
+      value: 1,
     },
   ],
 };
 
 export const languages2018 = {
-  domain: [0, 20],
-  ticks: 10,
+  domain: [0, 24],
+  ticks: 12,
   data: [
     {
       year: 'PHP',
-      value: 13,
+      value: 12,
     },
     {
       year: 'JavaScript',
-      value: 18,
+      value: 17,
     },
     {
       year: 'TypeScript',
-      value: 3,
+      value: 4,
     },
     {
       year: 'Objective-C',
@@ -578,12 +595,20 @@ export const languages2018 = {
       year: 'Kotlin',
       value: 0,
     },
+    {
+      year: 'Swift',
+      value: 0,
+    },
+    {
+      year: 'Other',
+      value: 1,
+    },
   ],
 };
 
 export const languages2019 = {
-  domain: [0, 20],
-  ticks: 10,
+  domain: [0, 24],
+  ticks: 12,
   data: [
     {
       year: 'PHP',
@@ -591,11 +616,11 @@ export const languages2019 = {
     },
     {
       year: 'JavaScript',
-      value: 18,
+      value: 17,
     },
     {
       year: 'TypeScript',
-      value: 12,
+      value: 13,
     },
     {
       year: 'Objective-C',
@@ -607,14 +632,22 @@ export const languages2019 = {
     },
     {
       year: 'Kotlin',
+      value: 1,
+    },
+    {
+      year: 'Swift',
+      value: 0,
+    },
+    {
+      year: 'Other',
       value: 1,
     },
   ],
 };
 
 export const languages2020 = {
-  domain: [0, 20],
-  ticks: 10,
+  domain: [0, 24],
+  ticks: 12,
   data: [
     {
       year: 'PHP',
@@ -622,11 +655,11 @@ export const languages2020 = {
     },
     {
       year: 'JavaScript',
-      value: 16,
+      value: 15,
     },
     {
       year: 'TypeScript',
-      value: 17,
+      value: 16,
     },
     {
       year: 'Objective-C',
@@ -639,6 +672,53 @@ export const languages2020 = {
     {
       year: 'Kotlin',
       value: 1,
+    },
+    {
+      year: 'Swift',
+      value: 0,
+    },
+    {
+      year: 'Other',
+      value: 2,
+    },
+  ],
+};
+
+export const languages2021 = {
+  domain: [0, 24],
+  ticks: 12,
+  data: [
+    {
+      year: 'PHP',
+      value: 9,
+    },
+    {
+      year: 'JavaScript',
+      value: 12,
+    },
+    {
+      year: 'TypeScript',
+      value: 22,
+    },
+    {
+      year: 'Objective-C',
+      value: 2,
+    },
+    {
+      year: 'Java',
+      value: 2,
+    },
+    {
+      year: 'Kotlin',
+      value: 1,
+    },
+    {
+      year: 'Swift',
+      value: 1,
+    },
+    {
+      year: 'Other',
+      value: 2,
     },
   ],
 };

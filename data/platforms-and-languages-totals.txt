@@ -2,14 +2,25 @@ Note: IWK Chex NICU had an active React/JavaScript client and
 Express/JavaScript server from 2018-2019. It's repo is no longer accessible
 to silverorange.
 
-            node    react   legacy      ios  android   other
-2017          4        3       11        4        4       4
-2018          9       12       11        6        6       4
-2019         15       15       10        6        6       4
-2020         16       16       10        6        6       4
+EM:RAP native apps switched from Java -> Kotlin in 2019 and
+Objective-C -> Swift in 2021.
 
-       typescript    javascript           php  objective-c         java      kotlin
-2017           0             8            13            4            4           0
-2018           3            18            13            6            6           0
-2019          12            18            12            6            5           1
-2020          17            16            12            6            5           1
+sogulp replaced with legaseer in 2021
+
+Platforms
+
+            node    react       rn   legacy      ios  android    other
+2017          5        2        1        8        4        4        4
+2018          9       10        1       10        6        6        4
+2019         15       13        1       10        6        6        4
+2020         14       14        2       10        6        6        5
+2021         14       16        3        7        3        3        5
+
+Languages
+
+       typescript    javascript           php  objective-c         java      kotlin       swift       other
+2017           0             9            10            4            4           0           0           1
+2018           4            17            12            6            6           0           0           1
+2019          13            17            12            6            5           1           0           1
+2020          16            15            12            6            5           1           0           2
+2021          22            12             9            2            2           1           1           2
