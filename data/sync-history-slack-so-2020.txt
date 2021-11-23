@@ -3770,3 +3770,121 @@ stevenAPP  15:31
 :steven:
 stevenAPP  21:27
 @steven just synced course-host at 2020-11-17 21:27:08
+:charles:
+charlesAPP  10:24
+@charles just synced emrap-search-tools at 2020-11-19 10:24:49
+:charles:
+charlesAPP  14:05
+@charles just synced emrap-search-tools at 2020-11-19 14:05:06
+:clara:
+claraAPP  15:05
+@clara just synced emrap-corependium-client at 2020-11-19 15:05:31
+:philip:
+philipAPP  17:44
+@philip just synced emrap-corependium-server at 2020-11-19 17:44:15
+:isa-big-hands:
+isaacAPP  18:05
+@isagrant just synced starmaker at 2020-11-19 18:05:06
+:charles:
+charlesAPP  09:26
+@charles just synced emrap-fire-daemon at 2020-11-30 09:26:50
+:steven:
+stevenAPP  14:01
+@steven just synced course-host at 2020-12-01 14:01:21
+:philip:
+philipAPP  14:37
+@philip just synced emrap-corependium-client at 2020-12-01 14:37:11
+:philip:
+philipAPP  15:19
+@philip just synced emrap-corependium-client at 2020-12-01 15:19:30
+:nick:
+nickAPP  10:13
+@nick just synced emrap at 2020-12-02 10:13:20
+:clara:
+claraAPP  15:47
+@clara just synced emrap-corependium-server at 2020-12-02 15:47:19
+15:52
+@clara just synced emrap-corependium-client at 2020-12-02 15:52:19
+:clara:
+claraAPP  16:54
+@clara just synced emrap-corependium-client at 2020-12-02 16:54:48
+:nick:
+nickAPP  12:21
+@nick just synced emrap at 2020-12-04 12:21:45
+:steven:
+stevenAPP  11:19
+@steven just synced silverorange at 2020-12-05 11:19:49
+:nick:
+nickAPP  09:19
+@nick just synced emrap at 2020-12-07 09:19:14
+:meow_wut:
+isaAPP  15:26
+@someone just synced starmaker at 2020-12-09 15:26:35
+:mike:
+gauthiermAPP  17:25
+@gauthierm just synced silverorange at 2020-12-11 17:25:14
+ElasticBeanstalkAPP  10:12
+CFSC - api.cf-fb.org deployed at 2020-12-14 14:12:07
+ElasticBeanstalkAPP  10:18
+CFSC - api.cf-fb.org deployed at 2020-12-14 14:18:24
+:nick:
+nickAPP  13:25
+@nick just synced emrap-corependium-server at 2020-12-14 13:25:00
+13:27
+@nick just synced emrap-corependium-client at 2020-12-14 13:27:17
+:charles:
+charlesAPP  09:15
+@charles just synced emrap at 2020-12-15 09:15:18
+:charles:
+charlesAPP  10:00
+@charles just synced emrap-search-tools at 2020-12-15 10:00:48
+:charles:
+charlesAPP  10:40
+@charles just synced emrap at 2020-12-15 10:40:34
+:charles:
+charlesAPP  16:10
+@charles just synced starmaker at 2020-12-15 16:10:51
+:meow_wut:
+isaAPP  16:13
+@someone just synced starmaker at 2020-12-15 16:13:28
+:nick:
+nickAPP  16:35
+@nick just synced emrap at 2020-12-15 16:35:27
+:charles:
+charlesAPP  10:41
+@charles just synced course-host at 2020-12-16 10:41:23
+:charles:
+charlesAPP  10:55
+@charles just synced emrap at 2020-12-16 10:55:14
+:nick:
+nickAPP  15:36
+@nick just synced emrap at 2020-12-16 15:36:26
+ElasticBeanstalkAPP  10:07
+CFSC - api.cf-fb.org deployed at 2020-12-17 14:07:59
+:philip:
+philipAPP  10:11
+@philip just synced emrap-corependium-client at 2020-12-17 10:11:10
+ElasticBeanstalkAPP  10:14
+CFSC - api.cf-fb.org deployed at 2020-12-17 14:14:46
+:philip:
+philipAPP  10:56
+@philip just synced emrap-corependium-client at 2020-12-17 10:56:47
+:philip:
+philipAPP  15:38
+@philip just synced emrap-corependium-client at 2020-12-17 15:38:56
+:nick:
+nickAPP  16:49
+@nick just synced emrap at 2020-12-17 16:49:10
+:philip:
+philipAPP  17:22
+@philip just synced emrap-corependium-client at 2020-12-17 17:22:28
+ElasticBeanstalkAPP  10:46
+CFSC - api.cf-fb.org deployed at 2020-12-18 14:46:05
+ElasticBeanstalkAPP  10:52
+CFSC - api.cf-fb.org deployed at 2020-12-18 14:52:29
+:philip:
+philipAPP  14:25
+@philip just synced emrap-corependium-client at 2020-12-18 14:25:40
+:nick:
+nickAPP  14:52
+@nick just synced emrap at 2020-12-18 14:52:08

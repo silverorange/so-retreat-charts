@@ -1,0 +1,1054 @@
+:hippoed:
+saraAPP  00:04
+@sara just synced pcrap at 2021-01-01 00:04:32
+:hippoed:
+saraAPP  00:09
+@sara just synced ercast at 2021-01-01 00:09:56
+:hippoed:
+saraAPP  00:21
+@sara just synced hippo at 2021-01-01 00:21:32
+:hippoed:
+brittanyAPP  14:49
+@brittany just synced hippo-pay-admin at 2021-01-04 14:48:59
+:hippoed:
+brittanyAPP  15:19
+@brittany just synced uas-jsonapi-server at 2021-01-04 15:19:24
+15:22
+@brittany just synced video-platform-client at 2021-01-04 15:22:48
+:kendra:
+kendraAPP  18:45
+@kendra just synced pcrap at 2021-01-04 18:45:09
+:kendra:
+kendraAPP  16:50
+@kendra just synced hippo at 2021-01-05 16:50:31
+:hippoed:
+saraAPP  11:03
+@sara just synced hippo at 2021-01-06 11:03:55
+:hippoed:
+saraAPP  20:45
+@sara just synced papodcast at 2021-01-06 20:45:32
+:kendra:
+kendraAPP  20:54
+@kendra just synced ercast at 2021-01-06 20:54:31
+:kendra:
+kendraAPP  12:53
+@kendra just synced pcrap at 2021-01-08 12:53:51
+:hippoed:
+saraAPP  13:54
+@sara just synced pedsrap at 2021-01-08 13:54:02
+:kendra:
+kendraAPP  13:54
+@kendra just synced ucrap at 2021-01-08 13:54:55
+:hippoed:
+saraAPP  19:49
+@sara just synced hippo at 2021-01-11 19:49:56
+:mike:
+gauthiermAPP  16:22
+@gauthierm just synced pcrap at 2021-01-12 16:22:42
+:mike:
+gauthiermAPP  15:22
+@gauthierm just synced ucrap at 2021-01-13 15:22:43
+15:24
+@gauthierm just synced pedsrap at 2021-01-13 15:24:06
+15:28
+@gauthierm just synced ercast at 2021-01-13 15:28:22
+:mike:
+gauthiermAPP  17:36
+@gauthierm just synced papodcast at 2021-01-13 17:36:13
+17:40
+@gauthierm just synced papodcast at 2021-01-13 17:40:18
+17:42
+@gauthierm just synced ercast at 2021-01-13 17:42:17
+:jingwen:
+jingwenAPP  14:52
+@jingwen just synced essentials at 2021-01-21 14:52:03
+:hippoed:
+brittanyAPP  13:18
+@brittany just synced hippo at 2021-01-26 13:18:07
+:mike:
+gauthiermAPP  19:59
+@gauthierm just synced pedsrap at 2021-01-28 19:59:37
+:hippoed:
+saraAPP  17:47
+@sara just synced hippo-ed at 2021-02-04 17:47:37
+:jingwen:
+jingwenAPP  15:34
+@jingwen just synced essentials at 2021-02-05 15:34:56
+:jingwen:
+jingwenAPP  17:15
+@jingwen just synced essentials at 2021-02-05 17:15:29
+:hippoed:
+saraAPP  19:20
+@sara just synced ercast at 2021-02-10 19:20:50
+:hippoed:
+saraAPP  15:41
+@sara just synced essentials at 2021-02-16 15:41:09
+:hippoed:
+brandonAPP  11:05
+@brandon just synced firebase-sync-service at 2021-02-18 11:05:21
+:hippoed:
+brandonAPP  11:43
+@brandon just synced firebase-sync-service at 2021-02-18 11:43:20
+:hippoed:
+brandonAPP  12:04
+@brandon just synced firebase-sync-service at 2021-02-18 12:04:23
+:hippoed:
+brandonAPP  14:46
+@brandon just synced video-platform-client at 2021-02-18 14:46:39
+14:48
+@brandon just synced uas-jsonapi-server at 2021-02-18 14:48:12
+:hippoed:
+saraAPP  17:25
+@sara just synced essentials at 2021-02-18 17:25:39
+:hippoed:
+brandonAPP  18:19
+@brandon just synced hippo-pay-admin at 2021-02-18 18:19:27
+:hippoed:
+brandonAPP  13:23
+@brandon just synced video-platform-client at 2021-02-19 13:23:51
+:kendra:
+kendraAPP  13:34
+@kendra just synced uas-jsonapi-server at 2021-02-19 13:34:55
+13:39
+@kendra just synced hippo-pay-admin at 2021-02-19 13:39:42
+:jacob:
+jacobAPP  17:48
+@jake just synced uas-jsonapi-server at 2021-02-19 17:48:22
+:kendra:
+kendraAPP  18:07
+@kendra just synced pedsrap at 2021-02-22 18:07:24
+:hippoed:
+brandonAPP  11:22
+@brandon just synced uas-jsonapi-server at 2021-02-26 11:22:52
+11:27
+@brandon just synced video-platform-client at 2021-02-26 11:27:00
+11:29
+@brandon just synced firebase-sync-service at 2021-02-26 11:29:47
+:hippoed:
+brandonAPP  12:06
+@brandon just synced video-platform-client at 2021-03-01 12:06:02
+12:06
+@brandon just synced firebase-sync-service at 2021-03-01 12:06:40
+12:09
+@brandon just synced uas-jsonapi-server at 2021-03-01 12:09:05
+12:10
+@brandon just synced hippo-pay-admin at 2021-03-01 12:10:12
+:hippoed:
+saraAPP  13:39
+@sara just synced ercast at 2021-03-01 13:39:07
+:hippoed:
+saraAPP  13:49
+@sara just synced hippo at 2021-03-01 13:49:50
+:jacob:
+jacobAPP  13:57
+@jake just synced hippo-pay-admin at 2021-03-01 13:57:10
+:mike:
+gauthiermAPP  14:03
+@gauthierm just synced ercast at 2021-03-01 14:03:58
+:hippoed:
+saraAPP  14:05
+@sara just synced hippo-ed at 2021-03-01 14:05:30
+:meow_wut:
+richardAPP  14:11
+@someone just synced pedsrap at 2021-03-01 14:11:57
+1 reply
+9 months agoView thread
+:hippoed:
+saraAPP  14:16
+@sara just synced qbank-react at 2021-03-01 14:16:38
+:meow_wut:
+richardAPP  14:17
+@someone just synced ucrap at 2021-03-01 14:17:56
+:hippoed:
+saraAPP  14:24
+@sara just synced papodcast at 2021-03-01 14:24:40
+:meow_wut:
+richardAPP  14:24
+@someone just synced pcrap at 2021-03-01 14:24:48
+:hippoed:
+brandonAPP  14:39
+@brandon just synced video-platform-client at 2021-03-01 14:39:28
+:hippoed:
+brandonAPP  15:25
+@brandon just synced hippo-pay-client at 2021-03-01 15:25:57
+:kendra:
+kendraAPP  17:17
+@kendra just synced essentials at 2021-03-01 17:17:01
+:hippoed:
+saraAPP  19:18
+@sara just synced essentials at 2021-03-02 19:18:46
+:mike:
+gauthiermAPP  16:30
+@gauthierm just synced uas-jsonapi-server at 2021-03-03 16:30:06
+:mike:
+gauthiermAPP  17:26
+@gauthierm just synced hippo at 2021-03-03 17:26:44
+17:31
+@gauthierm just synced essentials at 2021-03-03 17:31:12
+17:35
+@gauthierm just synced pcrap at 2021-03-03 17:35:19
+:mike:
+gauthiermAPP  17:41
+@gauthierm just synced pcrap at 2021-03-03 17:41:47
+17:42
+@gauthierm just synced ucrap at 2021-03-03 17:42:56
+17:44
+@gauthierm just synced pedsrap at 2021-03-03 17:44:18
+:mike:
+gauthiermAPP  19:49
+@gauthierm just synced papodcast at 2021-03-03 19:49:32
+:hippoed:
+saraAPP  18:47
+@sara just synced hippo at 2021-03-08 18:47:25
+:mike:
+gauthiermAPP  15:03
+@gauthierm just synced hippo-pay-admin at 2021-03-15 15:03:32
+:meow_wut:
+kirillAPP  15:16
+@someone just synced uas-jsonapi-server at 2021-03-15 15:16:56
+:hippoed:
+saraAPP  18:42
+@sara just synced ucrap at 2021-03-16 18:42:23
+:hippoed:
+saraAPP  18:49
+@sara just synced pcrap at 2021-03-16 18:49:41
+:hippoed:
+saraAPP  19:10
+@sara just synced pcrap at 2021-03-16 19:10:40
+19:13
+@sara just synced pedsrap at 2021-03-16 19:13:39
+19:17
+@sara just synced papodcast at 2021-03-16 19:17:57
+:hippoed:
+saraAPP  19:25
+@sara just synced essentials at 2021-03-16 19:25:07
+:hippoed:
+saraAPP  19:36
+@sara just synced hippo at 2021-03-16 19:36:46
+:hippoed:
+brandonAPP  17:02
+@brandon just synced uas-jsonapi-server at 2021-03-18 17:02:19
+17:03
+@brandon just synced video-platform-client at 2021-03-18 17:03:00
+17:05
+@brandon just synced firebase-sync-service at 2021-03-18 17:05:05
+:kendra:
+kendraAPP  19:31
+@kendra just synced hippo at 2021-03-18 19:31:17
+:mike:
+gauthiermAPP  13:31
+@gauthierm just synced hippo at 2021-03-23 13:31:22
+:jingwen:
+jingwenAPP  17:19
+@jingwen just synced essentials at 2021-03-24 17:19:31
+:hippoed:
+saraAPP  13:02
+@sara just synced hippo-pay-admin at 2021-03-26 13:02:17
+:hippoed:
+saraAPP  13:34
+@sara just synced hippo-pay-client at 2021-03-30 13:34:28
+:kendra:
+kendraAPP  19:59
+@kendra just synced essentials at 2021-04-01 19:58:57
+:hippoed:
+brandonAPP  15:35
+@brandon just synced video-platform-client at 2021-04-07 15:35:42
+15:38
+@brandon just synced uas-jsonapi-server at 2021-04-07 15:38:22
+15:39
+@brandon just synced hippo-pay-admin at 2021-04-07 15:39:55
+:hippoed:
+brandonAPP  12:19
+@brandon just synced firebase-sync-service at 2021-04-09 12:19:34
+:mike:
+gauthiermAPP  18:02
+@gauthierm just synced essentials at 2021-04-09 18:02:04
+:mike:
+gauthiermAPP  15:19
+@gauthierm just synced essentials at 2021-04-12 15:19:15
+:mike:
+gauthiermAPP  11:46
+@gauthierm just synced hippo at 2021-04-14 11:46:26
+11:46
+@gauthierm just synced pedsrap at 2021-04-14 11:46:34
+11:47
+@gauthierm just synced ucrap at 2021-04-14 11:47:48
+:mike:
+gauthiermAPP  12:16
+@gauthierm just synced qbank-react at 2021-04-14 12:16:53
+:mike:
+gauthiermAPP  13:56
+@gauthierm just synced hippo-ed at 2021-04-15 13:56:34
+:mike:
+gauthiermAPP  14:24
+@gauthierm just synced pcrap at 2021-04-15 14:24:37
+:mike:
+gauthiermAPP  15:19
+@gauthierm just synced ucrap at 2021-04-15 15:19:36
+15:20
+@gauthierm just synced pedsrap at 2021-04-15 15:20:29
+15:21
+@gauthierm just synced papodcast at 2021-04-15 15:21:22
+:mike:
+gauthiermAPP  15:31
+@gauthierm just synced hippo-pay-client at 2021-04-15 15:31:19
+:mike:
+gauthiermAPP  16:28
+@gauthierm just synced hippo-pay-admin at 2021-04-15 16:28:04
+:mike:
+gauthiermAPP  15:39
+@gauthierm just synced uas-jsonapi-server at 2021-04-16 15:39:01
+:mike:
+gauthiermAPP  16:32
+@gauthierm just synced essentials at 2021-04-16 16:32:39
+:kendra:
+kendraAPP  17:39
+@kendra just synced essentials at 2021-04-20 17:39:10
+:kendra:
+kendraAPP  16:51
+@kendra just synced uas-jsonapi-server at 2021-04-22 16:51:38
+:hippoed:
+saraAPP  15:31
+@sara just synced uas-jsonapi-server at 2021-04-29 15:31:04
+:hippoed:
+saraAPP  15:45
+@sara just synced video-platform-client at 2021-04-29 15:45:30
+27 replies
+Last reply 7 months agoView thread
+:hippoed:
+brandonAPP  16:16
+@brandon just synced firebase-sync-service at 2021-04-29 16:16:27
+:hippoed:
+saraAPP  16:41
+@sara just synced hippo-pay-client at 2021-04-29 16:41:15
+:hippoed:
+saraAPP  16:46
+@sara just synced hippo-pay-admin at 2021-04-29 16:46:19
+:hippoed:
+saraAPP  17:11
+@sara just synced video-platform-client at 2021-04-29 17:11:12
+1 reply
+7 months agoView thread
+:mike:
+gauthiermAPP  22:20
+@gauthierm just synced essentials at 2021-04-29 22:20:56
+:mike:
+gauthiermAPP  20:44
+@gauthierm just synced hippo at 2021-04-30 20:44:16
+:hippoed:
+saraAPP  11:22
+@sara just synced hippo-pay-admin at 2021-05-03 11:22:31
+:hippoed:
+saraAPP  12:23
+@sara just synced hippo-pay-admin at 2021-05-03 12:23:27
+:hippoed:
+brandonAPP  11:00
+@brandon just synced uas-jsonapi-server at 2021-05-04 11:00:20
+:hippoed:
+brandonAPP  16:57
+@brandon just synced hippo-pay-admin at 2021-05-04 16:57:30
+:mike:
+gauthiermAPP  16:07
+@gauthierm just synced pedsrap at 2021-05-06 16:07:48
+:hippoed:
+brandonAPP  17:26
+@brandon just synced firebase-sync-service at 2021-05-06 17:26:17
+:mike:
+gauthiermAPP  17:32
+@gauthierm just synced hippo at 2021-05-06 17:32:16
+:mike:
+gauthiermAPP  10:51
+@gauthierm just synced pedsrap at 2021-05-07 10:51:49
+10:53
+@gauthierm just synced ucrap at 2021-05-07 10:53:29
+10:55
+@gauthierm just synced pcrap at 2021-05-07 10:55:27
+:mike:
+gauthiermAPP  11:23
+@gauthierm just synced papodcast at 2021-05-07 11:23:10
+:mike:
+gauthiermAPP  11:30
+@gauthierm just synced ercast at 2021-05-07 11:30:17
+:hippoed:
+brandonAPP  11:51
+@brandon just synced video-platform-client at 2021-05-07 11:51:26
+:hippoed:
+brandonAPP  12:24
+@brandon just synced uas-jsonapi-server at 2021-05-10 12:24:13
+:mike:
+gauthiermAPP  15:44
+@gauthierm just synced uas-oauth2-server at 2021-05-10 15:44:09
+:mike:
+gauthiermAPP  12:28
+@gauthierm just synced uas-oauth2-server at 2021-05-11 12:28:41
+:hippoed:
+saraAPP  12:59
+@sara just synced uas-jsonapi-server at 2021-05-11 12:59:26
+:hippoed:
+saraAPP  13:11
+@sara just synced hippo at 2021-05-11 13:11:25
+:hippoed:
+saraAPP  14:55
+@sara just synced uas-jsonapi-server at 2021-05-14 14:55:58
+:hippoed:
+saraAPP  15:01
+@sara just synced uas-jsonapi-server at 2021-05-14 15:01:01
+1 reply
+6 months agoView thread
+:mike:
+gauthiermAPP  20:03
+@gauthierm just synced hippo at 2021-05-14 20:03:19
+:jacob:
+jacobAPP  12:17
+@jake just synced uas-jsonapi-server at 2021-05-17 12:17:14
+:jacob:
+jacobAPP  12:24
+@jake just synced video-platform-client at 2021-05-17 12:24:43
+:jacob:
+jacobAPP  12:41
+@jake just synced hippo-pay-admin at 2021-05-17 12:41:22
+:jacob:
+jacobAPP  13:37
+@jake just synced uas-jsonapi-server at 2021-05-18 13:37:21
+13:40
+@jake just synced video-platform-client at 2021-05-18 13:40:43
+:jingwen:
+jingwenAPP  17:10
+@jingwen just synced qbank-react at 2021-05-18 17:10:54
+7 replies
+Last reply 6 months agoView thread
+:jingwen:
+jingwenAPP  17:26
+@jingwen just synced hippo at 2021-05-18 17:26:47
+17:31
+@jingwen just synced hippo-ed at 2021-05-18 17:31:08
+:jingwen:
+jingwenAPP  17:35
+@jingwen just synced papodcast at 2021-05-18 17:35:33
+1 reply
+6 months agoView thread
+:jingwen:
+jingwenAPP  17:40
+@jingwen just synced essentials at 2021-05-18 17:40:42
+:jingwen:
+jingwenAPP  17:53
+@jingwen just synced video-platform-client at 2021-05-18 17:53:21
+:jingwen:
+jingwenAPP  18:24
+@jingwen just synced video-platform-client at 2021-05-18 18:24:00
+:hippoed:
+saraAPP  18:42
+@sara just synced papodcast at 2021-05-18 18:42:32
+4 replies
+Last reply 6 months agoView thread
+:jingwen:
+jingwenAPP  18:43
+@jingwen just synced pedsrap at 2021-05-18 18:43:36
+:hippoed:
+saraAPP  18:48
+@sara just synced papodcast at 2021-05-18 18:48:21
+:jingwen:
+jingwenAPP  18:48
+@jingwen just synced ucrap at 2021-05-18 18:48:42
+18:52
+@jingwen just synced pcrap at 2021-05-18 18:52:26
+:hippoed:
+saraAPP  18:52
+@sara just synced essentials at 2021-05-18 18:52:47
+:hippoed:
+saraAPP  13:53
+@sara just synced uas-jsonapi-server at 2021-05-19 13:53:47
+:meow_wut:
+ioanaAPP  18:02
+@someone just synced uas-jsonapi-server at 2021-05-20 18:02:01
+:meow_wut:
+ioanaAPP  09:51
+@someone just synced video-platform-client at 2021-05-21 09:51:05
+:hippoed:
+saraAPP  15:48
+@sara just synced hippo-ed at 2021-05-21 15:48:53
+:kendra:
+kendraAPP  23:09
+@kendra just synced essentials at 2021-05-21 23:09:03
+:meow_wut:
+ioanaAPP  14:40
+@someone just synced uas-jsonapi-server at 2021-05-24 14:40:36
+:meow_wut:
+ioanaAPP  14:47
+@someone just synced video-platform-client at 2021-05-24 14:47:11
+:hippoed:
+saraAPP  18:04
+@sara just synced essentials at 2021-05-24 18:04:53
+1 reply
+6 months agoView thread
+:hippoed:
+saraAPP  20:10
+@sara just synced essentials at 2021-05-24 20:09:59
+1 reply
+6 months agoView thread
+:hippoed:
+saraAPP  01:13
+@sara just synced essentials at 2021-05-25 01:12:58
+1 reply
+6 months agoView thread
+:mike:
+gauthiermAPP  16:23
+@gauthierm just synced hippo-ed at 2021-05-25 16:23:25
+:hippoed:
+saraAPP  19:43
+@sara just synced essentials at 2021-05-26 19:43:36
+:kendra:
+kendraAPP  14:01
+@kendra just synced video-platform-client at 2021-05-27 14:01:49
+:kendra:
+kendraAPP  14:01
+@kendra just synced essentials at 2021-05-28 14:01:43
+:mike:
+gauthiermAPP  16:31
+@gauthierm just synced hippo at 2021-06-01 16:31:53
+:kendra:
+kendraAPP  18:54
+@kendra just synced hippo at 2021-06-01 18:54:40
+:kendra:
+kendraAPP  14:08
+@kendra just synced uas-jsonapi-server at 2021-06-03 14:08:15
+:kendra:
+kendraAPP  14:15
+@kendra just synced video-platform-client at 2021-06-03 14:15:40
+14:17
+@kendra just synced firebase-sync-service at 2021-06-03 14:17:31
+14:20
+@kendra just synced hippo-pay-client at 2021-06-03 14:20:27
+:kendra:
+kendraAPP  15:07
+@kendra just synced hippo-pay-admin at 2021-06-03 15:07:32
+15:12
+@kendra just synced firebase-sync-service at 2021-06-03 15:12:30
+15:17
+@kendra just synced firebase-sync-service at 2021-06-03 15:17:09
+jake  10:02
+left #hippo-sync-to-live.
+:meow_wut:
+richardAPP  18:06
+@someone just synced essentials at 2021-06-07 18:06:42
+:meow_wut:
+richardAPP  13:20
+@someone just synced video-platform-client at 2021-06-08 13:20:45
+:meow_wut:
+richardAPP  14:47
+@someone just synced uas-jsonapi-server at 2021-06-09 14:47:34
+14:50
+@someone just synced firebase-sync-service at 2021-06-09 14:50:15
+14:55
+@someone just synced hippo-ed at 2021-06-09 14:55:10
+:hippoed:
+brittanyAPP  15:16
+@brittany just synced uas-jsonapi-server at 2021-06-11 15:16:17
+:hippoed:
+brittanyAPP  15:54
+@brittany just synced hippo-pay-admin at 2021-06-11 15:53:56
+Sara  15:56
+http://jaffa:8080/blue/organizations/jenkins/HippoEducation%2Fvideo-platform-client/detail/master/1360/pipeline
+:hippoed:
+saraAPP  16:16
+@sara just synced video-platform-client at 2021-06-11 16:16:15
+:kendra:
+kendraAPP  17:50
+@kendra just synced hippo-pay-client at 2021-06-14 17:50:32
+:hippoed:
+brittanyAPP  09:34
+@brittany just synced hippo-pay-admin at 2021-06-15 09:34:22
+:meow_wut:
+richardAPP  17:03
+@someone just synced firebase-sync-service at 2021-06-15 17:03:25
+:kendra:
+kendraAPP  13:28
+@kendra just synced uas-jsonapi-server at 2021-06-16 13:28:27
+:kendra:
+kendraAPP  12:48
+@kendra just synced uas-jsonapi-server at 2021-06-17 12:48:24
+:mike:
+gauthiermAPP  10:04
+@gauthierm just synced essentials at 2021-06-24 10:04:05
+:hippoed:
+brittanyAPP  13:32
+@brittany just synced hippo-pay-admin at 2021-06-30 13:32:14
+:hippoed:
+brittanyAPP  18:23
+@brittany just synced uas-jsonapi-server at 2021-07-08 18:23:04
+:hippoed:
+brittanyAPP  18:33
+@brittany just synced video-platform-client at 2021-07-08 18:33:18
+18:35
+@brittany just synced hippo-pay-admin at 2021-07-08 18:35:11
+:hippoed:
+brandonAPP  13:30
+@brandon just synced uas-jsonapi-server at 2021-07-09 13:30:55
+:hippoed:
+brittanyAPP  13:40
+@brittany just synced uas-jsonapi-server at 2021-07-12 13:40:16
+13:45
+@brittany just synced hippo-pay-admin at 2021-07-12 13:45:04
+:hippoed:
+brittanyAPP  13:51
+@brittany just synced video-platform-client at 2021-07-12 13:51:46
+:hippoed:
+brittanyAPP  13:03
+@brittany just synced hippo at 2021-07-15 13:03:58
+:hippoed:
+brittanyAPP  16:48
+@brittany just synced hippo at 2021-07-15 16:48:15
+:kendra:
+kendraAPP  15:46
+@kendra just synced essentials at 2021-07-16 15:46:13
+:kendra:
+kendraAPP  17:27
+@kendra just synced uas-jsonapi-server at 2021-07-20 17:27:24
+:kendra:
+kendraAPP  17:52
+@kendra just synced video-platform-client at 2021-07-20 17:52:15
+17:53
+@kendra just synced firebase-sync-service at 2021-07-20 17:53:48
+:hippoed:
+saraAPP  18:56
+@sara just synced uas-jsonapi-server at 2021-07-21 18:56:34
+:hippoed:
+brittanyAPP  12:55
+@brittany just synced uas-jsonapi-server at 2021-07-23 12:55:04
+:kendra:
+kendraAPP  13:00
+@kendra just synced hippo at 2021-07-23 13:00:16
+:hippoed:
+brittanyAPP  13:01
+@brittany just synced video-platform-client at 2021-07-23 13:01:25
+:hippoed:
+saraAPP  18:12
+@sara just synced uas-jsonapi-server at 2021-07-28 18:12:41
+18:15
+@sara just synced firebase-sync-service at 2021-07-28 18:15:54
+:hippoed:
+saraAPP  18:23
+@sara just synced video-platform-client at 2021-07-28 18:23:15
+:hippoed:
+saraAPP  18:28
+@sara just synced hippo-pay-admin at 2021-07-28 18:28:55
+:hippoed:
+saraAPP  15:10
+@sara just synced uas-jsonapi-server at 2021-07-30 15:10:08
+:hippoed:
+saraAPP  15:20
+@sara just synced video-platform-client at 2021-07-30 15:20:31
+:hippoed:
+brittanyAPP  15:39
+@brittany just synced uas-jsonapi-server at 2021-07-30 15:39:11
+:hippoed:
+saraAPP  16:55
+@sara just synced uas-jsonapi-server at 2021-07-30 16:55:28
+:hippoed:
+saraAPP  18:08
+@sara just synced uas-jsonapi-server at 2021-07-30 18:08:08
+:mike:
+gauthiermAPP  10:29
+@gauthierm just synced pedsrap at 2021-08-03 10:29:59
+:kendra:
+kendraAPP  15:02
+@kendra just synced pcrap at 2021-08-12 15:02:40
+:kendra:
+kendraAPP  15:10
+@kendra just synced ucrap at 2021-08-12 15:10:35
+15:13
+@kendra just synced pedsrap at 2021-08-12 15:13:09
+:kendra:
+kendraAPP  15:18
+@kendra just synced papodcast at 2021-08-12 15:18:27
+:hippoed:
+brittanyAPP  13:11
+@brittany just synced pcrap at 2021-08-17 13:11:36
+:hippoed:
+brittanyAPP  13:27
+@brittany just synced pcrap at 2021-08-17 13:27:13
+:meow_wut:
+ioanaAPP  15:35
+@someone just synced uas-jsonapi-server at 2021-08-17 15:35:01
+:meow_wut:
+ioanaAPP  15:40
+@someone just synced video-platform-client at 2021-08-17 15:40:50
+15:44
+@someone just synced hippo-pay-admin at 2021-08-17 15:44:45
+15:47
+@someone just synced firebase-sync-service at 2021-08-17 15:47:21
+:hippoed:
+brittanyAPP  13:08
+@brittany just synced uas-jsonapi-server at 2021-08-18 13:08:17
+:hippoed:
+brittanyAPP  13:13
+@brittany just synced video-platform-client at 2021-08-18 13:13:17
+:hippoed:
+saraAPP  17:47
+@sara just synced uas-jsonapi-server at 2021-08-18 17:47:50
+:hippoed:
+saraAPP  17:53
+@sara just synced video-platform-client at 2021-08-18 17:53:13
+:hippoed:
+brittanyAPP  18:06
+@brittany just synced uas-jsonapi-server at 2021-08-18 18:06:53
+:hippoed:
+saraAPP  19:06
+@sara just synced uas-jsonapi-server at 2021-08-18 19:06:03
+:hippoed:
+saraAPP  19:47
+@sara just synced video-platform-client at 2021-08-18 19:47:37
+:hippoed:
+saraAPP  16:06
+@sara just synced uas-jsonapi-server at 2021-08-19 16:06:58
+:hippoed:
+saraAPP  16:42
+@sara just synced video-platform-client at 2021-08-19 16:42:41
+:meow_wut:
+ioanaAPP  17:18
+@someone just synced uas-jsonapi-server at 2021-08-20 17:18:36
+:hippoed:
+brandonAPP  14:46
+@brandon just synced video-platform-client at 2021-08-24 14:46:09
+:hippoed:
+brittanyAPP  15:26
+@brittany just synced uas-jsonapi-server at 2021-08-24 15:26:32
+:hippoed:
+brittanyAPP  11:57
+@brittany just synced uas-jsonapi-server at 2021-08-25 11:57:01
+:hippoed:
+brandonAPP  13:46
+@brandon just synced uas-jsonapi-server at 2021-08-30 13:46:01
+13:46
+@brandon just synced video-platform-client at 2021-08-30 13:46:54
+:hippoed:
+brandonAPP  15:01
+@brandon just synced uas-jsonapi-server at 2021-08-30 15:01:41
+:hippoed:
+brittanyAPP  10:59
+@brittany just synced video-platform-client at 2021-09-02 10:59:48
+:hippoed:
+brittanyAPP  12:02
+@brittany just synced video-platform-client at 2021-09-02 12:02:38
+:hippoed:
+brittanyAPP  14:29
+@brittany just synced video-platform-client at 2021-09-02 14:29:43
+14:30
+@brittany just synced uas-jsonapi-server at 2021-09-02 14:30:20
+:hippoed:
+brittanyAPP  14:49
+@brittany just synced uas-jsonapi-server at 2021-09-02 14:49:34
+:meow_wut:
+ioanaAPP  16:55
+@someone just synced uas-jsonapi-server at 2021-09-02 16:55:35
+16:59
+@someone just synced video-platform-client at 2021-09-02 16:59:03
+:meow_wut:
+ioanaAPP  18:08
+@someone just synced video-platform-client at 2021-09-02 18:08:04
+:hippoed:
+brittanyAPP  13:07
+@brittany just synced video-platform-client at 2021-09-03 13:07:50
+Wen  09:57
+left #hippo-sync-to-live.
+:hippoed:
+saraAPP  17:00
+@sara just synced hippo-pay-admin at 2021-09-09 17:00:36
+:hippoed:
+saraAPP  17:57
+@sara just synced video-platform-client at 2021-09-09 17:57:31
+:hippoed:
+brittanyAPP  15:51
+@brittany just synced uas-jsonapi-server at 2021-09-13 15:51:06
+:hippoed:
+brittanyAPP  16:00
+@brittany just synced video-platform-client at 2021-09-13 16:00:55
+:kendra:
+kendraAPP  13:00
+@kendra just synced essentials at 2021-09-14 13:00:18
+:kendra:
+kendraAPP  13:13
+@kendra just synced hippo at 2021-09-14 13:13:35
+13:14
+@kendra just synced pcrap at 2021-09-14 13:14:03
+:kendra:
+kendraAPP  13:25
+@kendra just synced ucrap at 2021-09-14 13:25:20
+:kendra:
+kendraAPP  13:35
+@kendra just synced papodcast at 2021-09-14 13:35:25
+:kendra:
+kendraAPP  13:44
+@kendra just synced pedsrap at 2021-09-14 13:44:48
+:mike:
+gauthiermAPP  16:21
+@gauthierm just synced ucrap at 2021-09-15 16:21:22
+:kendra:
+kendraAPP  14:38
+@kendra just synced uas-jsonapi-server at 2021-09-16 14:38:21
+14:38
+@kendra just synced video-platform-client at 2021-09-16 14:38:43
+:hippoed:
+saraAPP  13:09
+@sara just synced qbank-react at 2021-09-21 13:09:27
+:hippoed:
+saraAPP  13:14
+@sara just synced hippo at 2021-09-21 13:14:43
+13:18
+@sara just synced hippo-ed at 2021-09-21 13:18:14
+13:20
+@sara just synced essentials at 2021-09-21 13:20:49
+:hippoed:
+brittanyAPP  13:22
+@brittany just synced papodcast at 2021-09-21 13:22:28
+:hippoed:
+saraAPP  13:27
+@sara just synced papodcast at 2021-09-21 13:27:01
+13:29
+@sara just synced pedsrap at 2021-09-21 13:29:25
+13:31
+@sara just synced pcrap at 2021-09-21 13:31:16
+13:33
+@sara just synced ucrap at 2021-09-21 13:33:30
+:hippoed:
+saraAPP  13:42
+@sara just synced uas-jsonapi-server at 2021-09-21 13:42:33
+13:47
+@sara just synced video-platform-client at 2021-09-21 13:47:03
+:hippoed:
+saraAPP  14:07
+@sara just synced uas-jsonapi-server at 2021-09-21 14:07:13
+:hippoed:
+brandonAPP  14:33
+@brandon just synced video-platform-client at 2021-09-21 14:33:24
+:hippoed:
+brittanyAPP  16:53
+@brittany just synced hippo-pay-admin at 2021-09-21 16:53:42
+:hippoed:
+brittanyAPP  18:39
+@brittany just synced uas-jsonapi-server at 2021-09-21 18:39:30
+18:40
+@brittany just synced video-platform-client at 2021-09-21 18:40:38
+:meow_wut:
+miaAPP  15:44
+@someone just synced hippo-pay-admin at 2021-09-22 15:44:21
+:hippoed:
+brittanyAPP  12:42
+@brittany just synced uas-jsonapi-server at 2021-09-24 12:42:24
+12:45
+@brittany just synced video-platform-client at 2021-09-24 12:45:19
+:meow_wut:
+richardAPP  14:42
+@someone just synced uas-jsonapi-server at 2021-09-27 14:41:59
+:hippoed:
+saraAPP  15:05
+@sara just synced essentials at 2021-09-27 15:05:38
+:hippoed:
+saraAPP  15:15
+@sara just synced hippo at 2021-09-27 15:15:01
+:hippoed:
+brittanyAPP  18:13
+@brittany just synced uas-jsonapi-server at 2021-09-28 18:13:37
+18:15
+@brittany just synced video-platform-client at 2021-09-28 18:15:46
+:hippoed:
+brittanyAPP  17:25
+@brittany just synced hippo-pay-admin at 2021-09-30 17:25:39
+17:26
+@brittany just synced uas-jsonapi-server at 2021-09-30 17:26:26
+17:27
+@brittany just synced video-platform-client at 2021-09-30 17:27:05
+:hippoed:
+brittanyAPP  11:40
+@brittany just synced uas-jsonapi-server at 2021-10-05 11:40:21
+11:40
+@brittany just synced hippo-pay-admin at 2021-10-05 11:40:37
+11:40
+@brittany just synced video-platform-client at 2021-10-05 11:40:38
+:hippoed:
+saraAPP  12:40
+@sara just synced hippo at 2021-10-05 12:40:10
+:meow_wut:
+kirillAPP  15:26
+@someone just synced uas-jsonapi-server at 2021-10-06 15:26:47
+15:31
+@someone just synced video-platform-client at 2021-10-06 15:31:33
+15:34
+@someone just synced firebase-sync-service at 2021-10-06 15:34:08
+:hippoed:
+richardAPP  11:28
+@richard just synced video-platform-client at 2021-10-08 11:28:36
+:hippoed:
+brittanyAPP  14:06
+@brittany just synced hippo-pay-admin at 2021-10-11 14:06:30
+:kendra:
+kendraAPP  16:35
+@kendra just synced ercast at 2021-10-12 16:35:57
+:hippoed:
+brittanyAPP  20:16
+@brittany just synced hippo at 2021-10-13 20:16:37
+:hippoed:
+miaAPP  16:18
+@mia just synced hippo-pay-admin at 2021-10-14 16:18:31
+:meow_wut:
+ioanaAPP  19:16
+@someone just synced uas-jsonapi-server at 2021-10-14 19:16:45
+:meow_wut:
+ioanaAPP  19:22
+@someone just synced video-platform-client at 2021-10-14 19:22:25
+:meow_wut:
+ioanaAPP  14:59
+@someone just synced uas-jsonapi-server at 2021-10-15 14:59:27
+15:03
+@someone just synced video-platform-client at 2021-10-15 15:03:47
+:hippoed:
+brittanyAPP  16:21
+@brittany just synced hippo at 2021-10-18 16:21:17
+:hippoed:
+richardAPP  13:20
+@richard just synced uas-jsonapi-server at 2021-10-19 13:20:15
+:kendra:
+kendraAPP  16:15
+@kendra just synced essentials at 2021-10-22 16:15:08
+16:19
+@kendra just synced essentials at 2021-10-22 16:19:27
+:hippoed:
+brandonAPP  15:20
+@brandon just synced video-platform-client at 2021-10-26 15:20:07
+15:20
+@brandon just synced hippo-pay-admin at 2021-10-26 15:20:07
+15:22
+@brandon just synced uas-jsonapi-server at 2021-10-26 15:22:49
+:hippoed:
+brandonAPP  12:33
+@brandon just synced video-platform-client at 2021-10-27 12:33:15
+12:36
+@brandon just synced uas-jsonapi-server at 2021-10-27 12:36:04
+:hippoed:
+saraAPP  13:02
+@sara just synced papodcast at 2021-10-27 13:02:15
+13:06
+@sara just synced qbank-react at 2021-10-27 13:06:04
+:hippoed:
+saraAPP  13:12
+@sara just synced hippo at 2021-10-27 13:12:16
+:mike:
+gauthiermAPP  13:19
+@gauthierm just synced papodcast at 2021-10-27 13:19:31
+:hippoed:
+saraAPP  13:23
+@sara just synced hippo-ed at 2021-10-27 13:23:00
+:meow_wut:
+ioanaAPP  13:28
+@someone just synced uas-jsonapi-server at 2021-10-27 13:28:47
+:hippoed:
+saraAPP  13:31
+@sara just synced essentials at 2021-10-27 13:31:18
+:hippoed:
+saraAPP  13:36
+@sara just synced pedsrap at 2021-10-27 13:36:20
+13:38
+@sara just synced pcrap at 2021-10-27 13:38:51
+:hippoed:
+saraAPP  13:55
+@sara just synced video-platform-client at 2021-10-27 13:55:09
+:kendra:
+kendraAPP  13:57
+@kendra just synced hippo at 2021-10-27 13:57:54
+:kendra:
+kendraAPP  14:07
+@kendra just synced pcrap at 2021-10-27 14:07:42
+:kendra:
+kendraAPP  15:16
+@kendra just synced essentials at 2021-10-27 15:16:05
+:hippoed:
+miaAPP  15:18
+@mia just synced uas-jsonapi-server at 2021-10-27 15:18:16
+:hippoed:
+miaAPP  15:23
+@mia just synced video-platform-client at 2021-10-27 15:23:40
+:hippoed:
+brittanyAPP  20:53
+@brittany just synced uas-jsonapi-server at 2021-10-27 20:53:18
+20:53
+@brittany just synced hippo-pay-admin at 2021-10-27 20:53:28
+:hippoed:
+brittanyAPP  21:35
+@brittany just synced uas-jsonapi-server at 2021-10-27 21:35:37
+:hippoed:
+brittanyAPP  13:04
+@brittany just synced video-platform-client at 2021-10-28 13:04:45
+:hippoed:
+brittanyAPP  14:32
+@brittany just synced video-platform-client at 2021-10-28 14:32:21
+:hippoed:
+saraAPP  20:06
+@sara just synced pedsrap at 2021-11-02 20:06:04
+:hippoed:
+saraAPP  19:28
+@sara just synced uas-jsonapi-server at 2021-11-03 19:28:12
+:hippoed:
+saraAPP  19:56
+@sara just synced video-platform-client at 2021-11-03 19:56:50
+:kendra:
+kendraAPP  13:53
+@kendra just synced hippo at 2021-11-08 13:53:17
+:kendra:
+kendraAPP  14:29
+@kendra just synced uas-jsonapi-server at 2021-11-12 14:29:43
+14:31
+@kendra just synced video-platform-client at 2021-11-12 14:31:08
+:kendra:
+kendraAPP  14:39
+@kendra just synced hippo-pay-admin at 2021-11-12 14:39:10
+:kendra:
+kendraAPP  15:21
+@kendra just synced essentials at 2021-11-12 15:21:01
+:hippoed:
+saraAPP  19:12
+@sara just synced hippo at 2021-11-15 19:12:49
+:hippoed:
+saraAPP  19:21
+@sara just synced hippo at 2021-11-15 19:21:31
+:hippoed:
+saraAPP  19:51
+@sara just synced hippo at 2021-11-15 19:51:26
+:hippoed:
+brittanyAPP  11:01
+@brittany just synced uas-jsonapi-server at 2021-11-16 11:00:58
+11:01
+@brittany just synced video-platform-client at 2021-11-16 11:01:12
+:hippoed:
+brittanyAPP  13:37
+@brittany just synced video-platform-client at 2021-11-16 13:37:50
+:hippoed:
+miaAPP  13:45
+@mia just synced hippo-pay-admin at 2021-11-16 13:45:27
+:hippoed:
+richardAPP  15:27
+@richard just synced video-platform-client at 2021-11-16 15:27:47
+15:31
+@richard just synced hippo-pay-admin at 2021-11-16 15:31:45
+:hippoed:
+brittanyAPP  15:32
+@brittany just synced hippo at 2021-11-16 15:32:17
+:hippoed:
+richardAPP  15:37
+@richard just synced hippo-ed at 2021-11-16 15:37:43
+:kendra:
+kendraAPP  15:45
+@kendra just synced pcrap at 2021-11-16 15:45:12
+:hippoed:
+richardAPP  15:46
+@richard just synced qbank-react at 2021-11-16 15:46:15
+:hippoed:
+brittanyAPP  16:06
+@brittany just synced essentials at 2021-11-16 16:06:51
+16:07
+@brittany just synced pedsrap at 2021-11-16 16:07:33
+:hippoed:
+brittanyAPP  16:09
+@brittany just synced uas-jsonapi-server at 2021-11-19 16:09:50
+:hippoed:
+brittanyAPP  16:18
+@brittany just synced video-platform-client at 2021-11-19 16:18:23
