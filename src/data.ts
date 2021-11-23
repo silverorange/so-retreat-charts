@@ -410,15 +410,19 @@ export const platforms2017 = {
   data: [
     {
       year: 'Legacy PHP',
-      value: 11,
+      value: 8,
     },
     {
       year: 'Node',
-      value: 4,
+      value: 5,
     },
     {
       year: 'React',
-      value: 3,
+      value: 2,
+    },
+    {
+      year: 'React Native',
+      value: 1,
     },
     {
       year: 'iOS',
@@ -441,7 +445,7 @@ export const platforms2018 = {
   data: [
     {
       year: 'Legacy PHP',
-      value: 11,
+      value: 10,
     },
     {
       year: 'Node',
@@ -449,7 +453,11 @@ export const platforms2018 = {
     },
     {
       year: 'React',
-      value: 12,
+      value: 10,
+    },
+    {
+      year: 'React Native',
+      value: 1,
     },
     {
       year: 'iOS',
@@ -480,7 +488,11 @@ export const platforms2019 = {
     },
     {
       year: 'React',
-      value: 15,
+      value: 13,
+    },
+    {
+      year: 'React Native',
+      value: 1,
     },
     {
       year: 'iOS',
@@ -511,7 +523,11 @@ export const platforms2020 = {
     },
     {
       year: 'React',
-      value: 17,
+      value: 14,
+    },
+    {
+      year: 'React Native',
+      value: 2,
     },
     {
       year: 'iOS',
@@ -523,7 +539,42 @@ export const platforms2020 = {
     },
     {
       year: 'Other',
-      value: 4,
+      value: 5,
+    },
+  ],
+};
+
+export const platforms2021 = {
+  domain: [0, 18],
+  ticks: 8,
+  data: [
+    {
+      year: 'Legacy PHP',
+      value: 7,
+    },
+    {
+      year: 'Node',
+      value: 14,
+    },
+    {
+      year: 'React',
+      value: 16,
+    },
+    {
+      year: 'React Native',
+      value: 3,
+    },
+    {
+      year: 'iOS',
+      value: 3,
+    },
+    {
+      year: 'Android',
+      value: 3,
+    },
+    {
+      year: 'Other',
+      value: 5,
     },
   ],
 };
