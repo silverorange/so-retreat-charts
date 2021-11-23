@@ -141,7 +141,7 @@ export const iOSReleases = {
     },
     {
       year: '2021—',
-      value: 999,
+      value: 20,
     },
   ],
 };
