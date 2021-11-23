@@ -150,7 +150,7 @@ saraAPP  14:05
 @sara just synced hippo-ed at 2021-03-01 14:05:30
 :meow_wut:
 richardAPP  14:11
-@someone just synced pedsrap at 2021-03-01 14:11:57
+@richard just synced pedsrap at 2021-03-01 14:11:57
 1 reply
 9 months agoView thread
 :hippoed:
@@ -158,13 +158,13 @@ saraAPP  14:16
 @sara just synced qbank-react at 2021-03-01 14:16:38
 :meow_wut:
 richardAPP  14:17
-@someone just synced ucrap at 2021-03-01 14:17:56
+@richard just synced ucrap at 2021-03-01 14:17:56
 :hippoed:
 saraAPP  14:24
 @sara just synced papodcast at 2021-03-01 14:24:40
 :meow_wut:
 richardAPP  14:24
-@someone just synced pcrap at 2021-03-01 14:24:48
+@richard just synced pcrap at 2021-03-01 14:24:48
 :hippoed:
 brandonAPP  14:39
 @brandon just synced video-platform-client at 2021-03-01 14:39:28
@@ -205,7 +205,7 @@ gauthiermAPP  15:03
 @gauthierm just synced hippo-pay-admin at 2021-03-15 15:03:32
 :meow_wut:
 kirillAPP  15:16
-@someone just synced uas-jsonapi-server at 2021-03-15 15:16:56
+@kirill just synced uas-jsonapi-server at 2021-03-15 15:16:56
 :hippoed:
 saraAPP  18:42
 @sara just synced ucrap at 2021-03-16 18:42:23
@@ -460,10 +460,10 @@ saraAPP  13:53
 @sara just synced uas-jsonapi-server at 2021-05-19 13:53:47
 :meow_wut:
 ioanaAPP  18:02
-@someone just synced uas-jsonapi-server at 2021-05-20 18:02:01
+@ioana just synced uas-jsonapi-server at 2021-05-20 18:02:01
 :meow_wut:
 ioanaAPP  09:51
-@someone just synced video-platform-client at 2021-05-21 09:51:05
+@ioana just synced video-platform-client at 2021-05-21 09:51:05
 :hippoed:
 saraAPP  15:48
 @sara just synced hippo-ed at 2021-05-21 15:48:53
@@ -472,10 +472,10 @@ kendraAPP  23:09
 @kendra just synced essentials at 2021-05-21 23:09:03
 :meow_wut:
 ioanaAPP  14:40
-@someone just synced uas-jsonapi-server at 2021-05-24 14:40:36
+@ioana just synced uas-jsonapi-server at 2021-05-24 14:40:36
 :meow_wut:
 ioanaAPP  14:47
-@someone just synced video-platform-client at 2021-05-24 14:47:11
+@ioana just synced video-platform-client at 2021-05-24 14:47:11
 :hippoed:
 saraAPP  18:04
 @sara just synced essentials at 2021-05-24 18:04:53
@@ -530,17 +530,17 @@ jake  10:02
 left #hippo-sync-to-live.
 :meow_wut:
 richardAPP  18:06
-@someone just synced essentials at 2021-06-07 18:06:42
+@richard just synced essentials at 2021-06-07 18:06:42
 :meow_wut:
 richardAPP  13:20
-@someone just synced video-platform-client at 2021-06-08 13:20:45
+@richard just synced video-platform-client at 2021-06-08 13:20:45
 :meow_wut:
 richardAPP  14:47
-@someone just synced uas-jsonapi-server at 2021-06-09 14:47:34
+@richard just synced uas-jsonapi-server at 2021-06-09 14:47:34
 14:50
-@someone just synced firebase-sync-service at 2021-06-09 14:50:15
+@richard just synced firebase-sync-service at 2021-06-09 14:50:15
 14:55
-@someone just synced hippo-ed at 2021-06-09 14:55:10
+@richard just synced hippo-ed at 2021-06-09 14:55:10
 :hippoed:
 brittanyAPP  15:16
 @brittany just synced uas-jsonapi-server at 2021-06-11 15:16:17
@@ -560,7 +560,7 @@ brittanyAPP  09:34
 @brittany just synced hippo-pay-admin at 2021-06-15 09:34:22
 :meow_wut:
 richardAPP  17:03
-@someone just synced firebase-sync-service at 2021-06-15 17:03:25
+@richard just synced firebase-sync-service at 2021-06-15 17:03:25
 :kendra:
 kendraAPP  13:28
 @kendra just synced uas-jsonapi-server at 2021-06-16 13:28:27
@@ -669,14 +669,14 @@ brittanyAPP  13:27
 @brittany just synced pcrap at 2021-08-17 13:27:13
 :meow_wut:
 ioanaAPP  15:35
-@someone just synced uas-jsonapi-server at 2021-08-17 15:35:01
+@ioana just synced uas-jsonapi-server at 2021-08-17 15:35:01
 :meow_wut:
 ioanaAPP  15:40
-@someone just synced video-platform-client at 2021-08-17 15:40:50
+@ioana just synced video-platform-client at 2021-08-17 15:40:50
 15:44
-@someone just synced hippo-pay-admin at 2021-08-17 15:44:45
+@ioana just synced hippo-pay-admin at 2021-08-17 15:44:45
 15:47
-@someone just synced firebase-sync-service at 2021-08-17 15:47:21
+@ioana just synced firebase-sync-service at 2021-08-17 15:47:21
 :hippoed:
 brittanyAPP  13:08
 @brittany just synced uas-jsonapi-server at 2021-08-18 13:08:17
@@ -706,7 +706,7 @@ saraAPP  16:42
 @sara just synced video-platform-client at 2021-08-19 16:42:41
 :meow_wut:
 ioanaAPP  17:18
-@someone just synced uas-jsonapi-server at 2021-08-20 17:18:36
+@ioana just synced uas-jsonapi-server at 2021-08-20 17:18:36
 :hippoed:
 brandonAPP  14:46
 @brandon just synced video-platform-client at 2021-08-24 14:46:09
@@ -740,12 +740,12 @@ brittanyAPP  14:49
 @brittany just synced uas-jsonapi-server at 2021-09-02 14:49:34
 :meow_wut:
 ioanaAPP  16:55
-@someone just synced uas-jsonapi-server at 2021-09-02 16:55:35
+@ioana just synced uas-jsonapi-server at 2021-09-02 16:55:35
 16:59
-@someone just synced video-platform-client at 2021-09-02 16:59:03
+@ioana just synced video-platform-client at 2021-09-02 16:59:03
 :meow_wut:
 ioanaAPP  18:08
-@someone just synced video-platform-client at 2021-09-02 18:08:04
+@ioana just synced video-platform-client at 2021-09-02 18:08:04
 :hippoed:
 brittanyAPP  13:07
 @brittany just synced video-platform-client at 2021-09-03 13:07:50
@@ -831,7 +831,7 @@ brittanyAPP  18:39
 @brittany just synced video-platform-client at 2021-09-21 18:40:38
 :meow_wut:
 miaAPP  15:44
-@someone just synced hippo-pay-admin at 2021-09-22 15:44:21
+@mia just synced hippo-pay-admin at 2021-09-22 15:44:21
 :hippoed:
 brittanyAPP  12:42
 @brittany just synced uas-jsonapi-server at 2021-09-24 12:42:24
@@ -839,7 +839,7 @@ brittanyAPP  12:42
 @brittany just synced video-platform-client at 2021-09-24 12:45:19
 :meow_wut:
 richardAPP  14:42
-@someone just synced uas-jsonapi-server at 2021-09-27 14:41:59
+@richard just synced uas-jsonapi-server at 2021-09-27 14:41:59
 :hippoed:
 saraAPP  15:05
 @sara just synced essentials at 2021-09-27 15:05:38
@@ -870,11 +870,11 @@ saraAPP  12:40
 @sara just synced hippo at 2021-10-05 12:40:10
 :meow_wut:
 kirillAPP  15:26
-@someone just synced uas-jsonapi-server at 2021-10-06 15:26:47
+@kirill just synced uas-jsonapi-server at 2021-10-06 15:26:47
 15:31
-@someone just synced video-platform-client at 2021-10-06 15:31:33
+@kirill just synced video-platform-client at 2021-10-06 15:31:33
 15:34
-@someone just synced firebase-sync-service at 2021-10-06 15:34:08
+@kirill just synced firebase-sync-service at 2021-10-06 15:34:08
 :hippoed:
 richardAPP  11:28
 @richard just synced video-platform-client at 2021-10-08 11:28:36
@@ -892,15 +892,15 @@ miaAPP  16:18
 @mia just synced hippo-pay-admin at 2021-10-14 16:18:31
 :meow_wut:
 ioanaAPP  19:16
-@someone just synced uas-jsonapi-server at 2021-10-14 19:16:45
+@ioana just synced uas-jsonapi-server at 2021-10-14 19:16:45
 :meow_wut:
 ioanaAPP  19:22
-@someone just synced video-platform-client at 2021-10-14 19:22:25
+@ioana just synced video-platform-client at 2021-10-14 19:22:25
 :meow_wut:
 ioanaAPP  14:59
-@someone just synced uas-jsonapi-server at 2021-10-15 14:59:27
+@ioana just synced uas-jsonapi-server at 2021-10-15 14:59:27
 15:03
-@someone just synced video-platform-client at 2021-10-15 15:03:47
+@ioana just synced video-platform-client at 2021-10-15 15:03:47
 :hippoed:
 brittanyAPP  16:21
 @brittany just synced hippo at 2021-10-18 16:21:17
@@ -940,7 +940,7 @@ saraAPP  13:23
 @sara just synced hippo-ed at 2021-10-27 13:23:00
 :meow_wut:
 ioanaAPP  13:28
-@someone just synced uas-jsonapi-server at 2021-10-27 13:28:47
+@ioana just synced uas-jsonapi-server at 2021-10-27 13:28:47
 :hippoed:
 saraAPP  13:31
 @sara just synced essentials at 2021-10-27 13:31:18
