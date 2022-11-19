@@ -8,6 +8,12 @@ const myData = {
   showAndTellsByMonth: data.showAndTellsByMonth,
   platformsByYear: data.platformsByYear,
   languagesByYear: data.languagesByYear,
+  showAndTells: data.showAndTells,
+  androidReleases: data.androidReleases,
+  iOSReleases: data.iOSReleases,
+  pullRequests: data.pullRequests,
+  siteReleases: data.siteReleases,
+  repositories: data.repositories,
 };
 
 type DataKeysType = keyof typeof myData;

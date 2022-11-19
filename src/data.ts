@@ -1,218 +1,72 @@
-export const pullRequests = {
+interface DataSet {
+  domain: [number, number];
+  ticks: number;
+  columns: string[];
+  series: string[];
+  data: { [key: string]: number[] };
+}
+
+export const pullRequests: DataSet = {
   domain: [0, 3500],
   ticks: 8,
-  data: [
-    {
-      year: '2014',
-      value: 2029,
-    },
-    {
-      year: '2015',
-      value: 2209,
-    },
-    {
-      year: '2016',
-      value: 2395,
-    },
-    {
-      year: '2017',
-      value: 3086,
-    },
-    {
-      year: '2018',
-      value: 2474,
-    },
-    {
-      year: '2019',
-      value: 2217,
-    },
-    {
-      year: '2020',
-      value: 2431,
-    },
-    {
-      year: '2021—',
-      value: 3064,
-    },
-  ],
+  columns: ['2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021—'],
+  series: ['years'],
+  data: {
+    years: [2029, 2209, 2395, 3086, 2474, 2217, 2431, 3064],
+  },
 };
 
-export const siteReleases = {
+export const siteReleases: DataSet = {
   domain: [0, 900],
   ticks: 8,
-  data: [
-    {
-      year: '2015',
-      value: 244,
-    },
-    {
-      year: '2016',
-      value: 516,
-    },
-    {
-      year: '2017',
-      value: 753,
-    },
-    {
-      year: '2018',
-      value: 659,
-    },
-    {
-      year: '2019',
-      value: 828,
-    },
-    {
-      year: '2020',
-      value: 850,
-    },
-    {
-      year: '2021—',
-      value: 793,
-    },
-  ],
+  columns: ['2015', '2016', '2017', '2018', '2019', '2020', '2021—'],
+  series: ['years'],
+  data: {
+    years: [244, 516, 753, 659, 828, 850, 793],
+  },
 };
 
-export const repositories = {
+export const repositories: DataSet = {
   domain: [0, 180],
   ticks: 8,
-  data: [
-    {
-      year: '2015',
-      value: 73,
-    },
-    {
-      year: '2016',
-      value: 94,
-    },
-    {
-      year: '2017',
-      value: 115,
-    },
-    {
-      year: '2018',
-      value: 140,
-    },
-    {
-      year: '2019',
-      value: 156,
-    },
-    {
-      year: '2020',
-      value: 169,
-    },
-    {
-      year: '2021—',
-      value: 174,
-    },
-  ],
+  columns: ['2015', '2016', '2017', '2018', '2019', '2020', '2021—'],
+  series: ['years'],
+  data: {
+    years: [73, 94, 115, 140, 156, 169, 174],
+  },
 };
 
-export const iOSReleases = {
+export const iOSReleases: DataSet = {
   domain: [0, 30],
   ticks: 6,
-  data: [
-    {
-      year: '2014',
-      value: 3,
-    },
-    {
-      year: '2015',
-      value: 23,
-    },
-    {
-      year: '2016',
-      value: 19,
-    },
-    {
-      year: '2017',
-      value: 7,
-    },
-    {
-      year: '2018',
-      value: 11,
-    },
-    {
-      year: '2019',
-      value: 8,
-    },
-    {
-      year: '2020',
-      value: 8,
-    },
-    {
-      year: '2021—',
-      value: 20,
-    },
-  ],
+  columns: ['2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021—'],
+  series: ['years'],
+  data: {
+    years: [3, 23, 19, 7, 11, 8, 8, 20],
+  },
 };
 
-export const androidReleases = {
+export const androidReleases: DataSet = {
   domain: [0, 30],
   ticks: 6,
-  data: [
-    {
-      year: '2014',
-      value: 0,
-    },
-    {
-      year: '2015',
-      value: 25,
-    },
-    {
-      year: '2016',
-      value: 16,
-    },
-    {
-      year: '2017',
-      value: 7,
-    },
-    {
-      year: '2018',
-      value: 9,
-    },
-    {
-      year: '2019',
-      value: 2,
-    },
-    {
-      year: '2020',
-      value: 9,
-    },
-    {
-      year: '2021—',
-      value: 29,
-    },
-  ],
+  columns: ['2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021—'],
+  series: ['years'],
+  data: {
+    years: [0, 25, 16, 7, 9, 2, 9, 29],
+  },
 };
 
-export const showAndTells = {
+export const showAndTells: DataSet = {
   domain: [0, 100],
   ticks: 4,
-  data: [
-    {
-      year: '2017',
-      value: 96,
-    },
-    {
-      year: '2018',
-      value: 86,
-    },
-    {
-      year: '2019',
-      value: 89,
-    },
-    {
-      year: '2020',
-      value: 43,
-    },
-    {
-      year: '2021—',
-      value: 79,
-    },
-  ],
+  columns: ['2017', '2018', '2019', '2020', '2021—'],
+  series: ['years'],
+  data: {
+    years: [96, 86, 89, 43, 79],
+  },
 };
 
-export const showAndTellsByMonth = {
+export const showAndTellsByMonth: DataSet = {
   domain: [0, 20],
   ticks: 4,
   columns: [
@@ -239,7 +93,7 @@ export const showAndTellsByMonth = {
   },
 };
 
-export const platformsByYear = {
+export const platformsByYear: DataSet = {
   domain: [0, 18],
   ticks: 8,
   columns: [
@@ -261,7 +115,7 @@ export const platformsByYear = {
   },
 };
 
-export const languagesByYear = {
+export const languagesByYear: DataSet = {
   domain: [0, 24],
   ticks: 12,
   columns: [
