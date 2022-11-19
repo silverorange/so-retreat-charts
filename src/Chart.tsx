@@ -98,7 +98,7 @@ function getMask(
   yScale: ScaleLinear<number, number, never>,
   columns: string[],
   series: string[],
-  data: number[]
+  data: { [key: string]: number[] }
 ): d3.Selection<SVGMaskElement, any, any, any> {
   const mask = parent
     .append('mask')
@@ -122,14 +122,24 @@ function getMask(
     .attr('width', width + margin.left + margin.right)
     .attr('height', height + margin.top + margin.bottom);
 
-  const maskBars = maskG.selectAll().data(data).enter();
-  maskBars
-    .append('path')
-    .attr('class', 'chart__bar')
-    .attr('fill', '#000')
-    .attr('d', (d, i) =>
-      getBarPath(columns[i], d, series.length, 1, height, xScale, yScale)
-    );
+  series.forEach((seriesValue, seriesIndex) => {
+    const maskBars = maskG.selectAll().data(data[seriesValue]).enter();
+    maskBars
+      .append('path')
+      .attr('class', 'chart__bar')
+      .attr('fill', '#000')
+      .attr('d', (d, i) =>
+        getBarPath(
+          columns[i],
+          d,
+          series.length,
+          seriesIndex,
+          height,
+          xScale,
+          yScale
+        )
+      );
+  });
 
   return mask;
 }
@@ -239,7 +249,7 @@ export function Chart({
         y,
         columns,
         series,
-        data[currentSeries]
+        data
       );
 
       // Remove lines.
@@ -375,7 +385,7 @@ export function Chart({
       y,
       columns,
       series,
-      data[currentSeries]
+      data
     );
 
     xAxisG
