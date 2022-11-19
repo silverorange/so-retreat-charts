@@ -151,6 +151,10 @@ export const androidReleases = {
   ticks: 6,
   data: [
     {
+      year: '2014',
+      value: 0,
+    },
+    {
       year: '2015',
       value: 25,
     },
@@ -208,638 +212,74 @@ export const showAndTells = {
   ],
 };
 
-export const showAndTells2017 = {
+export const showAndTellsByMonth = {
   domain: [0, 20],
   ticks: 4,
-  data: [
-    {
-      year: 'February',
-      value: 9,
-    },
-    {
-      year: 'March',
-      value: 13,
-    },
-    {
-      year: 'April',
-      value: 4,
-    },
-    {
-      year: 'May',
-      value: 9,
-    },
-    {
-      year: 'June',
-      value: 8,
-    },
-    {
-      year: 'July',
-      value: 8,
-    },
-    {
-      year: 'August',
-      value: 5,
-    },
-    {
-      year: 'September',
-      value: 17,
-    },
-    {
-      year: 'October',
-      value: 9,
-    },
-    {
-      year: 'November',
-      value: 10,
-    },
-    {
-      year: 'December',
-      value: 4,
-    },
+  columns: [
+    'December',
+    'January',
+    'February',
+    'March',
+    'April',
+    'May',
+    'June',
+    'July',
+    'August',
+    'September',
+    'October',
+    'November',
   ],
+  series: ['2020', '2021'],
+  data: {
+    '2017': [0, 0, 9, 13, 4, 9, 8, 8, 5, 17, 9, 10],
+    '2018': [4, 9, 10, 6, 9, 9, 4, 7, 3, 10, 5, 3],
+    '2019': [11, 8, 14, 10, 7, 12, 8, 2, 7, 8, 5, 5],
+    '2020': [3, 8, 3, 4, 4, 8, 3, 7, 3, 4, 7, 4],
+    '2021': [8, 11, 2, 10, 6, 7, 4, 3, 10, 10, 6, 2],
+  },
 };
 
-export const showAndTells2018 = {
-  domain: [0, 15],
-  ticks: 5,
-  data: [
-    {
-      year: 'January',
-      value: 9,
-    },
-    {
-      year: 'February',
-      value: 10,
-    },
-    {
-      year: 'March',
-      value: 6,
-    },
-    {
-      year: 'April',
-      value: 9,
-    },
-    {
-      year: 'May',
-      value: 9,
-    },
-    {
-      year: 'June',
-      value: 4,
-    },
-    {
-      year: 'July',
-      value: 7,
-    },
-    {
-      year: 'August',
-      value: 3,
-    },
-    {
-      year: 'September',
-      value: 10,
-    },
-    {
-      year: 'October',
-      value: 5,
-    },
-    {
-      year: 'November',
-      value: 3,
-    },
-  ],
-};
-
-export const showAndTells2019 = {
-  domain: [0, 15],
-  ticks: 5,
-  data: [
-    {
-      year: 'December',
-      value: 11,
-    },
-    {
-      year: 'January',
-      value: 8,
-    },
-    {
-      year: 'February',
-      value: 14,
-    },
-    {
-      year: 'March',
-      value: 10,
-    },
-    {
-      year: 'April',
-      value: 7,
-    },
-    {
-      year: 'May',
-      value: 12,
-    },
-    {
-      year: 'June',
-      value: 8,
-    },
-    {
-      year: 'July',
-      value: 2,
-    },
-    {
-      year: 'August',
-      value: 7,
-    },
-    {
-      year: 'September',
-      value: 8,
-    },
-    {
-      year: 'October',
-      value: 5,
-    },
-    {
-      year: 'November',
-      value: 5,
-    },
-  ],
-};
-
-export const showAndTells2020 = {
-  domain: [0, 15],
-  ticks: 5,
-  data: [
-    {
-      year: 'December',
-      value: 3,
-    },
-    {
-      year: 'January',
-      value: 8,
-    },
-    {
-      year: 'February',
-      value: 3,
-    },
-    {
-      year: 'March',
-      value: 4,
-    },
-    {
-      year: 'April',
-      value: 4,
-    },
-    {
-      year: 'May',
-      value: 8,
-    },
-    {
-      year: 'June',
-      value: 3,
-    },
-    {
-      year: 'July',
-      value: 7,
-    },
-    {
-      year: 'August',
-      value: 3,
-    },
-    {
-      year: 'September',
-      value: 4,
-    },
-    {
-      year: 'October',
-      value: 7,
-    },
-    {
-      year: 'November',
-      value: 4,
-    },
-  ],
-};
-
-export const showAndTells2021 = {
-  domain: [0, 15],
-  ticks: 5,
-  data: [
-    {
-      year: 'December',
-      value: 8,
-    },
-    {
-      year: 'January',
-      value: 11,
-    },
-    {
-      year: 'February',
-      value: 2,
-    },
-    {
-      year: 'March',
-      value: 10,
-    },
-    {
-      year: 'April',
-      value: 6,
-    },
-    {
-      year: 'May',
-      value: 7,
-    },
-    {
-      year: 'June',
-      value: 4,
-    },
-    {
-      year: 'July',
-      value: 3,
-    },
-    {
-      year: 'August',
-      value: 10,
-    },
-    {
-      year: 'September',
-      value: 10,
-    },
-    {
-      year: 'October',
-      value: 6,
-    },
-    {
-      year: 'November',
-      value: 2,
-    },
-  ],
-};
-export const platforms2017 = {
+export const platformsByYear = {
   domain: [0, 18],
   ticks: 8,
-  data: [
-    {
-      year: 'Legacy PHP',
-      value: 8,
-    },
-    {
-      year: 'Node',
-      value: 5,
-    },
-    {
-      year: 'React',
-      value: 2,
-    },
-    {
-      year: 'React Native',
-      value: 1,
-    },
-    {
-      year: 'iOS',
-      value: 4,
-    },
-    {
-      year: 'Android',
-      value: 4,
-    },
-    {
-      year: 'Other',
-      value: 4,
-    },
+  columns: [
+    'Legacy PHP',
+    'Node',
+    'React',
+    'React Native',
+    'iOS',
+    'Android',
+    'Other',
   ],
+  series: ['2020', '2021'],
+  data: {
+    '2017': [8, 5, 2, 1, 4, 4, 4],
+    '2018': [10, 9, 10, 1, 6, 6, 4],
+    '2019': [10, 15, 13, 1, 6, 6, 4],
+    '2020': [10, 14, 14, 2, 6, 6, 5],
+    '2021': [7, 14, 16, 3, 3, 3, 5],
+  },
 };
 
-export const platforms2018 = {
-  domain: [0, 18],
-  ticks: 8,
-  data: [
-    {
-      year: 'Legacy PHP',
-      value: 10,
-    },
-    {
-      year: 'Node',
-      value: 9,
-    },
-    {
-      year: 'React',
-      value: 10,
-    },
-    {
-      year: 'React Native',
-      value: 1,
-    },
-    {
-      year: 'iOS',
-      value: 6,
-    },
-    {
-      year: 'Android',
-      value: 6,
-    },
-    {
-      year: 'Other',
-      value: 4,
-    },
-  ],
-};
-
-export const platforms2019 = {
-  domain: [0, 18],
-  ticks: 8,
-  data: [
-    {
-      year: 'Legacy PHP',
-      value: 10,
-    },
-    {
-      year: 'Node',
-      value: 15,
-    },
-    {
-      year: 'React',
-      value: 13,
-    },
-    {
-      year: 'React Native',
-      value: 1,
-    },
-    {
-      year: 'iOS',
-      value: 6,
-    },
-    {
-      year: 'Android',
-      value: 6,
-    },
-    {
-      year: 'Other',
-      value: 4,
-    },
-  ],
-};
-
-export const platforms2020 = {
-  domain: [0, 18],
-  ticks: 8,
-  data: [
-    {
-      year: 'Legacy PHP',
-      value: 10,
-    },
-    {
-      year: 'Node',
-      value: 14,
-    },
-    {
-      year: 'React',
-      value: 14,
-    },
-    {
-      year: 'React Native',
-      value: 2,
-    },
-    {
-      year: 'iOS',
-      value: 6,
-    },
-    {
-      year: 'Android',
-      value: 6,
-    },
-    {
-      year: 'Other',
-      value: 5,
-    },
-  ],
-};
-
-export const platforms2021 = {
-  domain: [0, 18],
-  ticks: 8,
-  data: [
-    {
-      year: 'Legacy PHP',
-      value: 7,
-    },
-    {
-      year: 'Node',
-      value: 14,
-    },
-    {
-      year: 'React',
-      value: 16,
-    },
-    {
-      year: 'React Native',
-      value: 3,
-    },
-    {
-      year: 'iOS',
-      value: 3,
-    },
-    {
-      year: 'Android',
-      value: 3,
-    },
-    {
-      year: 'Other',
-      value: 5,
-    },
-  ],
-};
-
-export const languages2017 = {
+export const languagesByYear = {
   domain: [0, 24],
   ticks: 12,
-  data: [
-    {
-      year: 'PHP',
-      value: 10,
-    },
-    {
-      year: 'JavaScript',
-      value: 9,
-    },
-    {
-      year: 'TypeScript',
-      value: 0,
-    },
-    {
-      year: 'Objective-C',
-      value: 4,
-    },
-    {
-      year: 'Java',
-      value: 4,
-    },
-    {
-      year: 'Kotlin',
-      value: 0,
-    },
-    {
-      year: 'Swift',
-      value: 0,
-    },
-    {
-      year: 'Other',
-      value: 1,
-    },
+  columns: [
+    'PHP',
+    'JavaScript',
+    'TypeScript',
+    'Objective-C',
+    'Java',
+    'Kotlin',
+    'Swift',
+    'Other',
   ],
-};
-
-export const languages2018 = {
-  domain: [0, 24],
-  ticks: 12,
-  data: [
-    {
-      year: 'PHP',
-      value: 12,
-    },
-    {
-      year: 'JavaScript',
-      value: 17,
-    },
-    {
-      year: 'TypeScript',
-      value: 4,
-    },
-    {
-      year: 'Objective-C',
-      value: 6,
-    },
-    {
-      year: 'Java',
-      value: 6,
-    },
-    {
-      year: 'Kotlin',
-      value: 0,
-    },
-    {
-      year: 'Swift',
-      value: 0,
-    },
-    {
-      year: 'Other',
-      value: 1,
-    },
-  ],
-};
-
-export const languages2019 = {
-  domain: [0, 24],
-  ticks: 12,
-  data: [
-    {
-      year: 'PHP',
-      value: 12,
-    },
-    {
-      year: 'JavaScript',
-      value: 17,
-    },
-    {
-      year: 'TypeScript',
-      value: 13,
-    },
-    {
-      year: 'Objective-C',
-      value: 6,
-    },
-    {
-      year: 'Java',
-      value: 5,
-    },
-    {
-      year: 'Kotlin',
-      value: 1,
-    },
-    {
-      year: 'Swift',
-      value: 0,
-    },
-    {
-      year: 'Other',
-      value: 1,
-    },
-  ],
-};
-
-export const languages2020 = {
-  domain: [0, 24],
-  ticks: 12,
-  data: [
-    {
-      year: 'PHP',
-      value: 12,
-    },
-    {
-      year: 'JavaScript',
-      value: 15,
-    },
-    {
-      year: 'TypeScript',
-      value: 16,
-    },
-    {
-      year: 'Objective-C',
-      value: 6,
-    },
-    {
-      year: 'Java',
-      value: 5,
-    },
-    {
-      year: 'Kotlin',
-      value: 1,
-    },
-    {
-      year: 'Swift',
-      value: 0,
-    },
-    {
-      year: 'Other',
-      value: 2,
-    },
-  ],
-};
-
-export const languages2021 = {
-  domain: [0, 24],
-  ticks: 12,
-  data: [
-    {
-      year: 'PHP',
-      value: 9,
-    },
-    {
-      year: 'JavaScript',
-      value: 12,
-    },
-    {
-      year: 'TypeScript',
-      value: 22,
-    },
-    {
-      year: 'Objective-C',
-      value: 2,
-    },
-    {
-      year: 'Java',
-      value: 2,
-    },
-    {
-      year: 'Kotlin',
-      value: 1,
-    },
-    {
-      year: 'Swift',
-      value: 1,
-    },
-    {
-      year: 'Other',
-      value: 2,
-    },
-  ],
+  series: ['2020', '2021'],
+  data: {
+    '2017': [10, 9, 0, 4, 4, 0, 0, 1],
+    '2018': [12, 17, 4, 6, 6, 0, 0, 1],
+    '2019': [12, 17, 13, 6, 5, 1, 0, 1],
+    '2020': [12, 15, 16, 6, 5, 1, 0, 2],
+    '2021': [9, 12, 22, 2, 2, 1, 1, 2],
+  },
 };

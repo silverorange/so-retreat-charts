@@ -5,38 +5,51 @@ import { ScaleBand, ScaleLinear } from 'd3';
 import './Chart.css';
 
 const chartWidth = 3840;
-const chartHeight = 1960;
+//const chartHeight = 1960;
+const chartHeight = 2373;
 
 const style = {
   bar: {
     // 39b8e3
     //hsl(195, 85%, 62%, 0.6)
-    color: 'rgba(255,255,255,0.6)',
+    //color: 'rgba(255,255,255,0.6)',
+    //color: '#fb8c00',
+    //color: '#af4345',
+    //color: '#00695c',
+    //color: '#26a69a',
+    colors: ['#fb6', '#fb8c00', '#af4345', '#00695c'],
     radius: 0,
   },
   grid: {
-    color: 'rgba(255,255,255,0.4)',
+    //color: '#26a69a',
+    color: '#b7b7b7',
+    //color: 'rgba(255,255,255,0.4)',
     width: 2,
   },
   origin: {
-    color: 'rgba(255,255,255,0.6)',
+    //color: '#80cbc4',
+    color: '#b7b7b7',
+    //color: 'rgba(255,255,255,0.6)',
     width: 4,
   },
   labels: {
     size: 52,
-    color: '#fff',
-    fontFamily: 'Ubuntu, serif',
-    fontWeight: 'bold',
+    color: '#000',
+    //fontFamily: 'Georgia, serif',
+    fontFamily: 'Old Standard TT, serif',
+    fontWeight: 'normal',
   },
   dataLabels: {
     size: 52,
-    color: '#573f68',
-    fontFamily: 'Ubuntu, serif',
+    color: '#000',
+    // color: '#573f68',
+    fontFamily: 'Old Standard TT, serif',
     fontWeight: 'medium',
   },
   dataLabelBackgrounds: {
     fill: '#fff',
-    stroke: 'rgba(0,0,0,0.2)',
+    stroke: '#b7b7b7',
+    //stroke: 'rgba(0,0,0,0.2)',
     strokeWidth: 4,
     radius: 5,
   },
@@ -50,20 +63,25 @@ interface Datum {
 interface Props {
   yTicks?: number;
   yDomain?: number[];
-  data: Datum[];
+  columns: string[];
+  data: { [key: string]: number[] };
   name: string;
+  series: string[];
 }
 
 function getBarPath(
+  column: string,
+  value: number,
+  seriesLength: number,
+  seriesIndex: number,
   height: number,
-  xScale: ScaleBand<Datum['year']>,
-  yScale: ScaleLinear<number, number, never>,
-  d: Datum
+  xScale: ScaleBand<string>,
+  yScale: ScaleLinear<number, number, never>
 ): string {
-  const x = xScale(d.year) || 0;
-  const w = xScale.bandwidth();
-  const y = yScale(d.value);
-  const h = height - yScale(d.value);
+  const w = xScale.bandwidth() / seriesLength;
+  const x = (xScale(column) || 0) + seriesIndex * w;
+  const y = yScale(value);
+  const h = height - yScale(value);
   const r = style.bar.radius;
   return `M${x + r},${y} A${r},${r} 0 0,0 ${x},${y + r} L${x},${y + h} L${
     x + w
@@ -78,7 +96,9 @@ function getMask(
   margin: { top: number; right: number; bottom: number; left: number },
   xScale: ScaleBand<Datum['year']>,
   yScale: ScaleLinear<number, number, never>,
-  data: Datum[]
+  columns: string[],
+  series: string[],
+  data: number[]
 ): d3.Selection<SVGMaskElement, any, any, any> {
   const mask = parent
     .append('mask')
@@ -107,12 +127,21 @@ function getMask(
     .append('path')
     .attr('class', 'chart__bar')
     .attr('fill', '#000')
-    .attr('d', (d) => getBarPath(height, xScale, yScale, d));
+    .attr('d', (d, i) =>
+      getBarPath(columns[i], d, series.length, 1, height, xScale, yScale)
+    );
 
   return mask;
 }
 
-export function Chart({ yDomain = [0, 100], yTicks = 8, data, name }: Props) {
+export function Chart({
+  yDomain = [0, 100],
+  yTicks = 8,
+  data,
+  name,
+  series,
+  columns,
+}: Props) {
   const divRef = useRef<HTMLDivElement>(null);
   const canvasRef = useRef<HTMLCanvasElement>(null);
 
@@ -122,24 +151,28 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data, name }: Props) {
     }
 
     const maskId = `${name}Mask`;
-    const margin = { top: 20, right: 0, bottom: 120, left: 200 };
+    const margin = { top: 20, right: 360, bottom: 120, left: 360 };
     const width = chartWidth - margin.left - margin.right;
     const height = chartHeight - margin.top - margin.bottom;
-    const labelFontSize = style.labels.size * (data.length > 8 ? 1.0 : 1.5);
-    const dataMagnitude = data.reduce<number>((previous, current) => {
-      const magnitude = Math.floor(Math.log10(current.value)) + 1;
-      return magnitude > previous ? magnitude : previous;
-    }, 0);
+    const labelFontSize = style.labels.size * (columns.length >= 8 ? 1.0 : 1.5);
+    const currentSeries = series[series.length - 1];
+    const dataMagnitude = data[currentSeries].reduce<number>(
+      (previous, current) => {
+        const magnitude = Math.floor(Math.log10(current)) + 1;
+        return magnitude > previous ? magnitude : previous;
+      },
+      0
+    );
 
     const dataLabelFontSize =
       style.dataLabels.size *
-      (data.length > 8 || dataMagnitude > 3 ? 1.0 : 1.5);
+      (columns.length > 8 || dataMagnitude > 3 ? 1.0 : 1.5);
 
     const x = d3
       .scaleBand<Datum['year']>()
       .rangeRound([0, width])
       .paddingInner(0.4)
-      .paddingOuter(0.8);
+      .paddingOuter(0.3);
 
     const y = d3.scaleLinear().domain(yDomain).rangeRound([height, 0]);
 
@@ -163,7 +196,7 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data, name }: Props) {
       .attr('class', 'chart__group')
       .attr('transform', `translate(${margin.left}, ${margin.top})`);
 
-    x.domain(data.map((d) => d.year));
+    x.domain(columns);
 
     g.append('rect')
       .attr('class', 'chart__fill')
@@ -196,7 +229,18 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data, name }: Props) {
     g.selectAll('.chart__y-axis .tick').each(function (datum, index) {
       const tick = d3.select(this);
 
-      getMask(tick, `${maskId}${index}`, width, height, margin, x, y, data);
+      getMask(
+        tick,
+        `${maskId}${index}`,
+        width,
+        height,
+        margin,
+        x,
+        y,
+        columns,
+        series,
+        data[currentSeries]
+      );
 
       // Remove lines.
       tick.selectAll('line').remove();
@@ -206,7 +250,7 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data, name }: Props) {
         .append('rect')
         .attr('x', 0)
         .attr('y', -style.grid.width / 2)
-        .attr('width', width)
+        .attr('width', width + margin.right)
         .attr('height', style.grid.width)
         .attr('fill', style.grid.color)
         .attr('mask', `url(#${maskId}${index})`);
@@ -216,15 +260,21 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data, name }: Props) {
     g.selectAll('.chart__y-axis .tick:first-child rect').remove();
     g.selectAll('.chart__y-axis .tick:first-child mask').remove();
 
-    const bars = g.selectAll('.bar').data(data).enter();
-    bars
-      .append('path')
-      .attr('class', 'chart__bar')
-      .attr('fill', style.bar.color)
-      .attr('d', (d) => getBarPath(height, x, y, d));
+    series.forEach((seriesValue, seriesIndex) => {
+      const seriesBars = g.selectAll('.bar').data(data[seriesValue]).enter();
+      seriesBars
+        .append('path')
+        .attr('class', 'chart__bar')
+        .attr('fill', style.bar.colors[seriesIndex])
+        .attr('d', (d, i) =>
+          getBarPath(columns[i], d, series.length, seriesIndex, height, x, y)
+        );
+    });
 
-    function getTextWidth(d: Datum): number {
-      const text = d.value.toString();
+    const bars = g.selectAll('.bar').data(data[currentSeries]).enter();
+
+    function getTextWidth(d: number): number {
+      const text = d.toString();
 
       const ones = text
         .split('')
@@ -247,20 +297,21 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data, name }: Props) {
       .attr('stroke', style.dataLabelBackgrounds.stroke)
       .attr('strokeWidth', style.dataLabelBackgrounds.strokeWidth)
       .attr('rx', style.dataLabelBackgrounds.radius)
-      .attr('x', (d) => {
-        return (x(d.year) || 0) + (x.bandwidth() - getTextWidth(d)) / 2;
+      .attr('x', (d, i) => {
+        return (x(columns[i]) || 0) + (x.bandwidth() - getTextWidth(d)) / 2;
       })
       .attr('y', (d) => {
-        return y(d.value) - 0.9 * dataLabelFontSize;
+        return y(d) - 0.9 * dataLabelFontSize;
       })
       .attr('width', getTextWidth)
       .attr('height', 1.8 * dataLabelFontSize)
       .attr('display', (d) => {
-        return d.value === 0 ? 'none' : 'inherit';
-      });
+        return d === 0 ? 'none' : 'inherit';
+      })
+      .attr('display', 'none');
 
     g.selectAll('text.bar')
-      .data(data)
+      .data(data[currentSeries])
       .enter()
       .append('text')
       .attr('text-anchor', 'middle')
@@ -269,18 +320,19 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data, name }: Props) {
       .attr('font-weight', style.dataLabels.fontWeight)
       .attr('font-family', style.dataLabels.fontFamily)
       .attr('fill', style.dataLabels.color)
-      .attr('x', (d) => {
-        return (x(d.year) || 0) + x.bandwidth() / 2;
+      .attr('x', (d, i) => {
+        return (x(columns[i]) || 0) + x.bandwidth() / 2;
       })
       .attr('y', (d) => {
-        return y(d.value); // - style.dataLabels.size;
+        return y(d); // - style.dataLabels.size;
       })
       .text((d) => {
-        return d.value.toLocaleString();
+        return d.toLocaleString();
       })
       .attr('display', (d) => {
-        return d.value === 0 ? 'none' : 'inherit';
-      });
+        return d === 0 ? 'none' : 'inherit';
+      })
+      .attr('display', 'none');
 
     g.append('g')
       .attr('class', 'chart__x-axis')
@@ -297,20 +349,41 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data, name }: Props) {
       .attr('dy', '0')
       .attr('text-anchor', 'middle')
       .attr('font-size', labelFontSize)
-      .attr('font-family', style.labels.fontFamily)
+      .attr('font-family', (d) => {
+        // if (/20[0-9]{2}/.test(d as string)) {
+        //   return 'Georgia';
+        // }
+        return style.labels.fontFamily;
+      })
       .attr('font-weight', style.labels.fontWeight)
+      // .attr('textLength', (d) => {
+      //   console.log(d);
+      //   return '120';
+      // })
+      // .attr('lengthAdjust', 'spacingAndGlyphs')
       .attr('fill', style.labels.color);
 
     const xAxisG = g.selectAll('.chart__x-axis');
 
-    getMask(xAxisG, `${maskId}XAxis`, width, height, margin, x, y, data);
+    getMask(
+      xAxisG,
+      `${maskId}XAxis`,
+      width,
+      height,
+      margin,
+      x,
+      y,
+      columns,
+      series,
+      data[currentSeries]
+    );
 
     xAxisG
       .append('rect')
       .attr('class', 'chart__origin')
       .attr('x', 0)
       .attr('y', -style.origin.width / 2)
-      .attr('width', width)
+      .attr('width', width + margin.right)
       .attr('height', style.origin.width)
       .attr('fill', style.origin.color)
       .attr('mask', `url(#${maskId}XAxis)`);
@@ -343,7 +416,7 @@ export function Chart({ yDomain = [0, 100], yTicks = 8, data, name }: Props) {
     }
 
     img.src = svgURL;
-  }, [yDomain, yTicks, data, divRef, canvasRef, name]);
+  }, [yDomain, yTicks, data, divRef, canvasRef, name, columns, series]);
 
   return (
     <div className="chart">
