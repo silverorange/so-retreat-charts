@@ -75,6 +75,9 @@ This data comes from the release history in the Apple App Connect console.
 Data is collected manually from the console for RAP apps in both
 Hippo Education and EM:RAP organizations.
 
+We stopped releasing the Hippo apps as of March 2022 with the inclusion of
+Peds RAP.
+
 ### Platform and Language Use
 
 This data is assembled manually by looking at active sites and apps and

@@ -49,10 +49,20 @@ export const repositories: DataSet = {
 export const iOSReleases: DataSet = {
   domain: [0, 30],
   ticks: 6,
-  columns: ['2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021—'],
+  columns: [
+    '2014',
+    '2015',
+    '2016',
+    '2017',
+    '2018',
+    '2019',
+    '2020',
+    '2021',
+    '2022—',
+  ],
   series: ['years'],
   data: {
-    years: [3, 23, 19, 7, 11, 8, 8, 20],
+    years: [3, 23, 19, 7, 11, 8, 8, 22, 18],
   },
 };
 
