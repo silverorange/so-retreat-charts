@@ -66,14 +66,16 @@ year-over-year.
 ### Android Releases
 
 This data comes from the release history and current release information in the
-Google Play Console. Data is collected manually from the console for RAP apps
-in both Hippo Education and EM:RAP organizations.
+Google Play Console. Data is collected manually from the console for apps
+in the EM:RAP organization.
+
+We stopped releasing the Hippo apps as of March 2022 with the inclusion of
+Peds RAP.
 
 ### iOS Releases
 
 This data comes from the release history in the Apple App Connect console.
-Data is collected manually from the console for RAP apps in both
-Hippo Education and EM:RAP organizations.
+Data is collected manually from the console for apps in the EM:RAP organization.
 
 We stopped releasing the Hippo apps as of March 2022 with the inclusion of
 Peds RAP.

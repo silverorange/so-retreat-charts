@@ -69,10 +69,20 @@ export const iOSReleases: DataSet = {
 export const androidReleases: DataSet = {
   domain: [0, 30],
   ticks: 6,
-  columns: ['2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021—'],
+  columns: [
+    '2014',
+    '2015',
+    '2016',
+    '2017',
+    '2018',
+    '2019',
+    '2020',
+    '2021',
+    '2022—',
+  ],
   series: ['years'],
   data: {
-    years: [0, 25, 16, 7, 9, 2, 9, 29],
+    years: [0, 25, 16, 7, 9, 2, 9, 31, 20],
   },
 };
 
