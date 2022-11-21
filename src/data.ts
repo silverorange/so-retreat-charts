@@ -39,10 +39,10 @@ export const siteReleases: DataSet = {
 export const repositories: DataSet = {
   domain: [0, 180],
   ticks: 8,
-  columns: ['2015', '2016', '2017', '2018', '2019', '2020', '2021—'],
+  columns: ['2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022—'],
   series: ['years'],
   data: {
-    years: [73, 94, 115, 140, 156, 169, 174],
+    years: [74, 94, 116, 141, 156, 169, 176, 182],
   },
 };
 
