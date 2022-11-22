@@ -1,0 +1,1197 @@
+:nick:
+APP  09:00
+@nick just synced emrap at 2022-01-01 09:00:41
+:nick:
+APP  10:15
+@nick just synced emrap at 2022-01-01 10:15:41
+:steven:
+APP  16:17
+@steven just synced course-host at 2022-01-10 16:17:02
+:steven:
+APP  16:23
+@steven just synced course-host at 2022-01-10 16:23:57
+:steven:
+APP  17:17
+@steven just synced course-host at 2022-01-10 17:17:32
+:isa-mashed-potato:
+APP  12:22
+@isagrant just synced starmaker at 2022-01-11 12:22:37
+:camila:
+APP  14:01
+@camila just synced emrap-corependium-server at 2022-01-12 14:01:32
+14:06
+@camila just synced emrap-corependium-client at 2022-01-12 14:06:15
+:mike:
+APP  14:23
+@gauthierm just synced course-host at 2022-01-12 14:23:26
+  11:58
+joined #sync-to-live.
+:meow_wut:
+APP  17:23
+@someone just synced course-host at 2022-01-13 17:23:38
+  13:51
+joined #sync-to-live.
+:philip:
+APP  14:02
+@philip just synced emrap-fire-daemon at 2022-01-19 14:02:59
+:camila:
+APP  12:12
+@camila just synced emrap-corependium-client at 2022-01-21 12:12:29
+12:17
+@camila just synced emrap-corependium-server at 2022-01-21 12:17:30
+:philip:
+APP  17:51
+@philip just synced emrap-fire-daemon at 2022-01-21 17:51:49
+:philip:
+APP  18:28
+@philip just synced emrap-fire-daemon at 2022-01-21 18:28:32
+:philip:
+APP  19:05
+@philip just synced emrap-fire-daemon at 2022-01-21 19:05:30
+:philip:
+APP  19:19
+@philip just synced emrap-fire-daemon at 2022-01-21 19:19:09
+:philip:
+APP  19:26
+@philip just synced emrap-fire-daemon at 2022-01-21 19:26:42
+:philip:
+APP  19:40
+@philip just synced emrap-fire-daemon at 2022-01-21 19:40:02
+:philip:
+APP  12:58
+@philip just synced emrap-fire-daemon at 2022-01-23 12:58:31
+:philip:
+APP  13:43
+@philip just synced emrap-fire-daemon at 2022-01-23 13:43:42
+:philip:
+APP  15:38
+@philip just synced emrap-fire-daemon at 2022-01-23 15:38:29
+:philip:
+APP  16:05
+@philip just synced emrap-search-tools at 2022-01-23 16:05:36
+:philip:
+APP  16:19
+@philip just synced emrap-search-tools at 2022-01-23 16:19:33
+:philip:
+APP  17:25
+@philip just synced emrap-fire-daemon at 2022-01-23 17:25:07
+:philip:
+APP  13:50
+@philip just synced emrap at 2022-01-24 13:50:13
+:philip:
+APP  14:59
+@philip just synced emrap at 2022-01-24 14:59:10
+:meow_wut:
+APP  12:18
+@someone just synced course-host at 2022-01-25 12:18:39
+Last reply 10 months agoView thread
+:steven:
+APP  16:11
+@steven just synced course-host at 2022-01-25 16:11:03
+:steven:
+APP  10:18
+@steven just synced course-host at 2022-01-26 10:18:42
+:steven:
+APP  14:45
+@steven just synced course-host at 2022-01-28 14:45:05
+:philip:
+APP  13:06
+@philip just synced emrap-fire-daemon at 2022-01-31 13:06:26
+:mike:
+APP  18:20
+@gauthierm just synced emrap-corependium-server at 2022-01-31 18:20:13
+:steven:
+APP  15:11
+@steven just synced silverorange at 2022-02-01 15:11:40
+:steven:
+APP  15:23
+@steven just synced silverorange at 2022-02-01 15:23:04
+:philip:
+APP  16:42
+@philip just synced emrap at 2022-02-01 16:42:08
+:isa-mashed-potato:
+APP  13:00
+@isagrant just synced silverorange at 2022-02-02 13:00:35
+:philip:
+APP  17:01
+@philip just synced emrap-search-tools at 2022-02-03 17:01:26
+:philip:
+APP  17:09
+@philip just synced emrap-search-tools at 2022-02-03 17:09:01
+:isa-mashed-potato:
+APP  10:05
+@isagrant just synced starmaker at 2022-02-04 10:05:08
+:philip:
+APP  19:39
+@philip just synced emrap-search-tools at 2022-02-04 19:39:57
+:philip:
+APP  11:04
+@philip just synced emrap at 2022-02-08 11:04:28
+:philip:
+APP  18:16
+@philip just synced emrap at 2022-02-08 18:16:20
+:philip:
+APP  17:04
+@philip just synced emrap-corependium-server at 2022-02-09 17:04:39
+:philip:
+APP  17:24
+@philip just synced emrap-corependium-client at 2022-02-09 17:24:13
+:philip:
+APP  10:41
+@philip just synced emrap at 2022-02-10 10:41:41
+:camila:
+APP  11:33
+@camila just synced emrap-corependium-client at 2022-02-10 11:33:51
+:micah:
+APP  15:26
+@micah just synced course-host at 2022-02-10 15:26:06
+9 months agoView thread
+  15:53
+replied to a thread:
+I've been defaced.
+image.png 
+image.png
+:isa-mashed-potato:
+APP  18:05
+@isagrant just synced starmaker at 2022-02-10 18:05:18
+:camila:
+APP  10:43
+@camila just synced emrap-corependium-server at 2022-02-14 10:43:07
+:philip:
+APP  18:07
+@philip just synced emrap at 2022-02-14 18:07:56
+:micah:
+APP  14:07
+@micah just synced course-host at 2022-02-15 14:07:20
+:camila:
+APP  16:28
+@camila just synced emrap-corependium-client at 2022-02-15 16:28:21
+16:33
+@camila just synced emrap-corependium-server at 2022-02-15 16:33:09
+:philip:
+APP  17:23
+@philip just synced emrap at 2022-02-15 17:23:00
+:steven:
+APP  11:48
+@steven just synced silverorange at 2022-02-18 11:48:22
+:mike:
+APP  20:23
+@gauthierm just synced surviving-infancy at 2022-02-19 20:23:42
+:camila:
+APP  14:50
+@camila just synced emrap-corependium-server at 2022-02-22 14:50:46
+14:54
+@camila just synced emrap-corependium-client at 2022-02-22 14:54:22
+:steven:
+APP  08:57
+@steven just synced silverorange-blog at 2022-02-23 08:57:52
+:keith:
+APP  11:57
+@keith just synced emrap at 2022-02-23 11:57:08
+:philip:
+APP  13:15
+@philip just synced emrap at 2022-02-23 13:15:49
+:steven:
+APP  16:33
+@steven just synced silverorange-blog at 2022-02-23 16:33:09
+:philip:
+APP  10:48
+@philip just synced emrap at 2022-02-24 10:48:44
+:philip:
+APP  12:17
+@philip just synced emrap at 2022-02-24 12:17:54
+:camila:
+APP  13:39
+@camila just synced emrap-corependium-server at 2022-02-24 13:39:52
+13:42
+@camila just synced emrap-corependium-client at 2022-02-24 13:42:18
+:philip:
+APP  18:45
+@philip just synced emrap at 2022-02-25 18:45:39
+:philip:
+APP  19:13
+@philip just synced emrap at 2022-02-25 19:13:18
+:mike:
+APP  17:21
+@gauthierm just synced emrap-corependium-server at 2022-02-28 17:21:25
+:philip:
+APP  17:57
+@philip just synced emrap at 2022-02-28 17:57:08
+:mike:
+APP  14:22
+@gauthierm just synced emrap-corependium-server at 2022-03-01 14:22:42
+:philip:
+APP  14:27
+@philip just synced emrap-corependium-client at 2022-03-01 14:27:22
+:mike:
+APP  15:06
+@gauthierm just synced emrap-corependium-server at 2022-03-01 15:06:59
+:isa-mashed-potato:
+APP  14:06
+@isagrant just synced silverorange at 2022-03-02 14:06:54
+:philip:
+APP  17:32
+@philip just synced emrap at 2022-03-02 17:32:34
+:philip:
+APP  13:17
+@philip just synced emrap at 2022-03-03 13:17:48
+:steven:
+APP  15:21
+@steven just synced course-host at 2022-03-03 15:21:21
+:steven:
+APP  15:27
+@steven just synced course-host at 2022-03-03 15:27:15
+:micah:
+APP  12:53
+@micah just synced course-host at 2022-03-07 12:53:54
+:steven:
+APP  09:57
+@steven just synced course-host at 2022-03-08 09:57:13
+:philip:
+APP  15:00
+@philip just synced emrap at 2022-03-08 15:00:07
+:philip:
+APP  16:36
+@philip just synced emrap-fire-daemon at 2022-03-08 16:36:40
+:micah:
+APP  17:36
+@micah just synced course-host at 2022-03-09 17:36:29
+:keith:
+APP  12:02
+@keith just synced emrap at 2022-03-10 12:02:49
+:steven:
+APP  16:17
+@steven just synced course-host at 2022-03-11 16:17:35
+:philip:
+APP  11:19
+@philip just synced emrap at 2022-03-14 11:19:17
+:nick:
+APP  15:46
+@nick just synced emrap at 2022-03-15 15:46:33
+:micah:
+APP  17:49
+@micah just synced course-host at 2022-03-15 17:49:02
+:micah:
+APP  19:47
+@micah just synced course-host at 2022-03-15 19:47:53
+:nick:
+APP  10:13
+@nick just synced emrap at 2022-03-16 10:13:03
+:philip:
+APP  10:33
+@philip just synced emrap-search-tools at 2022-03-17 10:33:27
+:micah:
+APP  17:47
+@micah just synced course-host at 2022-03-17 17:47:26
+:nick:
+APP  11:38
+@nick just synced emrap at 2022-03-21 11:38:36
+:clara:
+APP  11:40
+@clara just synced emrap-corependium-server at 2022-03-21 11:40:53
+:clara:
+APP  12:00
+@clara just synced emrap-corependium-client at 2022-03-21 12:00:14
+:clara:
+APP  14:16
+@clara just synced emrap-corependium-server at 2022-03-21 14:16:38
+:micah:
+APP  18:45
+@micah just synced course-host at 2022-03-21 18:45:10
+:micah:
+APP  19:46
+@micah just synced course-host at 2022-03-21 19:46:50
+:clara:
+APP  13:36
+@clara just synced emrap-corependium-server at 2022-03-22 13:36:27
+:nick:
+APP  10:07
+@nick just synced emrap at 2022-03-23 10:07:23
+APP  10:16
+CFSC - api.cf-fb.org deployed at 2022-03-23 13:16:13
+:slice:
+APP  10:26
+@someone just synced CFSC - www.connecting-families.ca at 2022-03-23 10:26:13
+10:28
+@someone just synced CFSC - admin.cf-fb.org at 2022-03-23 10:28:00
+:slice:
+APP  11:01
+@someone just synced CFSC - www.connecting-families.ca at 2022-03-23 11:01:11
+:slice:
+APP  11:54
+@someone just synced CFSC - www.connecting-families.ca at 2022-03-23 11:54:05
+APP  11:59
+CFSC - api.cf-fb.org deployed at 2022-03-23 14:59:54
+APP  14:39
+CFSC - api.cf-fb.org deployed at 2022-03-23 17:39:26
+:micah:
+APP  17:16
+@micah just synced course-host at 2022-03-23 17:16:34
+APP  10:03
+CFSC - api.cf-fb.org deployed at 2022-03-25 13:03:56
+:slice:
+APP  11:00
+@someone just synced CFSC - admin.cf-fb.org at 2022-03-25 11:00:34
+11:02
+@someone just synced CFSC - www.connecting-families.ca at 2022-03-25 11:02:44
+:philip:
+APP  09:57
+@philip just synced emrap-fire-daemon at 2022-03-28 09:57:04
+:philip:
+APP  16:54
+@philip just synced emrap at 2022-03-28 16:54:01
+:charles:
+APP  11:23
+@charles just synced emrap-fire-daemon at 2022-03-29 11:23:38
+:philip:
+APP  15:43
+@philip just synced emrap-fire-daemon at 2022-03-29 15:43:50
+:charles:
+APP  14:15
+@charles just synced emrap at 2022-03-30 14:15:10
+:micah:
+APP  17:55
+@micah just synced course-host at 2022-03-30 17:55:44
+:camila:
+APP  10:36
+@camila just synced emrap-corependium-server at 2022-03-31 10:36:10
+:camila:
+APP  10:46
+@camila just synced emrap-corependium-client at 2022-03-31 10:46:24
+:isa-mashed-potato:
+APP  16:17
+@isagrant just synced starmaker at 2022-04-01 16:17:50
+APP  15:10
+CFSC - api.cf-fb.org deployed at 2022-04-04 18:10:07
+:nick:
+APP  10:03
+@nick just synced emrap at 2022-04-05 10:03:10
+:charles:
+APP  11:39
+@charles just synced emrap at 2022-04-05 11:39:11
+:nick:
+APP  15:58
+@nick just synced emrap at 2022-04-05 15:58:20
+:charles:
+APP  16:50
+@charles just synced emrap at 2022-04-05 16:50:31
+:slice:
+APP  11:13
+@someone just synced CFSC - www.connecting-families.ca at 2022-04-06 11:13:36
+:jacob:
+APP  11:46
+@jake just synced emrap-corependium-server at 2022-04-06 11:46:25
+APP  16:43
+CFSC - api.cf-fb.org deployed at 2022-04-06 19:43:49
+:camila:
+APP  10:23
+@camila just synced emrap-fire-daemon at 2022-04-07 10:23:49
+:clara:
+APP  17:55
+@clara just synced emrap-corependium-server at 2022-04-07 17:55:18
+:slice:
+APP  13:12
+@someone just synced CFSC - admin.cf-fb.org at 2022-04-08 13:12:33
+:camila:
+APP  11:33
+@camila just synced emrap at 2022-04-11 11:33:49
+:slice:
+APP  11:51
+@someone just synced CFSC - www.connecting-families.ca at 2022-04-11 11:51:11
+11:54
+@someone just synced CFSC - www.connecting-families.ca at 2022-04-11 11:54:38
+:philip:
+APP  13:56
+@philip just synced emrap-go-client at 2022-04-11 13:56:37
+:philip:
+APP  16:59
+@philip just synced emrap at 2022-04-11 16:59:11
+:slice:
+APP  11:10
+@someone just synced CFSC - admin.cf-fb.org at 2022-04-12 11:10:11
+:camila:
+APP  15:31
+@camila just synced emrap-corependium-server at 2022-04-13 15:31:28
+15:35
+@camila just synced emrap-corependium-server at 2022-04-13 15:35:32
+:camila:
+APP  15:44
+@camila just synced emrap-corependium-client at 2022-04-13 15:44:16
+:clara:
+APP  16:15
+@clara just synced emrap-corependium-client at 2022-04-13 16:15:41
+:camila:
+APP  17:59
+@camila just synced emrap at 2022-04-13 17:59:29
+:steven:
+APP  16:46
+@steven just synced course-host at 2022-04-14 16:46:23
+:clara:
+APP  10:35
+@clara just synced emrap-corependium-client at 2022-04-19 10:35:26
+:micah:
+APP  14:30
+@micah just synced course-host at 2022-04-19 14:30:19
+:micah:
+APP  15:11
+@micah just synced course-host at 2022-04-19 15:11:35
+APP  10:56
+CFSC - api.cf-fb.org deployed at 2022-04-20 13:56:54
+APP  11:09
+CFSC - api.cf-fb.org deployed at 2022-04-20 14:09:36
+:camila:
+APP  12:07
+@camila just synced emrap-corependium-client at 2022-04-20 12:07:15
+APP  12:46
+CFSC - api.cf-fb.org deployed at 2022-04-20 15:46:26
+:isa-mashed-potato:
+APP  13:13
+@isagrant just synced silverorange at 2022-04-20 13:13:46
+:camila:
+APP  13:58
+@camila just synced emrap at 2022-04-20 13:58:33
+:camila:
+APP  15:54
+@camila just synced emrap at 2022-04-20 15:54:29
+:camila:
+APP  17:29
+@camila just synced emrap-go-client at 2022-04-20 17:29:00
+APP  14:28
+CFSC - api.cf-fb.org deployed at 2022-04-21 17:28:05
+:slice:
+APP  14:37
+@someone just synced CFSC - admin.cf-fb.org at 2022-04-21 14:37:51
+:steven:
+APP  16:30
+@steven just synced silverorange at 2022-04-22 16:30:48
+:philip:
+APP  10:14
+@philip just synced emrap at 2022-04-25 10:14:50
+:nick:
+APP  13:35
+@nick just synced emrap at 2022-04-26 13:35:37
+APP  14:47
+CFSC - api.cf-fb.org deployed at 2022-04-26 17:47:37
+:philip:
+APP  15:23
+@philip just synced emrap at 2022-04-27 15:23:08
+:micah:
+APP  14:43
+@micah just synced course-host at 2022-04-28 14:43:03
+:micah:
+APP  14:53
+@micah just synced course-host at 2022-04-28 14:53:40
+:camila:
+APP  17:30
+@camila just synced emrap at 2022-04-28 17:30:54
+:mike:
+APP  12:24
+@gauthierm just synced emrap at 2022-04-29 12:24:20
+:camila:
+APP  11:33
+@camila just synced emrap-corependium-client at 2022-05-02 11:33:01
+:camila:
+APP  11:46
+@camila just synced emrap-corependium-server at 2022-05-02 11:46:49
+APP  11:50
+CFSC - api.cf-fb.org deployed at 2022-05-02 14:50:18
+:camila:
+APP  17:35
+@camila just synced emrap-corependium-server at 2022-05-02 17:35:14
+17:38
+@camila just synced emrap-corependium-client at 2022-05-02 17:38:30
+:micah:
+APP  21:22
+@micah just synced course-host at 2022-05-03 21:22:24
+:nick:
+APP  14:49
+@nick just synced emrap at 2022-05-04 14:49:23
+:clara:
+APP  12:00
+@clara just synced emrap-corependium-server at 2022-05-05 12:00:36
+:philip:
+APP  15:21
+@philip just synced emrap at 2022-05-05 15:21:59
+:micah:
+APP  16:04
+@micah just synced course-host at 2022-05-05 16:04:45
+:philip:
+APP  16:35
+@philip just synced emrap-fire-daemon at 2022-05-05 16:35:28
+:isa-mashed-potato:
+APP  11:58
+@isagrant just synced silverorange at 2022-05-06 11:58:07
+:clara:
+APP  13:32
+@clara just synced emrap-corependium-server at 2022-05-09 13:32:25
+:clara:
+APP  13:48
+@clara just synced emrap-corependium-client at 2022-05-09 13:48:22
+:micah:
+APP  11:06
+@micah just synced course-host at 2022-05-10 11:06:47
+:camila:
+APP  12:34
+@camila just synced emrap-corependium-server at 2022-05-11 12:34:23
+:micah:
+APP  15:10
+@micah just synced course-host at 2022-05-11 15:10:23
+:kendra:
+APP  15:16
+@kendra just synced emrap at 2022-05-11 15:16:54
+:micah:
+APP  17:03
+@micah just synced course-host at 2022-05-12 17:03:25
+:nick:
+APP  10:24
+@nick just synced emrap at 2022-05-13 10:23:58
+:kendra:
+APP  17:33
+@kendra just synced emrap at 2022-05-17 17:33:31
+:isa-mashed-potato:
+APP  16:16
+@isagrant just synced starmaker at 2022-05-19 16:16:15
+:cornelius:
+APP  11:37
+@cornelius just synced emrap-corependium-server at 2022-05-26 11:37:53
+11:41
+@cornelius just synced emrap-corependium-client at 2022-05-26 11:41:44
+:micah:
+APP  16:34
+@micah just synced course-host at 2022-05-26 16:34:52
+:isa-mashed-potato:
+APP  18:05
+@isagrant just synced starmaker at 2022-05-26 18:05:01
+:micah:
+APP  11:49
+@micah just synced course-host at 2022-05-31 11:49:13
+:micah:
+APP  13:23
+@micah just synced course-host at 2022-06-02 13:23:05
+:micah:
+APP  19:40
+@micah just synced course-host at 2022-06-02 19:40:25
+:philip:
+APP  11:45
+@philip just synced emrap at 2022-06-06 11:45:36
+:clara:
+APP  14:09
+@clara just synced emrap-corependium-server at 2022-06-06 14:09:01
+:clara:
+APP  14:18
+@clara just synced emrap-corependium-client at 2022-06-06 14:18:49
+:kendra:
+APP  12:50
+@kendra just synced emrap at 2022-06-07 12:50:35
+:micah:
+APP  19:05
+@micah just synced course-host at 2022-06-09 19:05:52
+:philip:
+APP  12:02
+@philip just synced emrap-corependium-client at 2022-06-10 12:02:44
+:camila:
+APP  13:45
+@camila just synced emrap at 2022-06-13 13:45:41
+:nick:
+APP  15:26
+@nick just synced emrap at 2022-06-13 15:26:15
+:camila:
+APP  17:28
+@camila just synced emrap at 2022-06-13 17:28:56
+:camila:
+APP  19:18
+@camila just synced emrap at 2022-06-13 19:18:13
+:clara:
+APP  11:21
+@clara just synced emrap-corependium-server at 2022-06-15 11:21:01
+:clara:
+APP  11:27
+@clara just synced emrap-corependium-client at 2022-06-15 11:27:50
+:nick:
+APP  10:14
+@nick just synced emrap at 2022-06-16 10:14:53
+:clara:
+APP  16:21
+@clara just synced emrap-corependium-server at 2022-06-16 16:21:50
+16:25
+@clara just synced emrap-corependium-client at 2022-06-16 16:25:32
+:nick:
+APP  09:34
+@nick just synced emrap at 2022-06-20 09:34:19
+APP  17:48
+CFSC - api.cf-fb.org deployed at 2022-06-20 20:48:31
+:steven:
+APP  08:45
+@steven just synced silverorange-blog at 2022-06-21 08:45:14
+:micah:
+APP  15:58
+@micah just synced course-host at 2022-06-21 15:58:35
+:mike:
+APP  16:40
+@gauthierm just synced silverorange at 2022-06-22 16:40:08
+:steven:
+APP  17:59
+@steven just synced silverorange-blog at 2022-06-22 17:59:23
+:micah:
+APP  13:03
+@micah just synced course-host at 2022-06-24 13:03:32
+:philip:
+APP  10:17
+@philip just synced emrap-fire-daemon at 2022-06-27 10:17:07
+:micah:
+APP  16:36
+@micah just synced course-host at 2022-06-30 16:36:17
+:isa-mashed-potato:
+APP  16:26
+@isagrant just synced starmaker at 2022-07-09 16:26:26
+:nick:
+APP  10:16
+@nick just synced emrap-fire-daemon at 2022-07-11 10:16:54
+:philip:
+APP  14:54
+@philip just synced emrap at 2022-07-13 14:54:50
+:clara:
+APP  09:34
+@clara just synced emrap-corependium-server at 2022-07-14 09:34:23
+09:37
+@clara just synced emrap-corependium-client at 2022-07-14 09:37:58
+:nick:
+APP  11:16
+@nick just synced emrap at 2022-07-14 11:16:29
+:steven:
+APP  11:57
+@steven just synced silverorange at 2022-07-14 11:57:02
+:mike:
+APP  12:01
+@gauthierm just synced emrap at 2022-07-14 12:01:03
+:kendra:
+APP  13:36
+@kendra just synced emrap at 2022-07-18 13:36:44
+:clara:
+APP  10:18
+@clara just synced emrap-corependium-server at 2022-07-19 10:18:25
+:clara:
+APP  10:28
+@clara just synced emrap-corependium-client at 2022-07-19 10:28:44
+:clara:
+APP  16:41
+@clara just synced emrap-corependium-server at 2022-07-19 16:41:48
+:clara:
+APP  11:10
+@clara just synced emrap-corependium-server at 2022-07-25 11:10:15
+:clara:
+APP  11:26
+@clara just synced emrap-corependium-client at 2022-07-25 11:26:05
+:clara:
+APP  11:50
+@clara just synced emrap-corependium-client at 2022-07-25 11:50:48
+:philip:
+APP  11:02
+@philip just synced emrap-corependium-client at 2022-08-01 11:02:42
+:philip:
+APP  11:17
+@philip just synced emrap-corependium-client at 2022-08-01 11:17:21
+:philip:
+APP  13:28
+@philip just synced emrap-corependium-client at 2022-08-01 13:28:31
+:micah:
+APP  11:30
+@micah just synced course-host at 2022-08-02 11:30:01
+:micah:
+APP  11:52
+@micah just synced course-host at 2022-08-02 11:52:39
+:philip:
+APP  14:04
+@philip just synced emrap-corependium-client at 2022-08-02 14:04:56
+:mike:
+APP  16:33
+@gauthierm just synced emrap-corependium-client at 2022-08-02 16:33:40
+:philip:
+APP  13:46
+@philip just synced emrap at 2022-08-03 13:46:34
+:philip:
+APP  13:56
+@philip just synced emrap-corependium-client at 2022-08-03 13:56:01
+14:00
+@philip just synced emrap-go-client at 2022-08-03 14:00:26
+:camila:
+APP  15:20
+@camila just synced emrap at 2022-08-03 15:20:19
+:camila:
+APP  17:18
+@camila just synced emrap at 2022-08-04 17:18:39
+:charles:
+APP  13:43
+@charles just synced emrap-fire-daemon at 2022-08-09 13:43:36
+:clara:
+APP  10:17
+@clara just synced emrap-corependium-server at 2022-08-15 10:17:45
+:clara:
+APP  10:23
+@clara just synced emrap-corependium-client at 2022-08-15 10:23:21
+:micah:
+APP  11:43
+@micah just synced course-host at 2022-08-15 11:43:17
+:philip:
+APP  14:34
+@philip just synced emrap at 2022-08-15 14:34:14
+:micah:
+APP  15:15
+@micah just synced course-host at 2022-08-15 15:15:54
+:nick:
+APP  15:42
+@nick just synced emrap at 2022-08-15 15:42:25
+:nick:
+APP  16:25
+@nick just synced emrap at 2022-08-15 16:25:20
+:nick:
+APP  17:14
+@nick just synced emrap at 2022-08-15 17:14:10
+:nick:
+APP  15:16
+@nick just synced emrap at 2022-08-16 15:15:59
+:clara:
+APP  15:35
+@clara just synced emrap-corependium-client at 2022-08-16 15:35:38
+:clara:
+APP  15:51
+@clara just synced emrap-corependium-server at 2022-08-16 15:51:12
+:nick:
+APP  16:08
+@nick just synced emrap at 2022-08-16 16:08:02
+:steven:
+APP  13:09
+@steven just synced silverorange-blog at 2022-08-17 13:09:00
+:nick:
+APP  15:24
+@nick just synced emrap at 2022-08-17 15:24:17
+:steven:
+APP  16:35
+@steven just synced silverorange-blog at 2022-08-17 16:35:11
+:steven:
+APP  17:02
+@steven just synced silverorange-blog at 2022-08-17 17:02:09
+:nick:
+APP  09:41
+@nick just synced emrap at 2022-08-22 09:41:39
+:clara:
+APP  10:30
+@clara just synced emrap-corependium-server at 2022-08-22 10:30:31
+10:33
+@clara just synced emrap-corependium-client at 2022-08-22 10:33:51
+:nick:
+APP  14:22
+@nick just synced emrap at 2022-08-22 14:22:03
+:nick:
+APP  15:28
+@nick just synced emrap at 2022-08-22 15:28:17
+:nick:
+APP  12:57
+@nick just synced emrap at 2022-08-23 12:56:59
+:steven:
+APP  13:06
+@steven just synced course-host at 2022-08-23 13:06:01
+:philip:
+APP  13:33
+@philip just synced emrap-go-server at 2022-08-23 13:33:04
+:charles:
+APP  14:50
+@charles just synced emrap at 2022-08-23 14:50:31
+:kendra:
+APP  18:01
+@kendra just synced emrap at 2022-08-23 18:01:13
+:kendra:
+APP  18:17
+@kendra just synced emrap at 2022-08-23 18:17:59
+:micah:
+APP  15:00
+@micah just synced course-host at 2022-08-24 15:00:41
+:nick:
+APP  10:39
+@nick just synced emrap at 2022-08-25 10:39:48
+:nick:
+APP  11:22
+@nick just synced emrap at 2022-08-25 11:22:12
+:charles:
+APP  13:46
+@charles just synced emrap-search-tools at 2022-08-25 13:46:46
+:isa-mashed-potato:
+APP  18:05
+@isagrant just synced starmaker at 2022-08-25 18:05:37
+:philip:
+APP  09:57
+@philip just synced emrap-go-server at 2022-08-29 09:57:50
+:clara:
+APP  10:11
+@clara just synced emrap-corependium-server at 2022-08-29 10:11:28
+:clara:
+APP  10:16
+@clara just synced emrap-corependium-client at 2022-08-29 10:16:37
+:micah:
+APP  13:15
+@micah just synced course-host at 2022-08-29 13:15:03
+:clara:
+APP  13:17
+@clara just synced emrap-corependium-client at 2022-08-29 13:17:36
+:clara:
+APP  13:54
+@clara just synced emrap-corependium-client at 2022-08-29 13:54:29
+:micah:
+APP  13:58
+@micah just synced course-host at 2022-08-31 13:58:59
+:kendra:
+APP  14:36
+@kendra just synced emrap at 2022-08-31 14:36:42
+:mike:
+APP  15:44
+@gauthierm just synced starmaker at 2022-08-31 15:44:05
+:clara:
+APP  15:48
+@clara just synced emrap-corependium-client at 2022-08-31 15:48:45
+15:52
+@clara just synced emrap-corependium-server at 2022-08-31 15:52:45
+:mike:
+APP  16:01
+@gauthierm just synced starmaker at 2022-08-31 16:01:53
+:philip:
+APP  15:09
+@philip just synced emrap at 2022-09-01 15:09:04
+:mike:
+APP  15:24
+@gauthierm just synced starmaker at 2022-09-01 15:24:26
+:nick:
+APP  15:38
+@nick just synced emrap at 2022-09-06 15:38:45
+:kendra:
+APP  13:16
+@kendra just synced emrap at 2022-09-07 13:16:48
+:nick:
+APP  10:13
+@nick just synced emrap at 2022-09-09 10:13:28
+:micah:
+APP  15:14
+@micah just synced course-host at 2022-09-12 15:14:19
+:isa-mashed-potato:
+APP  17:42
+@isagrant just synced starmaker at 2022-09-13 17:42:07
+:jayme:
+APP  19:56
+@jayme just synced starmaker at 2022-09-13 19:56:02
+:clara:
+APP  09:52
+@clara just synced emrap-corependium-server at 2022-09-15 09:52:23
+09:55
+@clara just synced emrap-corependium-client at 2022-09-15 09:55:23
+:clara:
+APP  09:45
+@clara just synced emrap-corependium-client at 2022-09-20 09:45:42
+:clara:
+APP  09:58
+@clara just synced emrap-corependium-server at 2022-09-20 09:58:00
+:clara:
+APP  12:37
+@clara just synced emrap-corependium-client at 2022-09-20 12:37:32
+:steven:
+APP  14:44
+@steven just synced silverorange at 2022-09-21 14:44:20
+:charles:
+APP  15:44
+@charles just synced emrap at 2022-09-21 15:44:21
+:mike:
+APP  16:05
+@gauthierm just synced silverorange at 2022-09-21 16:05:57
+:nick:
+APP  10:20
+@nick just synced emrap at 2022-09-22 10:20:30
+:nick:
+APP  13:37
+@nick just synced emrap at 2022-09-22 13:37:12
+:nick:
+APP  14:58
+@nick just synced emrap at 2022-09-22 14:58:39
+:nick:
+APP  16:33
+@nick just synced emrap at 2022-09-22 16:33:04
+:charles:
+APP  17:11
+@charles just synced emrap at 2022-09-22 17:11:46
+:isa-mashed-potato:
+APP  19:43
+@isagrant just synced starmaker at 2022-09-22 19:43:59
+:nick:
+APP  17:05
+@nick just synced emrap at 2022-09-23 17:05:25
+:charles:
+APP  09:06
+@charles just synced emrap at 2022-09-26 09:06:25
+:micah:
+APP  12:55
+@micah just synced course-host at 2022-09-26 12:55:07
+:micah:
+APP  18:06
+@micah just synced course-host at 2022-09-26 18:06:05
+:charles:
+APP  13:36
+@charles just synced emrap at 2022-09-27 13:36:21
+APP  10:34
+CFSC - api.cf-fb.org deployed at 2022-09-28 13:34:46
+:slice:
+APP  11:21
+@someone just synced CFSC - www.connecting-families.ca at 2022-09-28 10:21:51
+11:23
+@someone just synced CFSC - admin.cf-fb.org at 2022-09-28 10:23:29
+:nick:
+APP  12:59
+@nick just synced emrap at 2022-09-29 12:59:09
+:nick:
+APP  13:31
+@nick just synced emrap at 2022-09-29 13:31:13
+:charles:
+APP  11:26
+@charles just synced emrap at 2022-10-03 11:26:26
+APP  11:32
+CFSC - api.cf-fb.org deployed at 2022-10-03 14:32:39
+:charles:
+APP  12:20
+@charles just synced emrap-corependium-client at 2022-10-03 12:20:19
+:mike:
+APP  16:53
+@gauthierm just synced emrap at 2022-10-03 16:53:18
+:camila:
+APP  19:00
+@camila just synced emrap at 2022-10-03 19:00:50
+:charles:
+APP  09:36
+@charles just synced emrap-search-tools at 2022-10-04 09:36:49
+:charles:
+APP  11:01
+@charles just synced emrap-corependium-client at 2022-10-04 11:01:13
+:clara:
+APP  12:52
+@clara just synced emrap-corependium-client at 2022-10-04 12:52:13
+:clara:
+APP  13:06
+@clara just synced emrap-corependium-server at 2022-10-04 13:06:54
+:charles:
+APP  13:12
+@charles just synced emrap at 2022-10-04 13:12:12
+:charles:
+APP  13:42
+@charles just synced emrap at 2022-10-04 13:42:35
+:kendra:
+APP  14:46
+@kendra just synced emrap at 2022-10-04 14:46:32
+:kendra:
+APP  17:25
+@kendra just synced emrap at 2022-10-04 17:25:43
+:micah:
+APP  17:33
+@micah just synced course-host at 2022-10-04 17:33:36
+:philip:
+APP  11:14
+@philip just synced emrap-fire-daemon at 2022-10-05 11:14:03
+:micah:
+APP  11:37
+@micah just synced course-host at 2022-10-05 11:37:43
+:charles:
+APP  12:17
+@charles just synced emrap at 2022-10-05 12:17:28
+:charles:
+APP  14:43
+@charles just synced emrap at 2022-10-05 14:43:25
+:charles:
+APP  16:36
+@charles just synced emrap at 2022-10-05 16:36:37
+:charles:
+APP  09:42
+@charles just synced emrap at 2022-10-06 09:42:07
+:charles:
+APP  15:49
+@charles just synced emrap at 2022-10-06 15:49:52
+:steven:
+APP  16:59
+@steven just synced course-host at 2022-10-06 16:59:44
+:nick:
+APP  09:18
+@nick just synced emrap at 2022-10-07 09:18:42
+:charles:
+APP  09:30
+@charles just synced emrap at 2022-10-11 09:30:43
+:nick:
+APP  11:16
+@nick just synced emrap at 2022-10-11 11:16:20
+:isa-mashed-potato:
+APP  15:33
+@isagrant just synced starmaker at 2022-10-11 15:33:10
+:isa-mashed-potato:
+APP  17:06
+@isagrant just synced starmaker at 2022-10-11 17:06:33
+:philip:
+APP  17:19
+@philip just synced emrap-fire-daemon at 2022-10-11 17:19:28
+:charles:
+APP  12:01
+@charles just synced emrap at 2022-10-12 12:01:14
+:micah:
+APP  12:39
+@micah just synced course-host at 2022-10-12 12:39:45
+:micah:
+APP  12:45
+@micah just synced course-host at 2022-10-12 12:45:12
+:micah:
+APP  13:15
+@micah just synced course-host at 2022-10-12 13:15:20
+:micah:
+APP  14:44
+@micah just synced course-host at 2022-10-12 14:44:48
+:micah:
+APP  17:22
+@micah just synced course-host at 2022-10-12 17:22:22
+:micah:
+APP  18:00
+@micah just synced course-host at 2022-10-12 18:00:08
+:clara:
+APP  12:56
+@clara just synced emrap-corependium-server at 2022-10-13 12:56:08
+12:59
+@clara just synced emrap-corependium-client at 2022-10-13 12:59:19
+:philip:
+APP  13:26
+@philip just synced emrap-fire-daemon at 2022-10-13 13:26:41
+:clara:
+APP  10:15
+@clara just synced emrap-corependium-client at 2022-10-17 10:15:36
+10:19
+@clara just synced emrap-corependium-server at 2022-10-17 10:19:46
+:micah:
+APP  11:19
+@micah just synced course-host at 2022-10-18 11:19:57
+:clara:
+APP  13:52
+@clara just synced emrap-corependium-server at 2022-10-18 13:52:00
+:nick:
+APP  11:05
+@nick just synced emrap at 2022-10-19 11:05:21
+:charles:
+APP  13:45
+@charles just synced emrap at 2022-10-19 13:45:28
+:nick:
+APP  14:56
+@nick just synced emrap at 2022-10-19 14:56:31
+:steven:
+APP  17:16
+@steven just synced course-host at 2022-10-19 17:16:38
+:clara:
+APP  10:24
+@clara just synced emrap-corependium-server at 2022-10-20 10:24:15
+:philip:
+APP  15:09
+@philip just synced emrap-fire-daemon at 2022-10-20 15:09:10
+:clara:
+APP  10:57
+@clara just synced emrap-corependium-server at 2022-10-24 10:57:47
+:philip:
+APP  14:53
+@philip just synced emrap at 2022-10-24 14:53:12
+:micah:
+APP  16:09
+@micah just synced course-host at 2022-10-24 16:09:28
+:nick:
+APP  09:16
+@nick just synced emrap at 2022-10-25 09:16:38
+:camila:
+APP  17:19
+@camila just synced emrap at 2022-10-25 17:19:47
+:nick:
+APP  14:04
+@nick just synced emrap at 2022-10-27 14:04:46
+:micah:
+APP  18:03
+@micah just synced course-host at 2022-10-28 18:03:47
+:nick:
+APP  11:26
+@nick just synced emrap at 2022-11-01 11:26:29
+:steven:
+APP  14:40
+@steven just synced silverorange-blog at 2022-11-01 14:40:45
+:philip:
+APP  14:41
+@philip just synced emrap-fire-daemon at 2022-11-01 14:41:52
+:micah:
+APP  17:25
+@micah just synced course-host at 2022-11-01 17:25:30
+:nick:
+APP  12:07
+@nick just synced emrap at 2022-11-02 12:07:05
+:nick:
+APP  15:24
+@nick just synced emrap at 2022-11-02 15:24:08
+:nick:
+APP  10:50
+@nick just synced emrap at 2022-11-03 10:50:03
+:nick:
+APP  15:22
+@nick just synced emrap at 2022-11-03 15:22:45
+:philip:
+APP  11:10
+@philip just synced emrap-fire-daemon at 2022-11-04 11:10:08
+:nick:
+APP  11:36
+@nick just synced emrap at 2022-11-07 11:36:23
+:ian:
+APP  14:50
+@ian just synced emrap-corependium-server at 2022-11-08 14:50:07
+:ian:
+APP  14:59
+@ian just synced emrap-corependium-client at 2022-11-08 14:59:00
+:isa-mashed-potato:
+APP  17:14
+@isagrant just synced starmaker at 2022-11-08 17:14:41
+:philip:
+APP  12:05
+@philip just synced emrap-fire-daemon at 2022-11-09 12:05:09
+:nick:
+APP  15:02
+@nick just synced emrap at 2022-11-09 15:02:36
+:micah:
+APP  16:27
+@micah just synced course-host at 2022-11-09 16:27:21
+:mike:
+APP  17:04
+@gauthierm just synced emrap-fire-daemon at 2022-11-10 17:04:32
+:clara:
+APP  12:07
+@clara just synced emrap-corependium-client at 2022-11-14 12:07:00
+:nick:
+APP  13:40
+@nick just synced emrap-fire-daemon at 2022-11-14 13:40:08
+:mike:
+APP  12:21
+@gauthierm just synced emrap at 2022-11-15 12:21:22
+:jacob:
+APP  11:59
+@jake just synced emrap-search-tools at 2022-11-16 11:59:46
+:ian:
+APP  12:30
+@ian just synced emrap-corependium-server at 2022-11-16 12:30:49
+:ian:
+APP  12:36
+@ian just synced emrap-corependium-client at 2022-11-16 12:36:52
+:kendra:
+APP  14:48
+@kendra just synced emrap at 2022-11-16 14:48:51
+:philip:
+APP  10:35
+@philip just synced emrap-fire-daemon at 2022-11-17 10:35:49
+:micah:
+APP  16:46
+@micah just synced course-host at 2022-11-17 16:46:20
+:isa-mashed-potato:
+APP  18:03
+@isagrant just synced starmaker at 2022-11-17 18:03:45
+:isa-mashed-potato:
+APP  18:41
+@isagrant just synced starmaker at 2022-11-17 18:41:25
+:isa-mashed-potato:
+APP  22:05
+@isagrant just synced starmaker at 2022-11-17 22:05:51

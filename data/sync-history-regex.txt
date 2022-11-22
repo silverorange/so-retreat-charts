@@ -1,5 +1,11 @@
 In VS Code regex search and replace:
 
+```
+:[a-z_-]+:
+APP  [0-9:]+
+
+```
+
 ^@([a-z0-9-]+) just synced ([a-z0-9-]+) at (.*)$
 "$1","$2","$3"
 

@@ -29,10 +29,10 @@ export const pullRequests: DataSet = {
 export const siteReleases: DataSet = {
   domain: [0, 900],
   ticks: 8,
-  columns: ['2015', '2016', '2017', '2018', '2019', '2020', '2021—'],
+  columns: ['2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022—'],
   series: ['years'],
   data: {
-    years: [244, 516, 753, 659, 828, 850, 793],
+    years: [244, 516, 753, 659, 828, 850, 836, 462],
   },
 };
 

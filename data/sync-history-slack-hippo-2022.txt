@@ -1,0 +1,148 @@
+:hippoed:
+APP  14:27
+@brittany just synced uas-jsonapi-server at 2022-01-04 14:27:24
+14:29
+@brittany just synced video-platform-client at 2022-01-04 14:29:10
+:hippoed:
+APP  11:04
+@brittany just synced hippo at 2022-01-06 11:04:48
+:hippoed:
+APP  13:16
+@brandon just synced uas-jsonapi-server at 2022-01-06 13:16:27
+:hippoed:
+APP  13:24
+@brandon just synced video-platform-client at 2022-01-06 13:24:04
+  13:27
+Sometimes I like to challenge myself to see how close I can get those two releases together :nerd_face: (edited) 
+11 months agoView thread
+:kendra:
+APP  17:47
+@kendra just synced hippo at 2022-01-06 17:47:21
+:kendra:
+APP  13:26
+@kendra just synced hippo at 2022-01-07 13:26:09
+:mike:
+APP  11:52
+@gauthierm just synced pcrap at 2022-01-10 11:52:34
+:mike:
+APP  12:37
+@gauthierm just synced essentials at 2022-01-10 12:37:45
+:kendra:
+APP  13:01
+@kendra just synced hippo at 2022-01-10 13:01:51
+:mike:
+APP  14:08
+@gauthierm just synced ercast at 2022-01-10 14:08:06
+14:09
+@gauthierm just synced ucrap at 2022-01-10 14:09:42
+:mike:
+APP  14:41
+@gauthierm just synced pedsrap at 2022-01-10 14:41:38
+:mike:
+APP  14:46
+@gauthierm just synced papodcast at 2022-01-11 14:46:15
+APP  15:00
+uas-jsonapi-server deployed at 2022-01-12 19:00:32
+APP  15:28
+uas-jsonapi-server deployed at 2022-01-12 19:28:32
+APP  15:45
+uas-jsonapi-server deployed at 2022-01-12 19:45:01
+APP  16:25
+uas-jsonapi-server deployed at 2022-01-12 20:25:07
+APP  16:30
+uas-jsonapi-server deployed at 2022-01-12 20:30:51
+:kendra:
+APP  19:07
+@kendra just synced hippo-pay-admin at 2022-01-12 19:07:08
+:kendra:
+APP  13:39
+@kendra just synced video-platform-client at 2022-01-13 13:39:27
+13:43
+@kendra just synced uas-jsonapi-server at 2022-01-13 13:43:25
+:hippoed:
+APP  13:38
+@mia just synced uas-jsonapi-server at 2022-01-21 13:38:41
+:hippoed:
+APP  13:59
+@mia just synced video-platform-client at 2022-01-21 13:59:43
+:hippoed:
+APP  15:06
+@mia just synced hippo at 2022-01-21 15:06:50
+:hippoed:
+APP  22:02
+@mia just synced hippo-pay-admin at 2022-01-23 22:02:31
+:hippoed:
+APP  13:51
+@richard just synced uas-jsonapi-server at 2022-01-27 13:51:52
+13:56
+@richard just synced video-platform-client at 2022-01-27 13:56:20
+13:59
+@richard just synced hippo-pay-admin at 2022-01-27 13:59:44
+:hippoed:
+APP  17:42
+@brittany just synced hippo-pay-admin at 2022-01-27 17:42:36
+APP  15:51
+uas-jsonapi-server deployed at 2022-02-02 19:51:56
+APP  16:59
+uas-jsonapi-server deployed at 2022-02-02 20:59:33
+:kirill:
+APP  17:30
+@kirill just synced uas-jsonapi-server at 2022-02-02 17:30:37
+:kirill:
+APP  17:47
+@kirill just synced firebase-sync-service at 2022-02-02 17:47:55
+:kirill:
+APP  18:11
+@kirill just synced video-platform-client at 2022-02-02 18:11:44
+:hippoed:
+APP  18:37
+@brittany just synced uas-jsonapi-server at 2022-02-02 18:37:02
+18:39
+@brittany just synced hippo-pay-admin at 2022-02-02 18:39:58
+:hippoed:
+APP  13:32
+@sara just synced hippo at 2022-02-04 13:32:48
+APP  18:22
+uas-jsonapi-server deployed at 2022-02-10 22:22:11
+:hippoed:
+APP  14:48
+@brandon just synced video-platform-client at 2022-02-14 14:48:58
+14:49
+@brandon just synced firebase-sync-service at 2022-02-14 14:49:33
+14:50
+@brandon just synced uas-jsonapi-server at 2022-02-14 14:50:04
+:kendra:
+APP  18:42
+@kendra just synced essentials at 2022-02-14 18:42:34
+:kendra:
+APP  19:42
+@kendra just synced essentials at 2022-02-15 19:42:42
+:hippoed:
+APP  12:39
+@brandon just synced hippo-pay-admin at 2022-02-16 12:39:16
+12:39
+@brandon just synced video-platform-client at 2022-02-16 12:39:25
+12:42
+@brandon just synced uas-jsonapi-server at 2022-02-16 12:42:16
+:hippoed:
+APP  12:54
+@sara just synced qbank-react at 2022-02-16 12:54:43
+:hippoed:
+APP  13:01
+@sara just synced hippo at 2022-02-16 13:01:40
+:hippoed:
+APP  13:09
+@sara just synced hippo-ed at 2022-02-16 13:09:09
+:hippoed:
+APP  13:09
+@mia just synced pedsrap at 2022-02-16 13:09:25
+13:11
+@mia just synced pcrap at 2022-02-16 13:11:23
+13:14
+@mia just synced essentials at 2022-02-16 13:14:11
+:hippoed:
+APP  17:18
+@brandon just synced hippo-pay-admin at 2022-02-16 17:18:39
+:kendra:
+APP  18:01
+@kendra just synced essentials at 2022-02-16 18:01:04
