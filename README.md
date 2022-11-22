@@ -32,6 +32,13 @@ using grep to remove non-release messages and fix missing user-associations.
 In future, a cleaner approach may be using a Slack data export for a specific
 year. There does not seem to be an option to export a single channel.
 
+Newer projects use GitHub actions to deploy on merge:
+
+- air-institutes
+- es-translation-unit
+- emrap-go-client
+- emrap-go-server
+
 ### Pull Request Data
 
 This data comes from a series of GitHub GraphQL queries. Because the data comes
