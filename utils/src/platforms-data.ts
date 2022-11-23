@@ -33,6 +33,7 @@ const platformMap = {
   gulp: 'Node',
   ansible: 'Other',
   sqlite: 'Other',
+  terraform: 'Other',
 };
 
 const languageMap = {
@@ -47,6 +48,7 @@ const languageMap = {
   swift: 'Swift',
   java: 'Java',
   html: 'Other',
+  hcl: 'Other',
 };
 
 interface Output {
@@ -62,7 +64,7 @@ interface Output {
 
 const output: Output = {};
 
-['2017', '2018', '2019', '2020', '2021'].forEach((year) => {
+['2017', '2018', '2019', '2020', '2021', '2022'].forEach((year) => {
   output[year] = {
     languages: {},
     platforms: {},
@@ -71,8 +73,8 @@ const output: Output = {};
   records
     .filter(
       (record) =>
-        Number(record.start.substr(0, 4)) <= Number(year) &&
-        (record.end === '' || Number(record.end.substr(0, 4)) > Number(year))
+        Number(record.start.substring(0, 4)) <= Number(year) &&
+        (record.end === '' || Number(record.end.substring(0, 4)) > Number(year))
     )
     .forEach((record) => {
       const platform = platformMap[record.platform];
