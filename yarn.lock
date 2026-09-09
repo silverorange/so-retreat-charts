@@ -4381,10 +4381,10 @@ csstype@^3.0.2:
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.0.5.tgz#7fdec6a28a67ae18647c51668a9ff95bb2fa7bb8"
   integrity sha512-uVDi8LpBUKQj6sdxNaTetL6FpeCqTjOvAQuQUa/qAqq8oOd4ivkbhgnqayl0dnPal8Tb/yB1tF+gOvCBiicaiQ==
 
-csv-parse@^5.0.3:
-  version "5.0.3"
-  resolved "https://registry.yarnpkg.com/csv-parse/-/csv-parse-5.0.3.tgz#eeb0b1ac8bf2970f703176c8f54d313325b6d2e8"
-  integrity sha512-86R0WU4aEEF/1fPZKxP3NmDAYC4Ce1t9iFgKPZogG5Lvk4m9WZQkCEsDANktG29jppejwclTtEOzubN2ieCJqw==
+csv-parse@^7.0.2:
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/csv-parse/-/csv-parse-7.0.2.tgz#76ff913d5b07d56170e071ebc788f51a21e4b17f"
+  integrity sha512-uKZghv9UmPkMVLYy//KZ9HFAIJsl7wkhoEdIL0+rhuSY9pZQlhaeGEDPIe+/w7eh81MOql8Q/9+inAGWG6ZHYA==
 
 cyclist@^1.0.1:
   version "1.0.1"
